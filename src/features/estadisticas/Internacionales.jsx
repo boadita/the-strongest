@@ -72,7 +72,7 @@ const Internacionales = () => {
                 </button>
             </div>
             {/* LISTA DE PARTIDOS */}
-            <div className="grid grid-cols-1 md:grid-cols-[280px_1fr] gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-[280px_1fr] gap-6">
                 <aside className="bg-yellow-100 rounded-lg shadow p-4 space-y-4">
                     <img
                         src={`/internacionales/${competenciaSeleccionada}.png`}
