@@ -1,0 +1,210 @@
+    {
+        "barras": [
+            {
+                "id": 1,
+                "nombre": "Chupa Riveros",
+                "ciudad": "La Paz",
+                "descripcion": "El hincha No 1 del club y símbolo del club, caballero y hombre de futbol recordado por su grito \"Kalatakaya Huarikasaya\"",
+                "imagen": "chupa-riveros.jpg"
+            },
+            {
+                "id": 2,
+                "nombre": "Tonguito",
+                "ciudad": "La Paz",
+                "descripcion": "Tonguito fue uno de los primeros hinchas de The Strongest, de apellido Cordero. Se caracterizaba por vestir un sombrero cilíndrico, razón que le pusieron el apodo",
+                "imagen": "tonguito.jpg"
+            },
+            {
+                "id": 3,
+                "nombre": "La Murga Stronguista",
+                "ciudad": "La Paz",
+                "descripcion": "La primera barra organizada de The Strongest, un grupo bullanguero que vestía de forma estrafalaria y llevaba instrumentos de banda",
+                "imagen": "la-murga-stronguista.jpg"
+            },
+            {
+                "id": 4,
+                "nombre": "La Bullanguera",
+                "ciudad": "La Paz",
+                "descripcion": "Entusiastas animadores como Gastón Velasco, el \"Negro\" Fernández y el \"Rocoto\" Márquez alentaban en las tribunas con cotillones",
+                "imagen": "la-bullanguera.jpg"
+            },
+            {
+                "id": 5,
+                "nombre": "Barra de las filiales",
+                "ciudad": "La Paz",
+                "descripcion": "La primera barra de la Recta General en los 70s alentaban con banderas, cánticos e instrumentos viajando al interior y a países como Argentina, Uruguay y Chile",
+                "imagen": "barra-de-las-filiales.jpg"
+            },
+            {
+                "id": 6,
+                "nombre": "Divinos del Sur",
+                "ciudad": "La Paz",
+                "descripcion": "Primera barra de la Curva Sur eran acompañados de artistas folklóricos",
+                "imagen": "divinos-del-sur.jpg"
+            },
+            {
+                "id": 7,
+                "nombre": "La Gloriosa Ultra Sur",
+                "ciudad": "La Paz",
+                "descripcion": "La barra más representativa del club, presente en cada partido alentando sin descanso",
+                "imagen": "la-gloriosa-ultra.sur.jpg"
+            },
+            {
+                "id": 8,
+                "nombre": "Garra Central",
+                "ciudad": "La Paz",
+                "descripcion": "Una de las barras más antiguas vigentes que alienta en cada partido desde la Recta General",
+                "imagen": "garra-central.jpg"
+            },
+            {
+                "id": 9,
+                "nombre": "Recta Inmortal",
+                "ciudad": "La Paz",
+                "descripcion": "La barra que desde la Recta General alienta al equipo con platillos, bombos y cánticos",
+                "imagen": "recta-inmortal.jpg"
+            },
+            {
+                "id": 10,
+                "nombre": "Rugido Atigrado",
+                "ciudad": "La Paz",
+                "descripcion": "Desde preferencia apoyando al club The Strongest en cada partido",
+                "imagen": "rugido-atigrado.jpg"
+            },
+            {
+                "id": 11,
+                "nombre": "Las Mas Fuertes",
+                "ciudad": "La Paz",
+                "descripcion": "Barra de mujeres atigradas alentando al club desde la parte superior de la Curva Sur",
+                "imagen": "las-mas-fuertes.jpg"
+            }
+        ],
+        "filialesLocales": [
+            {
+                "id": 1,
+                "nombre": "Disturbio SVR",
+                "ciudad": "La Paz",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Filial de la Ultra Sur presnte en cada partido y con filiales en diferentes ciudades del país",
+                "imagen": "disturbio-svr.jpg"
+            },
+            {
+                "id": 2,
+                "nombre": "Los de Adentro",
+                "ciudad": "La Paz",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Barra filial de la Gloriosa Ultra Sur que acompaña al equipo en cada partido de local y viajera cuando juega en el interior y exterior del país",
+                "imagen": "los-de-adentro.jpg"
+            },
+            {
+                "id": 3,
+                "nombre": "La Banda de la Tapa",
+                "ciudad": "La Paz",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Filial local bullanguera que acompaña a la Ultra Sur en cada partido",
+                "imagen": "la-banda-de-la-tapa.jpg"
+            }
+        ],
+        "filialesInterior": [
+            {
+                "id": 1,
+                "nombre": "Tigres Endiabla2",
+                "ciudad": "Oruro",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "La capital del folklore cuenta con apoyo stronguista",
+                "imagen": "tigres-endiabla2.jpg"
+            },
+            {
+                "id": 2,
+                "nombre": "Tigres de Altura",
+                "ciudad": "Potosí",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "La Villa Imperial es atigrada con grandes recuerdos del club en esta ciudad",
+                "imagen": "tigres-de-altura.jpg"
+            },
+            {
+                "id": 3,
+                "nombre": "Locos x el Tigre",
+                "ciudad": "Sucre",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "La segunda ciudad más stronguista del país con locos por la pasión",
+                "imagen": "locos-x-el-tigre.jpg"
+            },
+            {
+                "id": 4,
+                "nombre": "Tigres de la Llajta",
+                "ciudad": "Cochabamba",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "La llajta cuna de grandes jugadores nacionales cuenta con barra atigrada",
+                "imagen": "tigres-de-la-llajta.jpg"
+            },
+            {
+                "id": 5,
+                "nombre": "Cruceñidad Atigrada",
+                "ciudad": "Santa Cruz",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Residentes paceños en Santa Cruz siempre apoyando al aurinegro en el calor de las tribunas",
+                "imagen": "crucenhidad-atigrada.jpg"
+            },
+            {
+                "id": 6,
+                "nombre": "Tigres del Guadalquivir",
+                "ciudad": "Tarija",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "El sur de Bolivia cuenta con hinchas stronguistas de corazón",
+                "imagen": "tigres-del-guadalquivir.jpg"
+            },
+            {
+                "id": 7,
+                "nombre": "Tigres del Chaco",
+                "ciudad": "Yacuiba",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "El chaco sede de Cañada Strongest con presencia aurinegra",
+                "imagen": "tigres-del-chaco.jpg"
+            },
+            {
+                "id": 8,
+                "nombre": "Tigres del Mamoré",
+                "ciudad": "Trinidad",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Tigres benianos que apoyan al club cuando juega en el Beni",
+                "imagen": "tigres-del-mamore.jpg"
+            },
+            {
+                "id": 9,
+                "nombre": "Garra Pandina",
+                "ciudad": "Cobija",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "El norte de Bolivia con la presencia de hinchas atigrados",
+                "imagen": "garra-pandina.jpg"
+            }
+        ],
+        "filialesInternacionales": [
+            {
+                "id": 1,
+                "nombre": "Ultra Sur Argentina",
+                "ciudad": "Buenos Aires",
+                "pais": "Argentina",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Argentina cuenta con una gran cantidad de residentes bolivianos y no faltan los hinchas atigrados",
+                "imagen": "ultra-sur-argentina.jpg"
+            },
+            {
+                "id": 2,
+                "nombre": "Ultra Sur Brasil",
+                "ciudad": "Sao Paulo",
+                "pais": "Brasil",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "Bolivianos que radican en Brasil apoyan a sus clubes y entre ellos The Strongest",
+                "imagen": "ultra-sur-brasil.jpg"
+            },
+            {
+                "id": 3,
+                "nombre": "Ultra Sur NY",
+                "ciudad": "New York",
+                "pais": "USA",
+                "barraMadre": "La Gloriosa Ultra Sur",
+                "descripcion": "USA se siente gualdinegro con los bolivianos en New York y otras ciudades",
+                "imagen": "ultra-sur-ny.jpg"
+            }
+        ]
+    }

@@ -1,0 +1,44 @@
+[
+  {
+    "Año":2020,
+    "Liga":"Subcampeón",
+    "Copa":"No hubo",
+    "Torneo Internacional":"Libertadores Fase previa"
+  },
+  {
+    "Año":2021,
+    "Liga":"Tercero",
+    "Copa":"No hubo",
+    "Torneo Internacional":"Libertadores Fase de grupos"
+  },
+  {
+    "Año":2022,
+    "Liga":"Subcampeón",
+    "Copa":"No hubo",
+    "Torneo Internacional":"Libertadores Fase de grupos, Sudamericana 1° Fase"
+  },
+  {
+    "Año":2023,
+    "Liga":"Campeón",
+    "Copa":"Cuartos de final",
+    "Torneo Internacional":"Libertadores Fase de grupos"
+  },
+  {
+    "Año":2024,
+    "Liga":"Subcampeón",
+    "Copa":"Semifinales",
+    "Torneo Internacional":"Libertadores Octavos de final"
+  },
+  {
+    "Año":2025,
+    "Liga":"Tercero",
+    "Copa":"Semifinales",
+    "Torneo Internacional":"Libertadores Fase previa"
+  },
+  {
+    "Año":2026,
+    "Liga":"---------",
+    "Copa":"-------",
+    "Torneo Internacional":"Libertadores Fase previa"
+  }
+]

@@ -1,0 +1,194 @@
+[
+  {
+    "id":"casiano-chavarria",
+    "nombre":"Casiano Chavarría",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":"1930-1931"
+  },
+  {
+    "id":"rafael-mendez",
+    "nombre":"Rafael Méndez",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":1930
+  },
+  {
+    "id":"constantino-noya",
+    "nombre":"Constantino Noya",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":1930
+  },
+  {
+    "id":"eduardo-reyes-ortiz",
+    "nombre":"Eduardo Reyes Ortiz",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":"1917-1935"
+  },
+  {
+    "id":"renato-sainz",
+    "nombre":"Renato Sainz",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":"1929-1935"
+  },
+  {
+    "id":"ulises-saucedo",
+    "nombre":"Ulises Saucedo",
+    "rol":"Entrenador",
+    "pais":"Bolivia",
+    "mundiales": ["Uruguay 1930"],
+    "etapaStrongest":"1929-1931"
+  },
+  {
+    "id":"vicente-arraya",
+    "nombre":"Vicente Arraya",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Brasil 1950"],
+    "etapaStrongest":"1940-1944,1945-1952"
+  },
+  {
+    "id":"alberto-acha",
+    "nombre":"Alberto Acha",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Brasil 1950"],
+    "etapaStrongest":"1944-1951"
+  },
+  {
+    "id":"leonardo-ferrel",
+    "nombre":"Leonardo Ferrel",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Brasil 1950"],
+    "etapaStrongest":"1946-1950"
+  },
+  {
+    "id":"humberto-saavedra",
+    "nombre":"Humberto Saavedra",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Brasil 1950"],
+    "etapaStrongest":1950
+  },
+  {
+    "id":"roberto-caparelli",
+    "nombre":"Roberto Caparelli",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["Brasil 1950"],
+    "etapaStrongest":"1946-1947, 1949-1951"
+  },
+  {
+    "id":"mario-kempes",
+    "nombre":"Mario Kempes",
+    "rol":"Entrenador",
+    "pais":"Argentina",
+    "mundiales": ["Argentina 1978"],
+    "etapaStrongest":1999
+  },
+  {
+    "id":"nestor-clausen",
+    "nombre":"Néstor Clausen",
+    "rol":"Entrenador",
+    "pais":"Argentina",
+    "mundiales": ["México 1986"],
+    "etapaStrongest":"2003-2004"
+  },
+  {
+    "id":"marcelo-torrico",
+    "nombre":"Marcelo Torrico",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1992-1997"
+  },
+  {
+    "id":"gustavo-quinteros",
+    "nombre":"Gustavo Quinteros",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1989-1991, 1993-1994"
+  },
+  {
+    "id":"oscar-sanchez",
+    "nombre":"Oscar Sánchez",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1991-1997, 2000-2001, 2007"
+  },
+  {
+    "id":"jhonny villarroel",
+    "nombre":"Jhonny Villarroel",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1990-1996"
+  },
+  {
+    "id":"alvaro-peña",
+    "nombre":"Álvaro Peña",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1991, 1999"
+  },
+  {
+    "id":"luis-hector-cristaldo",
+    "nombre":"Luis Héctor Cristaldo",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"2002-2006, 2011"
+  },
+  {
+    "id":"julio-cesar-baldivieso",
+    "nombre":"Julio Cesar Baldivieso",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":2006
+  },
+  {
+    "id":"mauricio-ramos",
+    "nombre":"Mauricio Ramos",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":1998
+  },
+  {
+    "id":"ramiro-castillo",
+    "nombre":"Ramiro Castillo",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1985-1987, 1992-1993, 1996"
+  },
+  {
+    "id":"william-ramallo",
+    "nombre":"William Ramallo",
+    "rol":"Jugador",
+    "pais":"Bolivia",
+    "mundiales": ["USA 1994"],
+    "etapaStrongest":"1990, 1996"
+  },
+  {
+    "id":"adolfo-machado",
+    "nombre":"Adolfo Machado",
+    "rol":"Jugador",
+    "pais":"Panamá",
+    "mundiales": ["Rusia 2018"],
+    "etapaStrongest":2019
+  }
+]

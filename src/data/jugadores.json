@@ -1,0 +1,1432 @@
+[
+  {
+    "id": "rodrigo-banegas",
+    "nombre": "Rodrigo Banegas",
+    "fechaNacimiento": "1995-08-11",
+    "edad": 30,
+    "nacionalidad": "boliviana",
+    "posicion": "Arquero",
+    "altura": 1.84,
+    "peso": 73.0,
+    "numero": "2",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Nacional Potosí",
+        "desde": 2015,
+        "hasta": 2017
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2018,
+        "hasta": 2019
+      },
+      {
+        "club": "San José",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Jorge Wilstermann",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Real Tomayapo",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "GV San José",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "diego-valdivia",
+    "nombre": "Diego Valdivia",
+    "fechaNacimiento": "2001-04-14",
+    "edad": 25,
+    "nacionalidad": "boliviana",
+    "posicion": "Arquero",
+    "altura": 1.86,
+    "peso": 78.0,
+    "numero": "12",
+    "partidosJugados": 2,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Royal Pari",
+        "desde": 2020,
+        "hasta": 2021
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Nueva Santa Cruz",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "kiotto-mendoza",
+    "nombre": "Kiotto Mendoza",
+    "fechaNacimiento": "2006-04-02",
+    "edad": 20,
+    "nacionalidad": "boliviana",
+    "posicion": "Arquero",
+    "altura": 1.89,
+    "peso": 86.0,
+    "numero": "33",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-arismendi",
+    "nombre": "Sebastián Arismendi",
+    "fechaNacimiento": "2005-09-30",
+    "edad": 20,
+    "nacionalidad": "boliviana",
+    "posicion": "Arquero",
+    "altura": null,
+    "peso": null,
+    "numero": "23",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "pablo-pedraza",
+    "nombre": "Pablo Pedraza",
+    "fechaNacimiento": "1995-03-10",
+    "edad": 31,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.89,
+    "peso": 75.0,
+    "numero": "3",
+    "partidosJugados": 2,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Blooming",
+        "desde": 2012,
+        "hasta": 2015
+      },
+      {
+        "club": "Real Potosí",
+        "desde": 2015,
+        "hasta": 2016
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2016,
+        "hasta": 2017
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2017,
+        "hasta": 2019
+      },
+      {
+        "club": "Barnechea (Chile)",
+        "desde": 2020,
+        "hasta": 2021
+      },
+      {
+        "club": "Palmaflor",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Al Quwa (Irak)",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "martin-chiatti",
+    "nombre": "Martín Chiatti",
+    "fechaNacimiento": "1992-12-01",
+    "edad": 33,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.85,
+    "peso": 75.0,
+    "numero": "4",
+    "partidosJugados": 4,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Las Palmas (Argentina)",
+        "desde": 2013,
+        "hasta": 2015
+      },
+      {
+        "club": "Racing de Córdoba (Argentina)",
+        "desde": 2016,
+        "hasta": 2016
+      },
+      {
+        "club": "Las Palmas (Argentina)",
+        "desde": 2017,
+        "hasta": 2019
+      },
+      {
+        "club": "Torre Fuerte",
+        "desde": 2019,
+        "hasta": 2019
+      },
+      {
+        "club": "Independiente Petrolero",
+        "desde": 2020,
+        "hasta": 2022
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Jorge Wilstermann",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "adrian-jusino",
+    "nombre": "Adrián Jusino",
+    "fechaNacimiento": "1992-07-09",
+    "edad": 33,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.86,
+    "peso": 79.0,
+    "numero": "5",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Petrolero de Yacuiba",
+        "desde": 2013,
+        "hasta": 2013
+      },
+      {
+        "club": "Unión Maestranza",
+        "desde": 2013,
+        "hasta": 2015
+      },
+      {
+        "club": "Ventura Country Fusion (USA)",
+        "desde": 2016,
+        "hasta": 2016
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2016,
+        "hasta": 2017
+      },
+      {
+        "club": "Tulsa Roughnecks (USA)",
+        "desde": 2018,
+        "hasta": 2018
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "AE Larissas (Grecia)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2021,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "carlos-roca",
+    "nombre": "Carlos Roca",
+    "fechaNacimiento": "1997-05-11",
+    "edad": 29,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.68,
+    "peso": 78.0,
+    "numero": "19",
+    "partidosJugados": 5,
+    "goles": 1,
+    "trayectoria": [
+      {
+        "club": "Universitario de Pando",
+        "desde": 2014,
+        "hasta": 2016
+      },
+      {
+        "club": "Mariscal Sucre",
+        "desde": 2017,
+        "hasta": 2017
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2018,
+        "hasta": 2022
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "fabricio-quaglio",
+    "nombre": "Fabricio Quaglio",
+    "fechaNacimiento": "2023-07-30",
+    "edad": 23,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.72,
+    "peso": 65.0,
+    "numero": "21",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Blooming",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "Thisted FC (Dinamarca)",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2022,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "dilan-saavedra",
+    "nombre": "Dilan Saavedra",
+    "fechaNacimiento": "2006-04-10",
+    "edad": 20,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": null,
+    "peso": null,
+    "numero": "27",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "GV San José",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "yamil-portuncho",
+    "nombre": "Yamil Portuncho",
+    "fechaNacimiento": "2006-01-26",
+    "edad": 20,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.85,
+    "peso": 80.0,
+    "numero": "29",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-altamirano",
+    "nombre": "Sebastián Altamirano",
+    "fechaNacimiento": "2006-05-09",
+    "edad": 20,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.73,
+    "peso": 71.0,
+    "numero": "32",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "widen-saucedo",
+    "nombre": "Widen Saucedo",
+    "fechaNacimiento": "1997-03-01",
+    "edad": 29,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.71,
+    "peso": 62.0,
+    "numero": "22",
+    "partidosJugados": 4,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Destroyers",
+        "desde": 2019,
+        "hasta": 2019
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Royal Pari",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Jorge Wilstermann",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "San Antonio Bulo Bulo",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "jose-moya",
+    "nombre": "José Moya",
+    "fechaNacimiento": "1992-08-07",
+    "edad": 33,
+    "nacionalidad": "colombiana",
+    "posicion": "Defensor",
+    "altura": 1.85,
+    "peso": 77.0,
+    "numero": "2",
+    "partidosJugados": 3,
+    "goles": 1,
+    "trayectoria": [
+      {
+        "club": "Huila (Colombia)",
+        "desde": 2012,
+        "hasta": 2012
+      },
+      {
+        "club": "Itagüí (Colombia)",
+        "desde": 2013,
+        "hasta": 2015
+      },
+      {
+        "club": "Cortuluá (Colombia)",
+        "desde": 2016,
+        "hasta": 2016
+      },
+      {
+        "club": "Santa Fe (Colombia)",
+        "desde": 2016,
+        "hasta": 2019
+      },
+      {
+        "club": "Deportes Tolima (Colombia)",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Santa Fe (Colombia)",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Huracán (Argentina)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Deportes Tolima (Colombia)",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Guaraní (Paraguay)",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Deportivo Pereira (Colombia)",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "kevin-romay",
+    "nombre": "Kevin Romay",
+    "fechaNacimiento": 766540800000,
+    "edad": 31.7945205479,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.72,
+    "peso": 65.0,
+    "numero": "7",
+    "partidosJugados": 4,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "García Ágreda",
+        "desde": 2012,
+        "hasta": 2013
+      },
+      {
+        "club": "Ciclón",
+        "desde": 2014,
+        "hasta": 2016
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2016,
+        "hasta": 2021
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Universitario de Vinto",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "ABB",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "jaime-arrascaita",
+    "nombre": "Jaime Arrascaita",
+    "fechaNacimiento": "1993-09-02",
+    "edad": 32,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.75,
+    "peso": 65.0,
+    "numero": "30",
+    "partidosJugados": 5,
+    "goles": 2,
+    "trayectoria": [
+      {
+        "club": "Bolívar",
+        "desde": 2013,
+        "hasta": 2017
+      },
+      {
+        "club": "Sport Boys",
+        "desde": 2017,
+        "hasta": 2017
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2018,
+        "hasta": 2018
+      },
+      {
+        "club": "Real Potosí",
+        "desde": 2019,
+        "hasta": 2019
+      },
+      {
+        "club": "Jorge Wilstermann",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2021,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "santiago-melgar",
+    "nombre": "Santiago Melgar",
+    "fechaNacimiento": "2005-06-04",
+    "edad": 21,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.75,
+    "peso": 73.0,
+    "numero": "34",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "roy-ribertt",
+    "nombre": "Roy Ribertt",
+    "fechaNacimiento": "2007-07-31",
+    "edad": 18,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.8,
+    "peso": null,
+    "numero": "36",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "pedro-espiritu",
+    "nombre": "Pedro Espíritu",
+    "fechaNacimiento": "2007-02-08",
+    "edad": 19,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": null,
+    "peso": null,
+    "numero": "37",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "victor-cuellar",
+    "nombre": "Víctor Cuéllar",
+    "fechaNacimiento": "2000-09-23",
+    "edad": 25,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.83,
+    "peso": 77.0,
+    "numero": "16",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Real Santa Cruz",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2021,
+        "hasta": 2023
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "kevin-salvatierra",
+    "nombre": "Kevin Salvatierra",
+    "fechaNacimiento": "2001-08-05",
+    "edad": 24,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.65,
+    "peso": 72.0,
+    "numero": "8",
+    "partidosJugados": 4,
+    "goles": 1,
+    "trayectoria": [
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "Royal Pari",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "santiago-arce",
+    "nombre": "Santiago Arce",
+    "fechaNacimiento": "2000-05-30",
+    "edad": 25,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.81,
+    "peso": 75.0,
+    "numero": "15",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Sport Boys",
+        "desde": 2017,
+        "hasta": 2018
+      },
+      {
+        "club": "Aurora",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Palmaflor",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Guabirá",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "San Antonio Bulo Bulo",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "raul-castro",
+    "nombre": "Raúl Castro",
+    "fechaNacimiento": "1989-08-19",
+    "edad": 36,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.81,
+    "peso": 71.0,
+    "numero": "10",
+    "partidosJugados": 5,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Mariscal Braun",
+        "desde": 2005,
+        "hasta": 2011
+      },
+      {
+        "club": "Universitario de Sucre",
+        "desde": 2011,
+        "hasta": 2011
+      },
+      {
+        "club": "Unión Maestranza",
+        "desde": 2011,
+        "hasta": 2013
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2013,
+        "hasta": 2021
+      },
+      {
+        "club": "Jorge Wilstermann",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Universitario de Vinto",
+        "desde": 2023,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+   {
+    "id": "jhosep-michel",
+    "nombre": "Jhosep Michel",
+    "fechaNacimiento": "2008-09-13",
+    "edad": 17,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.75,
+    "peso": null,
+    "numero": "25",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Aurora",
+        "desde": 2025,
+        "hasta": "2025"
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "gabriel-sotomayor",
+    "nombre": "Gabriel Sotomayor",
+    "fechaNacimiento": "1999-07-02",
+    "edad": 27,
+    "nacionalidad": "boliviana",
+    "posicion": "Delantero",
+    "altura": 1.75,
+    "peso": 68.0,
+    "numero": "26",
+    "partidosJugados": 2,
+    "goles": 1,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2018,
+        "hasta": 2024
+      },
+      {
+        "club": "Floriana FC (Malta)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2025,
+        "hasta": 2026
+      }
+    ]
+  },
+  {
+    "id": "hugo-guzman",
+    "nombre": "Hugo Guzmán",
+    "fechaNacimiento": "2005-07-15",
+    "edad": 21,
+    "nacionalidad": "boliviana",
+    "posicion": "Delantero",
+    "altura": 1.69,
+    "peso": 66.0,
+    "numero": "-",
+    "partidosJugados": 0,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2024,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "jonathan-bustos",
+    "nombre": "Jonathan Bustos",
+    "fechaNacimiento": "1994-07-29",
+    "edad": 32,
+    "nacionalidad": "argentina",
+    "posicion": "Delantero",
+    "altura": 1.74,
+    "peso": 65.0,
+    "numero": "18",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Huracán (Argentina)",
+        "desde": 2011,
+        "hasta": 2014
+      },
+      {
+        "club": "Platense (Argentina)",
+        "desde": 2015,
+        "hasta": 2019
+      },
+      {
+        "club": "AE Larissas (Grecia)",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Platense (Argentina)",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "FBC Melgar (Perú)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Borneo FC (Indonesia)",
+        "desde": 2021,
+        "hasta": 2023
+      },
+      {
+        "club": "PSS Sleman (Polonia)",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Al Quwa (Irak)",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "Malut United (Polonia)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "Persela (Polonia)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "carmelo-algaranhaz",
+    "nombre": "Carmelo Algarañaz",
+    "fechaNacimiento": "2006-01-27",
+    "edad": 30,
+    "nacionalidad": "boliviana",
+    "posicion": "Delantero",
+    "altura": 1.76,
+    "peso": 78.0,
+    "numero": "11",
+    "partidosJugados": 4,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2015,
+        "hasta": 2015
+      },
+      {
+        "club": "Petrolero de Yacuiba",
+        "desde": 2016,
+        "hasta": 2016
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2016,
+        "hasta": 2017
+      },
+      {
+        "club": "Sport Boys",
+        "desde": 2018,
+        "hasta": 2018
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2019,
+        "hasta": 2019
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Ismaily SC (Egipto)",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Always Ready",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Kalamanta FC (Grecia)",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "victor-abrego",
+    "nombre": "Víctor Ábrego",
+    "fechaNacimiento": "1997-02-11",
+    "edad": 29,
+    "nacionalidad": "boliviana",
+    "posicion": "Delantero",
+    "altura": 1.76,
+    "peso": 69.0,
+    "numero": "77",
+    "partidosJugados": 4,
+    "goles": 1,
+    "trayectoria": [
+      {
+        "club": "Destroyers",
+        "desde": 2018,
+        "hasta": 2019
+      },
+      {
+        "club": "Bolívar",
+        "desde": 2020,
+        "hasta": 2022
+      },
+      {
+        "club": "Universitario de Vinto",
+        "desde": 2023,
+        "hasta": 2023
+      },
+      {
+        "club": "Raja Casablanca (Marruecos)",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Nacional Potosí",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "Raja Casablanca (Marruecos)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "carlos-ventura",
+    "nombre": "Carlos Ventura",
+    "fechaNacimiento": "1997-08-27",
+    "edad": 28,
+    "nacionalidad": "dominicana",
+    "posicion": "Delantero",
+    "altura": 1.78,
+    "peso": null,
+    "numero": "9",
+    "partidosJugados": 5,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Hércules Promesas (España)",
+        "desde": 2018,
+        "hasta": 2019
+      },
+      {
+        "club": "UD Horadada (España)",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Callosa Deportiva FC (España)",
+        "desde": 2020,
+        "hasta": 2021
+      },
+      {
+        "club": "Cibao FC (República Dominicana)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Mazarrón FC (España)",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "Cibao FC (República Dominicana)",
+        "desde": 2022,
+        "hasta": 2023
+      },
+      {
+        "club": "Oriente Petrolero",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Al Naser SC (Kuwait)",
+        "desde": 2024,
+        "hasta": 2024
+      },
+      {
+        "club": "Cibao FC (República Dominicana)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "adrian-estacio",
+    "nombre": "Adrián Estacio",
+    "fechaNacimiento": "1998-04-20",
+    "edad": 28,
+    "nacionalidad": "colombiana",
+    "posicion": "Delantero",
+    "altura": 1.78,
+    "peso": null,
+    "numero": "17",
+    "partidosJugados": 4,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Deportivo Pasto (Colombia)",
+        "desde": 2018,
+        "hasta": 2019
+      },
+      {
+        "club": "Once Caldas (Colombia)",
+        "desde": 2019,
+        "hasta": 2022
+      },
+      {
+        "club": "Deportivo Pasto (Colombia)",
+        "desde": 2022,
+        "hasta": 2023
+      },
+      {
+        "club": "Águilas Doradas (Colombia)",
+        "desde": 2023,
+        "hasta": 2025
+      },
+      {
+        "club": "Deportivo Pereira (Colombia)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "darwin-lom",
+    "nombre": "Darwin Lom",
+    "fechaNacimiento": "1997-07-14",
+    "edad": 29,
+    "nacionalidad": "guatemalteca",
+    "posicion": "Delantero",
+    "altura": 1.84,
+    "peso": null,
+    "numero": "14",
+    "partidosJugados": 2,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Chattanooga FC (USA)",
+        "desde": 2017,
+        "hasta": 2017
+      },
+      {
+        "club": "NE Sharks (USA)",
+        "desde": 2017,
+        "hasta": 2019
+      },
+      {
+        "club": "CD Guastatoya (Guatemala)",
+        "desde": 2019,
+        "hasta": 2020
+      },
+      {
+        "club": "Chattanooga FC (USA)",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "California United (USA)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Hartford Athletic (USA)",
+        "desde": 2021,
+        "hasta": 2022
+      },
+      {
+        "club": "CD Malacateco (Guatemala)",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Xelajú MC (Guatemala)",
+        "desde": 2022,
+        "hasta": 2023
+      },
+      {
+        "club": "Deportivo Mixco (Guatemala)",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Cartaginés (Costa Rica)",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "Comunicacions FC (Guatemala)",
+        "desde": 2025,
+        "hasta": 2026
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "jovani-welch",
+    "nombre": "Jovani Welch",
+    "fechaNacimiento": "1999-12-07",
+    "edad": 27,
+    "nacionalidad": "panameña",
+    "posicion": "Mediocampista",
+    "altura": 1.86,
+    "peso": 80,
+    "numero": "6",
+    "partidosJugados": 3,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Alianza FC (Panamá)",
+        "desde": 2018,
+        "hasta": 2021
+      },
+      {
+        "club": "Zamora FC (Venezuela)",
+        "desde": 2022,
+        "hasta": 2022
+      },
+      {
+        "club": "Académico Viseu (Portugal)",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Millonarios FC (Colombia)",
+        "desde": 2024,
+        "hasta": 2025
+      },
+      {
+        "club": "Monagas SC (Venezuela)",
+        "desde": 2025,
+        "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  }
+]

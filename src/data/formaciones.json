@@ -1,0 +1,1133 @@
+[
+    {
+        "decada": "1900s",
+        "anios": [
+            {
+                "anio": 1908,
+                "imagenes": [
+                    {
+                        "src": "1908.png",
+                        "descripcion": "Fundación"
+                    },
+                    {
+                        "src": "1908.jpg",
+                        "descripcion": "Primeros partidos"
+                    }
+                ]
+            },
+            {
+                "anio": 1910,
+                "imagenes": [
+                    {
+                        "src": "1910.jpg",
+                        "descripcion": "Inicios"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1910s",
+        "anios": [
+            {
+                "anio": 1911,
+                "imagenes": [
+                    {
+                        "src": "1911.png",
+                        "descripcion": "CampeónCopa Prefectural"
+                    }
+                ]
+            },
+            {
+                "anio": 1912,
+                "imagenes": [
+                    {
+                        "src": "1912.png",
+                        "descripcion": "Partidos amistosos"
+                    }
+                ]
+            },
+            {
+                "anio": 1914,
+                "imagenes": [
+                    {
+                        "src": "1914.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1915,
+                "imagenes": [
+                    {
+                        "src": "1915.jpg",
+                        "descripcion": "Campeón AFLP ( Copa)"
+                    }
+                ]
+            },
+            {
+                "anio": 1916,
+                "imagenes": [
+                    {
+                        "src": "1916.jpg",
+                        "descripcion": "Bicampeón AFLP (Liga y Copa)"
+                    }
+                ]
+            },
+            {
+                "anio": 1917,
+                "imagenes": [
+                    {
+                        "src": "1917.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1920s",
+        "anios": [
+            {
+                "anio": 1922,
+                "imagenes": [
+                    {
+                        "src": "1922.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1923,
+                "imagenes": [
+                    {
+                        "src": "1923.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1930,
+                "imagenes": [
+                    {
+                        "src": "1930.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1930s",
+        "anios": [
+            {
+                "anio": 1932,
+                "imagenes": [
+                    {
+                        "src": "1932.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1933,
+                "imagenes": [
+                    {
+                        "src": "1933.png",
+                        "descripcion": "Cañada Strongest"
+                    }
+                ]
+            },
+            {
+                "anio": 1936,
+                "imagenes": [
+                    {
+                        "src": "1936.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1938,
+                "imagenes": [
+                    {
+                        "src": "1938.jpg",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1940,
+                "imagenes": [
+                    {
+                        "src": "1940.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1940s",
+        "anios": [
+            {
+                "anio": 1941,
+                "imagenes": [
+                    {
+                        "src": "1941.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1942,
+                "imagenes": [
+                    {
+                        "src": "1942.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1943,
+                "imagenes": [
+                    {
+                        "src": "1943.png",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1944,
+                "imagenes": [
+                    {
+                        "src": "1944.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1945,
+                "imagenes": [
+                    {
+                        "src": "1945.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1946,
+                "imagenes": [
+                    {
+                        "src": "1946.png",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1950,
+                "imagenes": [
+                    {
+                        "src": "1950.jpg",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1950s",
+        "anios": [
+            {
+                "anio": 1951,
+                "imagenes": [
+                    {
+                        "src": "1951.png",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1952,
+                "imagenes": [
+                    {
+                        "src": "1952.png",
+                        "descripcion": "Campeón Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1953,
+                "imagenes": [
+                    {
+                        "src": "1953.png",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1954,
+                "imagenes": [
+                    {
+                        "src": "1954.png",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1956,
+                "imagenes": [
+                    {
+                        "src": "1956.jpg",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1957,
+                "imagenes": [
+                    {
+                        "src": "1957.png",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1958,
+                "imagenes": [
+                    {
+                        "src": "1958.jpg",
+                        "descripcion": "Campeón Copa FBF"
+                    }
+                ]
+            },
+            {
+                "anio": 1959,
+                "imagenes": [
+                    {
+                        "src": "1959.png",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            },
+            {
+                "anio": 1960,
+                "imagenes": [
+                    {
+                        "src": "1960.jpg",
+                        "descripcion": "Torneo Mixto"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1960s",
+        "anios": [
+            {
+                "anio": 1961,
+                "imagenes": [
+                    {
+                        "src": "1961.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1962,
+                "imagenes": [
+                    {
+                        "src": "1962.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1963,
+                "imagenes": [
+                    {
+                        "src": "1963.png",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1964,
+                "imagenes": [
+                    {
+                        "src": "1964.png",
+                        "descripcion": "Campeón Paceño y Nacional"
+                    }
+                ]
+            },
+            {
+                "anio": 1965,
+                "imagenes": [
+                    {
+                        "src": "1965.png",
+                        "descripcion": "AFLP"
+                    },
+                    {
+                        "src": "1965-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1966,
+                "imagenes": [
+                    {
+                        "src": "1966.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1967,
+                "imagenes": [
+                    {
+                        "src": "1967.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1968,
+                "imagenes": [
+                    {
+                        "src": "1968.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1969,
+                "imagenes": [
+                    {
+                        "src": "1969.png",
+                        "descripcion": "AFLP"
+                    },
+                    {
+                        "src": "1969-simbolo.jpg",
+                        "descripcion": "The Strongest Símbolo"
+                    }
+                ]
+            },
+            {
+                "anio": 1970,
+                "imagenes": [
+                    {
+                        "src": "1970.png",
+                        "descripcion": "Campeón AFLP"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1970s",
+        "anios": [
+            {
+                "anio": 1971,
+                "imagenes": [
+                    {
+                        "src": "1971.png",
+                        "descripcion": "Campeón AFLP"
+                    },
+                    {
+                        "src": "1971-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1972,
+                "imagenes": [
+                    {
+                        "src": "1972.jpg",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1973,
+                "imagenes": [
+                    {
+                        "src": "1973.png",
+                        "descripcion": "AFLP"
+                    }
+                ]
+            },
+            {
+                "anio": 1974,
+                "imagenes": [
+                    {
+                        "src": "1974.png",
+                        "descripcion": "Campeón Paceño y Nacional"
+                    }
+                ]
+            },
+            {
+                "anio": 1975,
+                "imagenes": [
+                    {
+                        "src": "1975.jpg",
+                        "descripcion": "AFLP y FBF"
+                    },
+                    {
+                        "src": "1975-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1976,
+                "imagenes": [
+                    {
+                        "src": "1976.jpg",
+                        "descripcion": "AFLP y FBF"
+                    }
+                ]
+            },
+            {
+                "anio": 1977,
+                "imagenes": [
+                    {
+                        "src": "1977.jpg",
+                        "descripcion": "Campeón Liguero"
+                    }
+                ]
+            },
+            {
+                "anio": 1978,
+                "imagenes": [
+                    {
+                        "src": "1978.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1979,
+                "imagenes": [
+                    {
+                        "src": "1979.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1980,
+                "imagenes": [
+                    {
+                        "src": "1980.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1980s",
+        "anios": [
+            {
+                "anio": 1981,
+                "imagenes": [
+                    {
+                        "src": "1981.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1982,
+                "imagenes": [
+                    {
+                        "src": "1982.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "1982-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1983,
+                "imagenes": [
+                    {
+                        "src": "1983.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1984,
+                "imagenes": [
+                    {
+                        "src": "1984.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1985,
+                "imagenes": [
+                    {
+                        "src": "1985.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1986,
+                "imagenes": [
+                    {
+                        "src": "1986.jpg",
+                        "descripcion": "Campeón Liguero"
+                    }
+                ]
+            },
+            {
+                "anio": 1987,
+                "imagenes": [
+                    {
+                        "src": "1987.png",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "1987-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1988,
+                "imagenes": [
+                    {
+                        "src": "1988.png",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1989,
+                "imagenes": [
+                    {
+                        "src": "1989.jpg",
+                        "descripcion": "Campeón Liguero"
+                    },
+                    {
+                        "src": "1989-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1990,
+                "imagenes": [
+                    {
+                        "src": "1990.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "1990-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "1990s",
+        "anios": [
+            {
+                "anio": 1991,
+                "imagenes": [
+                    {
+                        "src": "1991.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1992,
+                "imagenes": [
+                    {
+                        "src": "1992.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1993,
+                "imagenes": [
+                    {
+                        "src": "1993.png",
+                        "descripcion": "Campeón Liguero"
+                    }
+                ]
+            },
+            {
+                "anio": 1994,
+                "imagenes": [
+                    {
+                        "src": "1994.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "1994-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 1995,
+                "imagenes": [
+                    {
+                        "src": "1995.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1996,
+                "imagenes": [
+                    {
+                        "src": "1996.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1997,
+                "imagenes": [
+                    {
+                        "src": "1997.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1998,
+                "imagenes": [
+                    {
+                        "src": "1998.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 1999,
+                "imagenes": [
+                    {
+                        "src": "1999.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 2000,
+                "imagenes": [
+                    {
+                        "src": "2000.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "2000-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "2000s",
+        "anios": [
+            {
+                "anio": 2001,
+                "imagenes": [
+                    {
+                        "src": "2001.png",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 2002,
+                "imagenes": [
+                    {
+                        "src": "2002.png",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 2003,
+                "imagenes": [
+                    {
+                        "src": "2003-a.jpg",
+                        "descripcion": "Campeón Apertura"
+                    },
+                    {
+                        "src": "2003-c.jpg",
+                        "descripcion": "Campeón Clausura"
+                    },
+                    {
+                        "src": "2003-sud.jpg",
+                        "descripcion": "Sudamericana"
+                    }
+                ]
+            },
+            {
+                "anio": 2004,
+                "imagenes": [
+                    {
+                        "src": "2004.jpg",
+                        "descripcion": "Campeón Clausura"
+                    }
+                ]
+            },
+            {
+                "anio": 2005,
+                "imagenes": [
+                    {
+                        "src": "2005.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "2005-sud.jpg",
+                        "descripcion": "Sudamericana"
+                    }
+                ]
+            },
+            {
+                "anio": 2006,
+                "imagenes": [
+                    {
+                        "src": "2006.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "2006-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2007,
+                "imagenes": [
+                    {
+                        "src": "2007.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 2008,
+                "imagenes": [
+                    {
+                        "src": "2008.jpg",
+                        "descripcion": "LFPB"
+                    },
+                    {
+                        "src": "2008-centenario.jpg",
+                        "descripcion": "Centenario"
+                    }
+                ]
+            },
+            {
+                "anio": 2009,
+                "imagenes": [
+                    {
+                        "src": "2009.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            },
+            {
+                "anio": 2010,
+                "imagenes": [
+                    {
+                        "src": "2010.jpg",
+                        "descripcion": "LFPB"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "2010s",
+        "anios": [
+            {
+                "anio": 2011,
+                "imagenes": [
+                    {
+                        "src": "2011-ad.jpg",
+                        "descripcion": "Adecuación"
+                    },
+                    {
+                        "src": "2011-a.jpg",
+                        "descripcion": "Campeón Apertura"
+                    },
+                    {
+                        "src": "2011-sud.jpg",
+                        "descripcion": "Sudamericana"
+                    }
+                ]
+            },
+            {
+                "anio": 2012,
+                "imagenes": [
+                    {
+                        "src": "2012-c.jpg",
+                        "descripcion": "Campeón Clausura"
+                    },
+                    {
+                        "src": "2012-a.jpg",
+                        "descripcion": "Campeón Apertura"
+                    },
+                    {
+                        "src": "2012-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2013,
+                "imagenes": [
+                    {
+                        "src": "2013-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2013-a.jpg",
+                        "descripcion": "Campeón Apertura"
+                    },
+                    {
+                        "src": "2013-lib.jpg",
+                        "descripcion": "Libertadores"
+                    },
+                    {
+                        "src": "2013-sud.jpg",
+                        "descripcion": "Sudamericana"
+                    }
+                ]
+            },
+            {
+                "anio": 2014,
+                "imagenes": [
+                    {
+                        "src": "2014-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2014-a.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2014-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2015,
+                "imagenes": [
+                    {
+                        "src": "2015-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2015-a.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2015-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2016,
+                "imagenes": [
+                    {
+                        "src": "2016-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2016-a.jpg",
+                        "descripcion": "Campeón Apertura"
+                    },
+                    {
+                        "src": "2016-gira.jpg",
+                        "descripcion": "Gira amistosos"
+                    },
+                    {
+                        "src": "2016-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2017,
+                "imagenes": [
+                    {
+                        "src": "2017-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2017-ad.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2017-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2018,
+                "imagenes": [
+                    {
+                        "src": "2018-a.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2018-c.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2018-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2019,
+                "imagenes": [
+                    {
+                        "src": "2019-a.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2019-c.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2019-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2020,
+                "imagenes": [
+                    {
+                        "src": "2020.jpg",
+                        "descripcion": "Liga"
+                    },
+                    {
+                        "src": "2020-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "decada": "2020s",
+        "anios": [
+            {
+                "anio": 2021,
+                "imagenes": [
+                    {
+                        "src": "2021.jpg",
+                        "descripcion": "Liga"
+                    },
+                    {
+                        "src": "2021-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2022,
+                "imagenes": [
+                    {
+                        "src": "2022-a.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2022-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2022-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2023,
+                "imagenes": [
+                    {
+                        "src": "2023-liga.jpg",
+                        "descripcion": "Campeón Liga"
+                    },
+                    {
+                        "src": "2023-copa.jpg",
+                        "descripcion": "Copa"
+                    },
+                    {
+                        "src": "2023-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2024,
+                "imagenes": [
+                    {
+                        "src": "2024-a.jpg",
+                        "descripcion": "Apertura"
+                    },
+                    {
+                        "src": "2024-c.jpg",
+                        "descripcion": "Clausura"
+                    },
+                    {
+                        "src": "2014-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2025,
+                "imagenes": [
+                    {
+                        "src": "2025-liga.jpg",
+                        "descripcion": "Liga"
+                    },
+                    {
+                        "src": "2025-copa.jpg",
+                        "descripcion": "Copa"
+                    },
+                    {
+                        "src": "2025-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            },
+            {
+                "anio": 2026,
+                "imagenes": [
+                    {
+                        "src": "2026-lib.jpg",
+                        "descripcion": "Libertadores"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,860 @@
+[
+    {
+        "ESTADIO":"HERNANDO SILES",
+        "CIUDAD":"LA PAZ",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"JESÚS BERMÚDEZ",
+        "CIUDAD":"ORURO",
+        "REGION":"ORURO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"FÉLIX CAPRILES",
+        "CIUDAD":"COCHABAMBA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"PULACAYO",
+        "CIUDAD":"PULACAYO",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"MUNICIPAL DE AREQUIPA",
+        "CIUDAD":"AREQUIPA",
+        "REGION":"AREQUIPA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"MUNICIPAL DE MOLLENDO",
+        "CIUDAD":"MOLLENDO",
+        "REGION":"AREQUIPA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"COLQUIRI",
+        "CIUDAD":"COLQUIRI",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"HUANUNI",
+        "CIUDAD":"HUANUNI",
+        "REGION":"ORURO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"MACHACAMARCA",
+        "CIUDAD":"MACHACAMARCA",
+        "REGION":"ORURO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"TUPIZA",
+        "CIUDAD":"TUPIZA",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"LA QUIACA",
+        "CIUDAD":"LA QUIACA",
+        "REGION":"JUJUY",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"VILLAZÓN",
+        "CIUDAD":"VILLAZÓN",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"MINA AGUILAR",
+        "CIUDAD":"MINA AGUILAR",
+        "REGION":"JUJUY",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"LLALLAGUA",
+        "CIUDAD":"LLALLAGUA",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"DEFENSORES DEL CHACO",
+        "CIUDAD":"ASUNCIÓN",
+        "REGION":"DISTRITO CAPITAL",
+        "PAIS":"PARAGUAY"
+    },
+    {
+        "ESTADIO":"FORMOSA",
+        "CIUDAD":"FORMOSA",
+        "REGION":"FORMOSA",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"JUJUY",
+        "CIUDAD":"JUJUY",
+        "REGION":"JUJUY",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"TAHUICHI AGUILERA",
+        "CIUDAD":"SANTA CRUZ",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"GARCILASO DE LA VEGA",
+        "CIUDAD":"CUSCO",
+        "REGION":"CUSCO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"CAMIRI",
+        "CIUDAD":"CAMIRI",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"VILOCO",
+        "CIUDAD":"VILOCO",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"POTOSÍ",
+        "CIUDAD":"POTOSÍ",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"PATRIA",
+        "CIUDAD":"SUCRE",
+        "REGION":"CHUQUISACA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"UYUNI",
+        "CIUDAD":"UYUNI",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"ATAHUALLPA",
+        "CIUDAD":"QUITO",
+        "REGION":"PICHINCHA",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"GEORGE CAPWELL",
+        "CIUDAD":"GUAYAQUIL",
+        "REGION":"GUAYAS",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"LA BOMBONERA",
+        "CIUDAD":"BUENOS AIRES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"CARLOS DITTBORN",
+        "CIUDAD":"ARICA",
+        "REGION":"PARINACOTA",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"CALVO Y BASCUÑÁN",
+        "CIUDAD":"ANTOFAGASTA",
+        "REGION":"ANTOFAGASTA",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"CENTENARIO",
+        "CIUDAD":"MONTEVIDEO",
+        "REGION":"MONTEVIDEO",
+        "PAIS":"URUGUAY"
+    },
+    {
+        "ESTADIO":"YACUIBA",
+        "CIUDAD":"YACUIBA",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"VILLAMONTES",
+        "CIUDAD":"VILLAMONTES",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"LORGIO ZAMBRANO",
+        "CIUDAD":"TRINIDAD",
+        "REGION":"BENI",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"RIBERALTA",
+        "CIUDAD":"RIBERALTA",
+        "REGION":"BENI",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"COBIJA",
+        "CIUDAD":"COBIJA",
+        "REGION":"PANDO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"MORRO DE SURAPATA",
+        "CIUDAD":"SUCRE",
+        "REGION":"CHUQUISACA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"NACIONAL DE SANTIAGO",
+        "CIUDAD":"SANTIAGO",
+        "REGION":"SANTIAGO",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"MUNICIPAL DE CONCEPCIÓN",
+        "CIUDAD":"CONCEPCIÓN",
+        "REGION":"CONCEPCIÓN",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"LUIS LASTRA",
+        "CIUDAD":"LA PAZ",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"PUNO",
+        "CIUDAD":"PUNO",
+        "REGION":"PUNO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"IV CENTENARIO AREQUIPA",
+        "CIUDAD":"AREQUIPA",
+        "REGION":"AREQUIPA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"SIMÓN BOLÍVAR",
+        "CIUDAD":"LA PAZ",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"GUILLERMO SOTO ROSA",
+        "CIUDAD":"MÉRIDA",
+        "REGION":"MÉRIDA",
+        "PAIS":"VENEZUELA"
+    },
+    {
+        "ESTADIO":"ALFONSO LÓPEZ",
+        "CIUDAD":"BUCARAMANGA",
+        "REGION":"SANTANDER",
+        "PAIS":"COLOMBIA"
+    },
+    {
+        "ESTADIO":"RIO BRANCO",
+        "CIUDAD":"RIO BRANCO",
+        "REGION":"ACRE",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"NACIONAL DE LIMA",
+        "CIUDAD":"LIMA",
+        "REGION":"LIMA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"ALEJANDRO VILLANUEVA",
+        "CIUDAD":"LIMA",
+        "REGION":"LIMA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"MODELO",
+        "CIUDAD":"GUAYAQUIL",
+        "REGION":"GUAYAS",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"BELLA VISTA",
+        "CIUDAD":"AMBATO",
+        "REGION":"TUNGURAHUA",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"MONUMENTAL",
+        "CIUDAD":"BUENOS AIRES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"JULIACA",
+        "CIUDAD":"JULIACA",
+        "REGION":"PUNO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"IV CENTENARIO",
+        "CIUDAD":"TARIJA",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"TIPUANI",
+        "CIUDAD":"TIPUANI",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"RAFAEL MENDOZA CASTELLÓN",
+        "CIUDAD":"LA PAZ",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"PASCUAL GUERRERO",
+        "CIUDAD":"CALI",
+        "REGION":"VALLE DEL CAUCA",
+        "PAIS":"COLOMBIA"
+    },
+    {
+        "ESTADIO":"ISIDRO ROMERO",
+        "CIUDAD":"GUAYAQUIL",
+        "REGION":"GUAYAS",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"SAN CARLOS DE APOQUINDO",
+        "CIUDAD":"SANTIAGO",
+        "REGION":"SANTIAGO",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"MARIANO MELGAR",
+        "CIUDAD":"AREQUIPA",
+        "REGION":"AREQUIPA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"VICTOR AGUSTÍN UGARTE",
+        "CIUDAD":"POTOSÍ",
+        "REGION":"POTOSÍ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"LUCIO IRIARTE",
+        "CIUDAD":"SANTA ANA DE YACUMA",
+        "REGION":"BENI",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"CACHAMAY",
+        "CIUDAD":"PUERTO ORDAZ",
+        "REGION":"BOLÍVAR",
+        "PAIS":"VENEZUELA"
+    },
+    {
+        "ESTADIO":"BRÍGIDO IRIARTE",
+        "CIUDAD":"CARACAS",
+        "REGION":"REGION CAPITAL",
+        "PAIS":"VENEZUELA"
+    },
+    {
+        "ESTADIO":"FÉLIX CASTILLO",
+        "CIUDAD":"CHINCHA",
+        "REGION":"ICA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"MANUEL  GÓMEZ",
+        "CIUDAD":"CHIMBOTE",
+        "REGION":"ANCASH",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"SEGUNDO ANDRADA TORRES",
+        "CIUDAD":"HUACHO",
+        "REGION":"LIMA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"ROBERT KENEDDY",
+        "CIUDAD":"WASHINGTON",
+        "REGION":"DC",
+        "PAIS":"USA"
+    },
+    {
+        "ESTADIO":"MANUEL FERREIRA",
+        "CIUDAD":"ASUNCIÓN",
+        "REGION":"DISTRITO CAPITAL",
+        "PAIS":"PARAGUAY"
+    },
+    {
+        "ESTADIO":"MANUEL FLORES",
+        "CIUDAD":"HUANUNI",
+        "REGION":"ORURO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"PUERTO ESPAÑA",
+        "CIUDAD":"PUERTO ESPAÑA",
+        "REGION":"TRINIDAD",
+        "PAIS":"TRINIDAD Y TOBAGO"
+    },
+    {
+        "ESTADIO":"SAN VICENTE",
+        "CIUDAD":"SAN VICENTE",
+        "REGION":"TRINIDAD",
+        "PAIS":"TRINIDAD Y TOBAGO"
+    },
+    {
+        "ESTADIO":"JORGE BASADRE",
+        "CIUDAD":"TACNA",
+        "REGION":"TACNA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"ENRIQUE TORRES",
+        "CIUDAD":"PUNO",
+        "REGION":"PUNO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"REAL SANTA CRUZ",
+        "CIUDAD":"SANTA CRUZ",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"DEPORTIVO ESPAÑOL",
+        "CIUDAD":"BUENOS AIRES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"MACHALA",
+        "CIUDAD":"MACHALA",
+        "REGION":"EL ORO",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"ATANASIO GIRARDOT",
+        "CIUDAD":"MEDELLÍN",
+        "REGION":"ANTIOQUÍA",
+        "PAIS":"COLOMBIA"
+    },
+    {
+        "ESTADIO":"GILBERTO PARADA",
+        "CIUDAD":"MONTERO",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"EL CAMPIN",
+        "CIUDAD":"BOGOTÁ",
+        "REGION":"CUNDINAMARCA",
+        "PAIS":"COLOMBIA"
+    },
+    {
+        "ESTADIO":"PARQUE ANTARTICA",
+        "CIUDAD":"SAO PAULO",
+        "REGION":"SAO PAULO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"CAXIAS DO SUL",
+        "CIUDAD":"CAXIAS DO SUL",
+        "REGION":"RIO GRANDE DO SUL",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"AZUL",
+        "CIUDAD":"MÉXICO DF",
+        "REGION":"DISTRITO FEDERAL",
+        "PAIS":"MÉXICO"
+    },
+    {
+        "ESTADIO":"PACAEMBÚ",
+        "CIUDAD":"SAO PAULO",
+        "REGION":"SAO PAULO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"LUIS FRANZINI",
+        "CIUDAD":"MONTEVIDEO",
+        "REGION":"MONTEVIDEO",
+        "PAIS":"URUGUAY"
+    },
+    {
+        "ESTADIO":"NUEVO GASOMETRO",
+        "CIUDAD":"BUENOS AIRES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"MORUMBI",
+        "CIUDAD":"SAO PAULO",
+        "REGION":"SAO PAULO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"ANACLETO CAMPANELA",
+        "CIUDAD":"SAO CAETANO",
+        "REGION":"SAO PAULO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"AZTECA",
+        "CIUDAD":"MÉXICO DF",
+        "REGION":"DISTRITO FEDERAL",
+        "PAIS":"MÉXICO"
+    },
+    {
+        "ESTADIO":"GRAN MAMORÉ",
+        "CIUDAD":"TRINIDAD",
+        "REGION":"BENI",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"QUILMES",
+        "CIUDAD":"QUILMES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"CASA BLANCA",
+        "CIUDAD":"QUITO",
+        "REGION":"PICHINCHA",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"UNAM",
+        "CIUDAD":"MÉXICO DF",
+        "REGION":"DISTRITO FEDERAL",
+        "PAIS":"MÉXICO"
+    },
+    {
+        "ESTADIO":"SERRA DOURADA",
+        "CIUDAD":"GOIANIA",
+        "REGION":"GOIAS",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"SANTA LAURA",
+        "CIUDAD":"SANTIAGO",
+        "REGION":"SANTIAGO",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"PARQUE INDEPENDENCIA",
+        "CIUDAD":"ROSARIO",
+        "REGION":"SANTA FE",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"COSMOS 79",
+        "CIUDAD":"EL ALTO",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"TIERRA DE CAMPEONES",
+        "CIUDAD":"IQUIQUE",
+        "REGION":"TARAPACÁ",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"BEIRA RIO",
+        "CIUDAD":"PORTO ALEGRE",
+        "REGION":"RIO GRANDE DO SUL",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"ELÍAS AGUIRRE",
+        "CIUDAD":"CHICLAYO",
+        "REGION":"LAMBAYEQUE",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"VILA BELMIRO",
+        "CIUDAD":"SANTOS",
+        "REGION":"SAO PAULO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"DEFENSORES DE VILLAMONTES",
+        "CIUDAD":"VILLAMONTES",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"INDEPENDENCIA",
+        "CIUDAD":"BELO HORIZONTE",
+        "REGION":"MINAS GERAIS",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"JULIO GRONDONA",
+        "CIUDAD":"SARANDÍ",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"MUNICIPAL DE QUILLACOLLO",
+        "CIUDAD":"QUILLACOLLO",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"SAMUEL VACA",
+        "CIUDAD":"WARNES",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"DURVAL DE BRITO",
+        "CIUDAD":"CURITIBA",
+        "REGION":"PARANÁ",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"JOSÉ AMALFITANI",
+        "CIUDAD":"BUENOS AIRES",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"MONUMENTAL DE LIMA",
+        "CIUDAD":"LIMA",
+        "REGION":"LIMA",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"FEDERICO IBARRA",
+        "CIUDAD":"YACUIBA",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"UNIVERSITARIO",
+        "CIUDAD":"COBIJA",
+        "REGION":"PANDO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"MORELOS",
+        "CIUDAD":"MORELIA",
+        "REGION":"MICHOACÁN",
+        "PAIS":"MÉXICO"
+    },
+    {
+        "ESTADIO":"JOCAY",
+        "CIUDAD":"MANTA",
+        "REGION":"MANABÍ",
+        "PAIS":"ECUADOR"
+    },
+    {
+        "ESTADIO":"HUGO CHÁVEZ",
+        "CIUDAD":"CHIMORÉ",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"JOSÉ ALBERTO PÉREZ",
+        "CIUDAD":"VALERA",
+        "REGION":"TRUJILLO",
+        "PAIS":"VENEZUELA"
+    },
+    {
+        "ESTADIO":"MIGUEL GRAU",
+        "CIUDAD":"EL CALLAO",
+        "REGION":"EL CALLAO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"EDGAR PEÑA GUTIÉRREZ",
+        "CIUDAD":"WARNES",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"ARENA PERNAMBUCO",
+        "CIUDAD":"RECIFE",
+        "REGION":"PERNAMBUCO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"LA FORTALEZA",
+        "CIUDAD":"LANÚS",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"MUNICIPAL DE SACABA",
+        "CIUDAD":"SACABA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"OVIDIO MESSA",
+        "CIUDAD":"YACUIBA",
+        "REGION":"TARIJA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"NICOLÁS LEOZ",
+        "CIUDAD":"ASUNCIÓN",
+        "REGION":"DISTRITO CAPITAL",
+        "PAIS":"PARAGUAY"
+    },
+    {
+        "ESTADIO":"JOSÉ FIERRO",
+        "CIUDAD":"TUCUMÁN",
+        "REGION":"TUCUMÁN",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"CAMPEÓN DEL SIGLO",
+        "CIUDAD":"MONTEVIDEO",
+        "REGION":"MONTEVIDEO",
+        "PAIS":"URUGUAY"
+    },
+    {
+        "ESTADIO":"MODELO ILAVE",
+        "CIUDAD":"ILAVE",
+        "REGION":"PUNO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"SAMANCHA URAVI",
+        "CIUDAD":"COLCAPIRHUA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"BICENTENARIO",
+        "CIUDAD":"VILLA TUNARI",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"VILLA INGENIO",
+        "CIUDAD":"EL ALTO",
+        "REGION":"LA PAZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"ASIB",
+        "CIUDAD":"TIQUIPAYA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"SEBASTIAN RAMIREZ",
+        "CIUDAD":"TIQUIPAYA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"COMPLEJO KALOMAI",
+        "CIUDAD":"SANTA CRUZ",
+        "REGION":"SANTA CRUZ",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"COMPLEJO WILSTERMANN",
+        "CIUDAD":"COCHABAMBA",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"ARBIETO",
+        "CIUDAD":"ARBIETO",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"ARENA DA BAIXADA",
+        "CIUDAD":"CURITIBA",
+        "REGION":"PARANÁ",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"OLÍMPICO UCV",
+        "CIUDAD":"CARACAS",
+        "REGION":"REGION CAPITAL",
+        "PAIS":"VENEZUELA"
+    },
+    {
+        "ESTADIO":"CASTELAO",
+        "CIUDAD":"FORTALEZA",
+        "REGION":"CEARÁ",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"MARACANÁ",
+        "CIUDAD":"RÍO DE JANEIRO",
+        "REGION":"RÍO DE JANEIRO",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"ROBERTO JORDÁN",
+        "CIUDAD":"COBIJA",
+        "REGION":"PANDO",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"CARLOS VILLEGAS",
+        "CIUDAD":"ENTRE RÍOS",
+        "REGION":"COCHABAMBA",
+        "PAIS":"BOLIVIA"
+    },
+    {
+        "ESTADIO":"JORGE LUIS HIRSCHI",
+        "CIUDAD":"LA PLATA",
+        "REGION":"BUENOS AIRES",
+        "PAIS":"ARGENTINA"
+    },
+    {
+        "ESTADIO":"CAP ACERO",
+        "CIUDAD":"TALCAHUANO",
+        "REGION":"CONCEPCIÓN",
+        "PAIS":"CHILE"
+    },
+    {
+        "ESTADIO":"COUTO PEREIRA",
+        "CIUDAD":"CURITIBA",
+        "REGION":"PARANÁ",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"GUILLERMO BRICEÑO",
+        "CIUDAD":"JULIACA",
+        "REGION":"PUNO",
+        "PAIS":"PERÚ"
+    },
+    {
+        "ESTADIO":"ARENA FONTE NOVA",
+        "CIUDAD":"SALVADOR",
+        "REGION":"BAHÍA",
+        "PAIS":"BRASIL"
+    },
+    {
+        "ESTADIO":"PUEBLO NUEVO",
+        "CIUDAD":"SAN CRISTÓBAL",
+        "REGION":"TÁCHIRA",
+        "PAIS":"VENEZUELA"
+    }
+]

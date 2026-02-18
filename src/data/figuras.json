@@ -1,0 +1,345 @@
+[
+  {
+    "id":"ramon-gonzalez",
+    "nombre":"Ramon González",
+    "pais":"Bolivia",
+    "epoca":"1908-1935",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"eduardo-reyes-ortiz",
+    "nombre":"Eduardo Reyes Ortiz",
+    "pais":"Bolivia",
+    "epoca":"1917-1935",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"froylan-pinilla",
+    "nombre":"Froylan Pinilla",
+    "pais":"Bolivia",
+    "epoca":"1929-1937",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"serapio-vega",
+    "nombre":"Serapio Vega",
+    "pais":"Bolivia",
+    "epoca":"1940-1950",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"alberto-acha",
+    "nombre":"Alberto Acha",
+    "pais":"Bolivia",
+    "epoca":"1944-1951",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"roberto-caparelli",
+    "nombre":"Roberto Caparelli",
+    "pais":"Argentina-Bolivia",
+    "epoca":"1946-1947, 1949-1951",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"vicente-arraya",
+    "nombre":"Vicente Arraya",
+    "pais":"Bolivia",
+    "epoca":"1940-1944,1945-1952",
+    "posicion":"Arquero"
+  },
+  {
+    "id":"max-ramirez",
+    "nombre":"Max Ramírez",
+    "pais":"Bolivia",
+    "epoca":"1958-1968",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"luis-galarza",
+    "nombre":"Luis Galarza",
+    "pais":"Paraguay-Bolivia",
+    "epoca":"1971-1987",
+    "posicion":"Arquero"
+  },
+  {
+    "id":"hector-marchetti",
+    "nombre":"Héctor Marchetti",
+    "pais":"Argentina",
+    "epoca":"1965-1969",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"juan-americo-diaz",
+    "nombre":"Juan Américo Diaz",
+    "pais":"Bolivia",
+    "epoca":"1970-1974",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"rolando-vargas",
+    "nombre":"Rolando Vargas",
+    "pais":"Bolivia",
+    "epoca":"1962-1973",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"natalio-flores",
+    "nombre":"Natalio Flores",
+    "pais":"Bolivia",
+    "epoca":"1972-1978",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"nilton-pinto",
+    "nombre":"Nilton Pinto",
+    "pais":"Brasil",
+    "epoca":"1969-1972",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"mario-pariente",
+    "nombre":"Mario Pariente",
+    "pais":"Bolivia",
+    "epoca":"1970-1971",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"ricardo-fontana",
+    "nombre":"Ricardo Fontana",
+    "pais":"Argentina-Bolivia",
+    "epoca":"1974-1982, 1985-1992",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"jorge-carlos-lattini",
+    "nombre":"Jorge Carlos Lattini",
+    "pais":"Argentina",
+    "epoca":"1978-1980",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"eduardo-angulo",
+    "nombre":"Eduardo Angulo",
+    "pais":"Bolivia",
+    "epoca":"1972-1983",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"eligio-martinez",
+    "nombre":"Eligio Martínez",
+    "pais":"Paraguay-Bolivia",
+    "epoca":"1981-1991, 1993-1994",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"juan-iriondo",
+    "nombre":"Juan Iriondo",
+    "pais":"Bolivia",
+    "epoca":"1968-1969",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"luis-iriondo",
+    "nombre":"Luis Iriondo",
+    "pais":"Bolivia",
+    "epoca":"1970-1986",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"ovidio-messa",
+    "nombre":"Ovidio Messa",
+    "pais":"Bolivia",
+    "epoca":"1978-1979, 1982-1983, 1985-1986",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"luis-fernando-bastida",
+    "nombre":"Luis Fernando Bastida",
+    "pais":"Argentina",
+    "epoca":"1969-1971",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"victor-hugo-romero",
+    "nombre":"Víctor Hugo Romero",
+    "pais":"Argentina",
+    "epoca":"1970-1971",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"mario-concha-algaranaz",
+    "nombre":"Mario Concha Algarañaz",
+    "pais":"Bolivia",
+    "epoca":"1975-1979",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"juan-farias",
+    "nombre":"Juan Farias",
+    "pais":"Argentina-Bolivia",
+    "epoca":"1971-1972",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"eduardo-villegas",
+    "nombre":"Eduardo Villegas",
+    "pais":"Bolivia",
+    "epoca":"1986-1987, 1989-1990, 1993, 1997",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"julian-jimenez",
+    "nombre":"Julián Jiménez",
+    "pais":"Paraguay",
+    "epoca":"1989-1990",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"mario-rolando-ortega",
+    "nombre":"Mario Rolando Ortega",
+    "pais":"Bolivia",
+    "epoca":"1982-1990, 1992",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"german-panichelli",
+    "nombre":"Germán Panichelli",
+    "pais":"Argentina",
+    "epoca":1987,
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"ramiro-castillo",
+    "nombre":"Ramiro Castillo",
+    "pais":"Bolivia",
+    "epoca":"1985-1987, 1992-1993, 1996",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"eliseo-ayaviri",
+    "nombre":"Eliseo Ayaviri",
+    "pais":"Bolivia",
+    "epoca":"1983-1990",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"jesus-reynaldo",
+    "nombre":"Jesús Reynaldo",
+    "pais":"Bolivia",
+    "epoca":1986,
+    "posicion":"Delantero"
+  },
+  {
+    "id":"sergio-luna",
+    "nombre":"Sergio Luna",
+    "pais":"Argentina",
+    "epoca":"1989-1994",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"oscar-sanchez",
+    "nombre":"Oscar Sánchez",
+    "pais":"Bolivia",
+    "epoca":"1991-1997, 2000-2001, 2007",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"vidal-gonzalez",
+    "nombre":"Vidal González",
+    "pais":"Argentina",
+    "epoca":"2000-2001",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"sandro-coelho",
+    "nombre":"Sandro Coelho",
+    "pais":"Brasil",
+    "epoca":"1997-2006, 2009",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"juan-carlos-paz-garcia",
+    "nombre":"Juan Carlos Paz García",
+    "pais":"Bolivia",
+    "epoca":"1999-2003, 2005-2006",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"luis-hector-cristaldo",
+    "nombre":"Luis Héctor Cristaldo",
+    "pais":"Bolivia",
+    "epoca":"2002-2006, 2011",
+    "posicion":"Defensor"
+  },
+  {
+    "id":"ruben-dario-gigena",
+    "nombre":"Rubén Darío Gigena",
+    "pais":"Argentina",
+    "epoca":"2002-2003",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"alejandro-chumacero",
+    "nombre":"Alejandro Chumacero",
+    "pais":"Bolivia",
+    "epoca":"2007-2013, 2014-2017",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"ernesto-cristaldo",
+    "nombre":"Ernesto Cristaldo",
+    "pais":"Paraguay",
+    "epoca":"2012-2016",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"pablo-escobar",
+    "nombre":"Pablo Escobar",
+    "pais":"Paraguay-Bolivia",
+    "epoca":"2005, 2007-2008, 2011-2018",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"daniel-vaca",
+    "nombre":"Daniel Vaca",
+    "pais":"Bolivia",
+    "epoca":"2011-2021",
+    "posicion":"Arquero"
+  },
+  {
+    "id":"gabriel-sotomayor",
+    "nombre":"Gabriel Sotomayor",
+    "pais":"Bolivia",
+    "epoca":"2018-2024, 2025-2026",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"jair-reinoso",
+    "nombre":"Jair Reinoso",
+    "pais":"Colombia-Bolivia",
+    "epoca":"2013-2014, 2019-2022",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"raul-castro",
+    "nombre":"Raúl Castro",
+    "pais":"Bolivia",
+    "epoca":"2013-2021, 2026",
+    "posicion":"Mediocampista"
+  },
+  {
+    "id":"rolando-blackburn",
+    "nombre":"Rolando Blackburn",
+    "pais":"Panamá",
+    "epoca":"2018-2019, 2020-2021",
+    "posicion":"Delantero"
+  },
+  {
+    "id":"guillermo-viscarra",
+    "nombre":"Guillermo Viscarra",
+    "pais":"Bolivia",
+    "epoca":"2021-2024",
+    "posicion":"Arquero"
+  }
+]
