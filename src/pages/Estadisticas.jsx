@@ -9,7 +9,7 @@ const Estadisticas = () => {
     return (
         <div className="space-y-6">
             <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">ESTADISTICAS</h1>
-            <div className="grid grid-cols-1 md:grid-cols-4 gap-8 p-10">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 p-10">
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <Link
                                 to="/tabla_posiciones"

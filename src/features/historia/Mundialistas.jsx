@@ -24,12 +24,12 @@ const Mundialistas = () => {
       </p>
 
       {/* FILTROS */}
-      <div className="flex justify-center gap-4">
+      <div className="flex justify-center gap-2 flex-wrap px-2">
         {["Todos", "Jugador", "Entrenador"].map(op => (
           <button
             key={op}
             onClick={() => setRol(op)}
-            className={`px-4 py-2 rounded font-bold
+            className={`px-3 sm:px-4 py-2 rounded font-bold text-sm sm:text-base
               ${
                 rol === op
                   ? "bg-black text-yellow-400"
@@ -42,7 +42,7 @@ const Mundialistas = () => {
       </div>
 
       {/* GRID */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 sm:grid-cols-2 md:grid-cols-4 gap-6">
         {listaFiltrada.map(persona => (
           <div
             key={persona.nombre}

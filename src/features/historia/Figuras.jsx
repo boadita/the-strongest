@@ -7,7 +7,7 @@ const Figuras = () => {
         FIGURAS HISTÓRICAS
       </h1>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
         {figuras.map(jugador => (
           <div key={jugador.id}
           className="bg-yellow-200 rounded shadow hover:shadow-lg hover:scale-105 transition">
