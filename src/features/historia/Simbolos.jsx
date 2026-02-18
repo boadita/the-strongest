@@ -17,7 +17,7 @@ const Simbolos = () => {
                     <img
                         src={chaynhita}
                         alt="chaynhita"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -37,7 +37,7 @@ const Simbolos = () => {
                     <img
                         src={vicunha}
                         alt="vicunha"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -57,7 +57,7 @@ const Simbolos = () => {
                     <img
                         src={condor}
                         alt="condor"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -76,7 +76,7 @@ const Simbolos = () => {
                     <img
                         src={tigre}
                         alt="tigre"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -96,7 +96,7 @@ const Simbolos = () => {
                     <img
                         src={negrito}
                         alt="negrito"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -116,7 +116,7 @@ const Simbolos = () => {
                     <img
                         src={escudo}
                         alt="escudo"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -135,7 +135,7 @@ const Simbolos = () => {
                     <img
                         src={himno}
                         alt="himno"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>
@@ -154,7 +154,7 @@ const Simbolos = () => {
                     <img
                         src={grito_de_guerra}
                         alt="grito_de_guerra"
-                        className="rounded-xl w-full md:w-64 h-40 object-cover"
+                        className="rounded-xl w-full md:w-64 h-auto object-cover"
                     />
                     <div>
                         <h2 className='font-bold text-xl mb-2 text-black text-center'>

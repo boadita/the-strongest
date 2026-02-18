@@ -14,7 +14,7 @@ const TablaPosiciones = () => {
       <h2 className='font-bold text-center'>TEMPORADA 2025</h2>
       {/* CONTENEDOR RESPONSIVE */}
       <div className="overflow-x-auto">
-        <table className="min-w-[700px] w-full border-collapse text-xs sm:text-sm md:text-base">
+        <table className="w-full border-collapse text-xs sm:text-sm md:text-base">
 
           <thead className="bg-black text-white sticky top-0 z-10">
             <tr>
