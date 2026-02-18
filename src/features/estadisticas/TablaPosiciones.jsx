@@ -19,7 +19,7 @@ const TablaPosiciones = () => {
           <thead className="bg-black text-white sticky top-0 z-10">
             <tr>
               <th className="px-2 py-2 whitespace-nowrap">#</th>
-              <th className="px-2 py-2 whitespace-nowrap text-left">Equipo</th>
+              <th className="px-2 py-2 whitespace-nowrap">Equipo</th>
               <th className="px-2 py-2 whitespace-nowrap">PJ</th>
               <th className="px-2 py-2 whitespace-nowrap">PG</th>
               <th className="px-2 py-2 whitespace-nowrap">PE</th>
@@ -37,8 +37,8 @@ const TablaPosiciones = () => {
                 key={equipo.EQUIPO}
                 className="text-center border-b hover:bg-yellow-200 transition-colors"
               >
-                <td className="px-2 py-1">{index + 1}</td>
-                <td className="px-2 py-1 text-left font-bold whitespace-nowrap">
+                <td>{index + 1}</td>
+                <td className="px-2 font-bold">
                   {equipo.EQUIPO}
                 </td>
                 <td>{equipo.PJ}</td>

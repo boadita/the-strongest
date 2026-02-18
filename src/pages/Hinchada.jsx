@@ -40,7 +40,7 @@ const Hinchada = () => {
 
       {/* CONTENIDO */}
       <section className="mt-6">
-        <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-6 md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-4">
           {hinchada[seccionActiva]?.map(item => (
             <HinchadaCard key={item.id} item={item} />
           ))}
