@@ -1,4 +1,5 @@
 import { NavLink, Outlet } from "react-router-dom";
+import { useState } from "react";
 
 const HistoriaPage = () => {
   const links = [
@@ -16,20 +17,35 @@ const HistoriaPage = () => {
     { path: "galeria", label: "Galería" }
   ];
 
+  const [menuAbierto, setMenuAbierto] = useState(false);
+
   return (
     <div className="grid grid-cols-1 md:grid-cols-[260px_1fr] gap-6">
 
       {/* ASIDE */}
       <aside className="bg-yellow-100 rounded-lg shadow p-4">
-        <h2 className="text-xl font-bold mb-4 text-center text-black">
+        {/* BOTÓN SOLO EN MÓVIL */}
+        <button
+          onClick={() => setMenuAbierto(!menuAbierto)}
+          className="md:hidden w-full flex justify-between items-center font-bold text-yellow-400 bg-black px-4 py-2 rounded"
+        >
+          Historia del Club
+          <span>{menuAbierto ? "▲" : "▼"}</span>
+        </button>
+        {/* TÍTULO SOLO DESKTOP */}
+        <h2 className="hidden md:block text-xl font-bold mb-4 text-center text-black">
           Historia del Club
         </h2>
 
-        <nav className="space-y-1">
+        <nav
+          className={`space-y-1 mt-3 md:mt-0
+          ${menuAbierto ? "block" : "hidden"} md:block`}
+        >
           {links.map(link => (
             <NavLink
               key={link.path}
               to={link.path}
+              onClick={() => setMenuAbierto(false)} // cerrar en móvil
               className={({ isActive }) =>
                 `block px-3 py-2 rounded font-semibold transition
                 ${isActive
