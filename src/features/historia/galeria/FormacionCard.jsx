@@ -5,7 +5,7 @@ const FormacionCard = ({ imagen, anio }) => {
       <img
         src={`/formaciones/${imagen.src}`}
         alt={imagen.descripcion}
-        className="rounded-xl w-full h-64 object-cover mt-2"
+        className="rounded-xl w-auto h-auto object-cover mt-2"
       />
 
       <p className="text-sm text-center mt-2 font-semibold">

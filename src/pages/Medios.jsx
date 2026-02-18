@@ -15,7 +15,7 @@ const Medios = () => {
                     <img
                         src={el_derribador}
                         alt="el_derribador"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>EL DERRIBADOR</h2>
                     <span className='flex justify-center mt-1'>Radio partidaria del club</span>
@@ -24,7 +24,7 @@ const Medios = () => {
                     <img
                         src={biblioteca}
                         alt="biblioteca"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>LA BIBLIOTECA STRONGUISTA "IVÁN AGUILAR MURGUÍA"</h2>
                     <span className='flex justify-center mt-1'>Biblioteca para encontrar libros del club</span>
@@ -33,7 +33,7 @@ const Medios = () => {
                     <img
                         src={el_mas_fuerte}
                         alt="el_mas_fuerte"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>EL + FUERTE</h2>
                     <span className='flex justify-center mt-1'>Revista dedicada al club</span>
@@ -42,7 +42,7 @@ const Medios = () => {
                     <img
                         src={area_atigrada}
                         alt="area_atigrada"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>ÁREA ATIGRADA</h2>
                     <span className='flex justify-center mt-1'>Información del club en redes sociales</span>
@@ -51,7 +51,7 @@ const Medios = () => {
                     <img
                         src={DonTigre}
                         alt="DonTigre"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>DON TIGRE</h2>
                     <span className='flex justify-center mt-1'>Información y chistes del club</span>
@@ -60,7 +60,7 @@ const Medios = () => {
                     <img
                         src={oficial}
                         alt="oficial"
-                        className="rounded-xl mx-auto w-64 h-60 object-cover"
+                        className="rounded-xl mx-auto w-auto h-auto object-cover"
                     />
                     <h2 className='font-bold text-center mt-2'>www.clubthestrongest.bo</h2>
                     <span className='flex justify-center mt-1'>Página oficial del club</span>
