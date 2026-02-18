@@ -1,6 +1,6 @@
 const Creditos = () => {
   return (
-    <section className="max-w-4xl mx-auto">
+    <section className="space-y-6">
       <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
         CRÉDITOS Y REFERENCIAS
       </h1>

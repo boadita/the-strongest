@@ -85,7 +85,7 @@ const Internacionales = () => {
                     <h3 className="font-semibold mb-2 text-gray-700">
                         PARTICIPACIONES:
                     </h3>
-                    <ul className="space-y-1">
+                    <ul className="grid grid-cols-2 gap-2">
                         {aniosUnicos.map(anio => (
                             <li key={anio}>
                                 <button
@@ -103,7 +103,7 @@ const Internacionales = () => {
                     </ul>
                 </aside>
                 <section>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 lg:grid-cols-3 gap-4">
                         {partidosPorAnio.map((partido) => (
                             <div
                                 key={partido.Id}
