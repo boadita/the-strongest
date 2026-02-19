@@ -23,6 +23,7 @@ import Estadisticas from "../pages/Estadisticas"
 import TablaPosiciones from "../features/estadisticas/TablaPosiciones"
 import Temporadas from "../features/estadisticas/Temporadas"
 import Historial from "../features/estadisticas/Historial"
+import EstadisticasPartidos from "../features/estadisticas/EstadisticasPartidos"
 import Internacionales from "../features/estadisticas/Internacionales"
 import Fixture from "../pages/Fixture"
 import Predios from "../pages/Predios"
@@ -63,6 +64,7 @@ const AppRouter = () => {
           <Route path="/tabla_posiciones" element={<TablaPosiciones />} />
           <Route path="/temporadas" element={<Temporadas />} />
           <Route path="/historial" element={<Historial />} />
+          <Route path="/estadisticas_partidos" element={<EstadisticasPartidos />} />
           <Route path="/internacionales" element={<Internacionales />} />
           <Route path="/fixture" element={<Fixture />} />
           <Route path="/hinchada" element={<Hinchada />} />

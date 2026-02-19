@@ -1,4 +1,5 @@
 import { useState } from "react";
+import { Link } from "react-router-dom";
 import historial from "../../data/historial.json";
 
 const Historial = () => {
@@ -319,6 +320,16 @@ const Historial = () => {
                     ⏭
                 </button>
             </div>
+                <Link to="/estadisticas_partidos"
+                className="grid place-items-center">
+                <button
+                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                >
+                    ESTADÍSTICAS POR RIVAL
+                </button>
+                </Link>
+                <div className="mt-6">
+      </div>
         </div>
     );
 };
