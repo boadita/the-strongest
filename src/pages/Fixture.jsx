@@ -12,7 +12,7 @@ const Fixture = () => {
                     <img
                         src={tachira}
                         alt="tachira"
-                        className="rounded-xl mx-auto w-64 h-70 object-cover"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
                     <h2 className='font-bold text-center mt-2'>3-2-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO RAFAEL MENDOZA CASTELLÓN</p>
@@ -21,7 +21,7 @@ const Fixture = () => {
                     <img
                         src={bolivar}
                         alt="bolivar"
-                        className="rounded-xl mx-auto w-64 h-80 object-cover"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
                     <h2 className='font-bold text-center mt-2'>6-2-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
@@ -30,19 +30,10 @@ const Fixture = () => {
                     <img
                         src={tachira}
                         alt="tachira"
-                        className="rounded-xl mx-auto w-64 h-70 object-cover"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
                     <h2 className='font-bold text-center mt-2'>10-2-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO PUEBLO NUEVO</p>
-                </div>
-                <div className="bg-yellow-100 p-4 rounded-xl shadow">
-                    <img
-                        src={nacional_potosi}
-                        alt="nacional_potosi"
-                        className="rounded-xl mx-auto w-64 h-70 object-cover"
-                    />
-                    <h2 className='font-bold text-center mt-2'>21-2-2026</h2>
-                    <p className='font-bold text-center mt-2'>ESTADIO VÍCTOR AGUSTÍN UGARTE</p>
                 </div>
             </div>
         </div>

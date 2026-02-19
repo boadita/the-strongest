@@ -11,11 +11,11 @@ const JugadorDetalle = () => {
 
   return (
     <section className="max-w-4xl mx-auto bg-yellow-100 rounded">
-      <div className="flex flex-col md:flex-row gap-6">
+      <div className="flex flex-col md:flex-row gap-6 items-center md:items-start">
         <img
           src={`/plantel/${jugador.id}.jpg`}
           alt={jugador.nombre}
-          className="w-64 h-auto rounded"
+          className="w-64 h-auto rounded mx-auto md:mx-0"
         />
 
         <div>
@@ -37,7 +37,7 @@ const JugadorDetalle = () => {
       </div>
 
       {/* Trayectoria */}
-      <div className="mt-8">
+      <div className="mt-8 flex flex-col items-center md:items-start">
         <h3 className="text-xl font-semibold mb-3">Trayectoria:</h3>
         <ul className="list-disc list-inside text-gray-700 font-semibold">
           {jugador.trayectoria.map((club, index) => (

@@ -1,6 +1,6 @@
 const FormacionCard = ({ imagen, anio }) => {
   return (
-    <div className="bg-yellow-200 p-3 rounded-xl shadow hover:scale-105 transition">
+    <div className="bg-yellow-200 p-3 rounded-xl grid place-items-center shadow hover:scale-105 transition">
       
       <img
         src={`/formaciones/${imagen.src}`}
