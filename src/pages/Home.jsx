@@ -35,22 +35,22 @@ const Home = () => {
           <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">1-3-2026</span>
+            <span className="text-2x1">22-2-2026</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
-            <span className="text-2x1">POTOSÍ</span>
+            <span className="text-2x1">EL ALTO</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">ESTADIO: </h4>
-            <span className="text-2x1">VÍCTOR AGUSTÍN UGARTE</span>
+            <span className="text-2x1">VILLA INGENIO</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">TORNEO: </h4>
-            <span className="text-2x1">VERANO</span>
+            <span className="text-2x1">COPA DE ALTURA</span>
           </div>
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-white rounded-lg">
-            <div className="font-bold text-lg">NACIONAL POTOSÍ</div>
+            <div className="font-bold text-lg">ALWAYS READY</div>
             <div className="text-2x1 text-white">vs</div>
             <div className="font-bold text-lg">THE STRONGEST</div>
           </div>

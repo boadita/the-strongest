@@ -26,6 +26,7 @@ import Historial from "../features/estadisticas/Historial"
 import EstadisticasPartidos from "../features/estadisticas/EstadisticasPartidos"
 import Internacionales from "../features/estadisticas/Internacionales"
 import Fixture from "../pages/Fixture"
+import Canciones from "../pages/Canciones"
 import Predios from "../pages/Predios"
 import Medios from "../pages/Medios"
 import Creditos from "../pages/Creditos"
@@ -67,6 +68,7 @@ const AppRouter = () => {
           <Route path="/estadisticas_partidos" element={<EstadisticasPartidos />} />
           <Route path="/internacionales" element={<Internacionales />} />
           <Route path="/fixture" element={<Fixture />} />
+          <Route path="/canciones" element={<Canciones />} />
           <Route path="/hinchada" element={<Hinchada />} />
           <Route path="/invasiones" element={<Invasiones />} />
           <Route path="/medios" element={<Medios />} />

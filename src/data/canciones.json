@@ -1,0 +1,219 @@
+[
+  {
+    "id":1,
+    "titulo":"Himno The Strongest",
+    "tipo":"Oficial",
+    "youtubeId":"4NGlwNoiAKM",
+    "descripcion":"Himno del club The Strongest interpretado por Adrián Patiño"
+  },
+  {
+    "id":2,
+    "titulo":"Adelante Strongest",
+    "tipo":"Banda",
+    "youtubeId":"jQLD8t4RDrs",
+    "descripcion":"Una canción para apoyar al club"
+  },
+  {
+    "id":3,
+    "titulo":"Celestino",
+    "tipo":"Huayño",
+    "youtubeId":"G6papjb4Q0M",
+    "descripcion":"Canción para hablar de los celestes"
+  },
+  {
+    "id":4,
+    "titulo":"Tigresa de Oro",
+    "tipo":"Bailable",
+    "youtubeId":"A7oH4CG2lro",
+    "descripcion":"Canción para las tigresas"
+  },
+  {
+    "id":5,
+    "titulo":"Tigre Libre",
+    "tipo":"Bailable",
+    "youtubeId":"GADHKsdBhDI",
+    "descripcion":"Canción para los tigres"
+  },
+  {
+    "id":6,
+    "titulo":"Somos campeones",
+    "tipo":"Bailable",
+    "youtubeId":"dmRCo3opaSQ",
+    "descripcion":"Una canción para festejar los campeonatos"
+  },
+  {
+    "id":7,
+    "titulo":"Condorcito",
+    "tipo":"Histórica",
+    "youtubeId":"8vkF1o7KrHU",
+    "descripcion":"Una de las canciones más antiguas del club"
+  },
+  {
+    "id":8,
+    "titulo":"Del Sur del Norte",
+    "tipo":"Bailable",
+    "youtubeId":"U_cyB95y1eo",
+    "descripcion":"Una de las nuevas canciones"
+  },
+  {
+    "id":9,
+    "titulo":"Angelito Atigrado",
+    "tipo":"Bailable",
+    "youtubeId":"HrJ1AaXJMTo",
+    "descripcion":"Canción para los ángeles atigrados"
+  },
+  {
+    "id":10,
+    "titulo":"Sangre Aurinegra",
+    "tipo":"Folklore",
+    "youtubeId":"xDINd9_JqMQ",
+    "descripcion":"Ajayu atigrado"
+  },
+  {
+    "id":11,
+    "titulo":"Te quiero más que ayer",
+    "tipo":"Rock",
+    "youtubeId":"y4sefKFmifM",
+    "descripcion":"Canción de Alejandro Delius"
+  },
+  {
+    "id":12,
+    "titulo":"Que viva el Strongest",
+    "tipo":"Rock",
+    "youtubeId":"QW144R87Ya4",
+    "descripcion":"Go go Blues"
+  },
+  {
+    "id":13,
+    "titulo":"Mi corazón con vos",
+    "tipo":"Rock",
+    "youtubeId":"IRCO7j1TIjc",
+    "descripcion":"Para los corazones atigrados"
+  },
+  {
+    "id":14,
+    "titulo":"La hinchada boliviana atigrada",
+    "tipo":"Rock",
+    "youtubeId":"4ahPA8hUG4E",
+    "descripcion":"Para los hinchas atigrados"
+  },
+  {
+    "id":15,
+    "titulo":"Illimani Stronguista",
+    "tipo":"Rock",
+    "youtubeId":"4GvFyi4dYp4",
+    "descripcion":"Esencia urbana"
+  },
+  {
+    "id":16,
+    "titulo":"Dale Tigre",
+    "tipo":"Rock",
+    "youtubeId":"no3j_tR4wuo",
+    "descripcion":"Una canción de J Aparicio"
+  },
+  {
+    "id":17,
+    "titulo":"Año del tigre",
+    "tipo":"Rock",
+    "youtubeId":"no3j_tR4wuo",
+    "descripcion":"Canción de los Miserables"
+  },
+  {
+    "id":18,
+    "titulo":"Gualdinegro del Recuerdo",
+    "tipo":"Bailable",
+    "youtubeId":"UxGFuyG12No",
+    "descripcion":"Canción de Delfin y su combo"
+  },
+  {
+    "id":19,
+    "titulo":"Negro y Amarillo son mis colores",
+    "tipo":"Bailable",
+    "youtubeId":"tuxDit0sm5Q",
+    "descripcion":"Canción de Freddy Chalar"
+  },
+  {
+    "id":20,
+    "titulo":"Oro y Negro",
+    "tipo":"Bailable",
+    "youtubeId":"cnLOJQZoFt8",
+    "descripcion":"Canción de Rafael Volcán"
+  },
+  {
+    "id":21,
+    "titulo":"Llega otra estrella",
+    "tipo":"Bailable",
+    "youtubeId":"Z4PfdGoIu4g",
+    "descripcion":"Canción para recordar el primer título liguero"
+  },
+  {
+    "id":22,
+    "titulo":"Soy Stronguista",
+    "tipo":"Bailable",
+    "youtubeId":"mq_Pj3_tCQI",
+    "descripcion":"Canción para los atigrados a morir"
+  },
+  {
+    "id":23,
+    "titulo":"Tigre Campeón",
+    "tipo":"Bailable",
+    "youtubeId":"orqcnn9nZXY",
+    "descripcion":"Canción de Freddy Chalar"
+  },
+  {
+    "id":24,
+    "titulo":"Yo soy del Tigre",
+    "tipo":"Bailable",
+    "youtubeId":"r1afp5105iE",
+    "descripcion":"Canción de Huayna Huila"
+  },
+  {
+    "id":25,
+    "titulo":"Clásico Bolívar-The Strongest",
+    "tipo":"Folklore",
+    "youtubeId":"EMzEc1owJDA",
+    "descripcion":"De la Familia Valdivia calentando los clásicos"
+  },
+  {
+    "id":26,
+    "titulo":"Homenaje a The Strongest",
+    "tipo":"Folklore",
+    "youtubeId":"sklXd6oed0c",
+    "descripcion":"Canción del los hermanos Luna"
+  },
+  {
+    "id":27,
+    "titulo":"Homenaje a The Strongest",
+    "tipo":"Folklore",
+    "youtubeId":"RBth9UZoE2A",
+    "descripcion":"Canción de Romanceros del Ande"
+  },
+  {
+    "id":28,
+    "titulo":"Homenaje al Chupa Riveros",
+    "tipo":"Folklore",
+    "youtubeId":"fe9Esz34iJM",
+    "descripcion":"Canción para homenajear al hincha No 1"
+  },
+  {
+    "id":29,
+    "titulo":"Tigre Querido",
+    "tipo":"Folklore",
+    "youtubeId":"6oI1EaBTiPo",
+    "descripcion":"Canción de Mónica Ergueta"
+  },
+  {
+    "id":30,
+    "titulo":"Tricampeón Boliviano",
+    "tipo":"Folklore",
+    "youtubeId":"3l8LpQrznX0",
+    "descripcion":"Canción de Orlando Cruz en homenaje al histórico Tricampeonato"
+  },
+  {
+    "id":31,
+    "titulo":"Chayñita",
+    "tipo":"Histórica",
+    "youtubeId":"yA5LcX9dv8g",
+    "descripcion":"Canción de las más antiguas y populares del club"
+  }
+]

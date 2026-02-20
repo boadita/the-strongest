@@ -1,6 +1,7 @@
 import React from 'react';
 import bolivar from "../assets/rivales/bolivar.png";
 import tachira from "../assets/rivales/tachira.png";
+import always_ready from "../assets/rivales/always_ready.png"
 import nacional_potosi from "../assets/rivales/nacional_potosi.png";
 
 const Fixture = () => {
@@ -34,6 +35,15 @@ const Fixture = () => {
                     />
                     <h2 className='font-bold text-center mt-2'>10-2-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO PUEBLO NUEVO</p>
+                </div>
+                <div className="bg-yellow-100 p-4 rounded-xl shadow">
+                    <img
+                        src={always_ready}
+                        alt="always_ready"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>22-2-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO VILLA INGENIO</p>
                 </div>
             </div>
         </div>

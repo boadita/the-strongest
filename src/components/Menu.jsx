@@ -11,6 +11,7 @@ const Menu = () => {
       <li><a href="/plantel">Plantel</a></li>
       <li><a href="/estadisticas">Estadísticas</a></li>
       <li><a href="/fixture">Fixture</a></li>
+      <li><a href="/canciones">Canciones</a></li>
       <li><a href="/hinchada">Hinchada</a></li>
       <li><a href="/invasiones">Invasiones</a></li>
       <li><a href="/medios">Medios</a></li>
