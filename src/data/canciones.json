@@ -215,5 +215,292 @@
     "tipo":"Histórica",
     "youtubeId":"yA5LcX9dv8g",
     "descripcion":"Canción de las más antiguas y populares del club"
+  },
+  {
+    "id":32,
+    "titulo":"Soy Stronguista señores",
+    "tipo":"Banda",
+    "youtubeId":"zCsVT8M36dw",
+    "descripcion":"Canción de Rebelión Payas"
+  },
+  {
+    "id":33,
+    "titulo":"Popurrí Stronguista",
+    "tipo":"Banda",
+    "youtubeId":"2Gh4MWc0No4",
+    "descripcion":"Variedad de canciones del club"
+  },
+  {
+    "id":34,
+    "titulo":"Poderoso Strongest",
+    "tipo":"Banda",
+    "youtubeId":"d1mmpXMfJ04",
+    "descripcion":"Canción de Rebelión Payas"
+  },
+  {
+    "id":35,
+    "titulo":"No lloren",
+    "tipo":"Banda",
+    "youtubeId":"o4D_wwioU0Q",
+    "descripcion":"Canción de Marisma mundial"
+  },
+  {
+    "id":36,
+    "titulo":"Hincha Jugador No 12",
+    "tipo":"Banda",
+    "youtubeId":"9xyatxShjAQ",
+    "descripcion":"Canción de la orquesta típica Los Amigos "
+  },
+  {
+    "id":37,
+    "titulo":"El Más Fuerte",
+    "tipo":"Banda",
+    "youtubeId":"WD2ozqOlihA",
+    "descripcion":"Canción de la orquesta típica Los Amigos "
+  },
+  {
+    "id":38,
+    "titulo":"Dale campeón",
+    "tipo":"Banda",
+    "youtubeId":"43N1Cv-S4A",
+    "descripcion":"Canción de Marisma mundial"
+  },
+  {
+    "id":39,
+    "titulo":"Valores Atigrados",
+    "tipo":"Rap",
+    "youtubeId":"bkeY_mxqDZY",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":40,
+    "titulo":"Tigre Querido Mi Luz",
+    "tipo":"Rap",
+    "youtubeId":"BqmRYJXa_qE",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":41,
+    "titulo":"Soy como el Tigre",
+    "tipo":"Rap",
+    "youtubeId":"1rz2-kX6644",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":42,
+    "titulo":"Kampion",
+    "tipo":"Rap",
+    "youtubeId":"nzdL0CcsZ2w",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":43,
+    "titulo":"Desapego",
+    "tipo":"Rap",
+    "youtubeId":"5lEWoJz2y9Y",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":44,
+    "titulo":"Contragolpe",
+    "tipo":"Rap",
+    "youtubeId":"H_BcStMuFiU",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":45,
+    "titulo":"Auriblack Dia D",
+    "tipo":"Rap",
+    "youtubeId":"Z5O1kgWOZ08",
+    "descripcion":"Canción de Marraketa Blindada"
+  },
+  {
+    "id":46,
+    "titulo":"Prohibido Desistir",
+    "tipo":"Balada",
+    "youtubeId":"WFWtPfqtWiQ",
+    "descripcion":"Frase de Pablo Escóbar hecha canción"
+  },
+  {
+    "id":47,
+    "titulo":"100 años The Strongest",
+    "tipo":"Balada",
+    "youtubeId":"rhxxWMkuv5g",
+    "descripcion":"Balada del centenario atigrado"
+  },
+  {
+    "id":48,
+    "titulo":"Canción del Centenario",
+    "tipo":"Balada",
+    "youtubeId":"dGc49ie0pDs",
+    "descripcion":"Balada del centenario atigrado"
+  },
+  {
+    "id":49,
+    "titulo":"Soy Atigrado",
+    "tipo":"Folklore",
+    "youtubeId":"yYKoebUbX6Q",
+    "descripcion":"Canción del Papirri para los hinchas atigrados"
+  },
+  {
+    "id":50,
+    "titulo":"Saya del Chocolatín",
+    "tipo":"Folklore",
+    "youtubeId":"Yi8KsdeUxLM",
+    "descripcion":"Saya para Ramiro Castillo cantada por el Papirri"
+  },
+  {
+    "id":51,
+    "titulo":"24 de Diciembre",
+    "tipo":"Folklore",
+    "youtubeId":"QMdDCrCGJk4",
+    "descripcion":"Canción del Papirri para recordar el título del 24 de diciembre del 2016 frente al rival de toda la vida"
+  },
+  {
+    "id":52,
+    "titulo":"Tigre del Pueblo",
+    "tipo":"Folklore",
+    "youtubeId":"EfSjJFvqhnw",
+    "descripcion":"Canción para los tigres del pueblo cantada por el Papirri"
+  },
+  {
+    "id":53,
+    "titulo":"Porque soy Tigre",
+    "tipo":"Huayño",
+    "youtubeId":"SekOLuRS_Zw",
+    "descripcion":"Canción de los Hermanos Zapata"
+  },
+  {
+    "id":54,
+    "titulo":"Tricampeones",
+    "tipo":"Huayño",
+    "youtubeId":"Gq9-IoWJw7k",
+    "descripcion":"Canción de los Hermanos Zapata"
+  },
+  {
+    "id":55,
+    "titulo":"Viva mi patria Bolivia",
+    "tipo":"Cueca",
+    "youtubeId":"I2mpI-01MJM",
+    "descripcion":"Segundo hinmo nacional"
+  },
+  {
+    "id":56,
+    "titulo":"Valeroso Gualdinegro",
+    "tipo":"Histórica",
+    "youtubeId":"1BeY_eXQ3-s",
+    "descripcion":"Canción histórica del maestro Adrián Patiño"
+  },
+  {
+    "id":57,
+    "titulo":"Tigre Campeón",
+    "tipo":"Bailable",
+    "youtubeId":"JkBRFcolWvc",
+    "descripcion":"Canción para festejar al Tigre campeón"
+  },
+  {
+    "id":58,
+    "titulo":"Stronguistas somos",
+    "tipo":"Bailable",
+    "youtubeId":"g94kmWO1EBo",
+    "descripcion":"Canción para los que todos somos stronguistas"
+  },
+  {
+    "id":59,
+    "titulo":"Oh querido Strongest",
+    "tipo":"Bailable",
+    "youtubeId":"c-9dx85lJXo",
+    "descripcion":"Una linda canción del club The Strongest"
+  },
+  {
+    "id":60,
+    "titulo":"Adelante Gualdinegro",
+    "tipo":"Bailable",
+    "youtubeId":"yD4mmJJ-Luc",
+    "descripcion":"Una canción para alentar al club"
+  },
+  {
+    "id":61,
+    "titulo":"Chumacero-Legítimo Aurinegro",
+    "tipo":"Histórica",
+    "youtubeId":"TaBfp1f_7y",
+    "descripcion":"Canción para Alejandro Chumacero"
+  },
+  {
+    "id":62,
+    "titulo":"Corazón de Guerrero",
+    "tipo":"Histórica",
+    "youtubeId":"sluH1AgHTlI",
+    "descripcion":"Canción de Cañada Strongest"
+  },
+  {
+    "id":63,
+    "titulo":"Castro Comander",
+    "tipo":"Histórica",
+    "youtubeId":"sluH1AgHTlI",
+    "descripcion":"Cancion dedicada al Comandante Raúl Castro"
+  },
+  {
+    "id":64,
+    "titulo":"Vaca con Garra",
+    "tipo":"Histórica",
+    "youtubeId":"FXF2qpChmHY",
+    "descripcion":"Canción para el ex portero Daniel Vaca"
+  },
+  {
+    "id":65,
+    "titulo":"Viloco",
+    "tipo":"Histórica",
+    "youtubeId":"i1lPATbRNNw",
+    "descripcion":"Canción para el recuerdo del accidente de Viloco"
+  },
+  {
+    "id":66,
+    "titulo":"Cacharpaya del Soldado",
+    "tipo":"Histórica",
+    "youtubeId":"VeiHWOLLfMs",
+    "descripcion":"Negra Samba en versión de la Guerra del Chaco"
+  },
+  {
+    "id":67,
+    "titulo":"Tigres de Achumano",
+    "tipo":"Bailable",
+    "youtubeId":"83T_nbEZu-U",
+    "descripcion":"Canción alegre de The Strongest"
+  },
+  {
+    "id":68,
+    "titulo":"Mirando está el Illimani",
+    "tipo":"Histórica",
+    "youtubeId":"DESXjv-dcW8",
+    "descripcion":"Canción del Tigre Derribador"
+  },
+  {
+    "id":69,
+    "titulo":"Una Raya más al Tigre",
+    "tipo":"Bailable",
+    "youtubeId":"in0o0q5DM7c",
+    "descripcion":"Canción alegre de The Strongest"
+  },
+  {
+    "id":70,
+    "titulo":"Saca la Garra",
+    "tipo":"Bailable",
+    "youtubeId":"Fj9Efy2mIE0",
+    "descripcion":"Canción de la garra stronguista"
+  },
+  {
+    "id":71,
+    "titulo":"100 años  ",
+    "tipo":"Histórica",
+    "youtubeId":"SPfsY9OOmVE",
+    "descripcion":"Homenaje a los 100 años del club"
+  },
+  {
+    "id":72,
+    "titulo":"Flamean las Banderas",
+    "tipo":"Bailable",
+    "youtubeId":"3rXiBskvsp4",
+    "descripcion":"Canción para flamear las banderas del club"
   }
 ]

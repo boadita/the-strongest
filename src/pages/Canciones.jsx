@@ -8,11 +8,14 @@ const Canciones = () => {
   const tipos = [
     "Todas",
     "Banda",
+    "Balada",
+    "Cueca",
     "Huayño",
     "Bailable",
     "Histórica",
     "Folklore",
     "Rock",
+    "Rap",
     "Oficial"
   ];
 
@@ -47,7 +50,7 @@ const Canciones = () => {
       </div>
 
       {/* LISTA */}
-      <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-6 md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-3">
         {cancionesFiltradas.map(cancion => (
           <CancionCard key={cancion.id} cancion={cancion} />
         ))}
