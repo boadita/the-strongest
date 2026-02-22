@@ -41053,7 +41053,7 @@
   },
   {
     "Id":3422,
-    "FECHA":"2026-02-11",
+    "FECHA":"2026-02-10",
     "EQUIPO":"TÁCHIRA",
     "RESULTADO":"1 (5) - 0 (3)",
     "EQUIPO2":"THE STRONGEST",
@@ -41062,5 +41062,17 @@
     "TORNEO":"LIBERTADORES",
     "TIPO":"INTERNACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3423,
+    "FECHA":"2026-02-22",
+    "EQUIPO":"ALWAYS READY",
+    "RESULTADO":"2-0",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"VILLA INGENIO",
+    "CIUDAD":"EL ALTO",
+    "TORNEO":"COPA DE ALTURA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"AMISTOSO"
   }
 ]

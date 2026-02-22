@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "2",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 2,
+    "partidosJugados": 3,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 0,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -319,7 +319,7 @@
     "altura": 1.68,
     "peso": 78.0,
     "numero": "19",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 1,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -435,26 +435,6 @@
     ]
   },
   {
-    "id": "sebastian-altamirano",
-    "nombre": "Sebastián Altamirano",
-    "fechaNacimiento": "2006-05-09",
-    "edad": 20,
-    "nacionalidad": "boliviana",
-    "posicion": "Defensor",
-    "altura": 1.73,
-    "peso": 71.0,
-    "numero": "32",
-    "partidosJugados": 1,
-    "goles": 0,
-    "trayectoria": [
-      {
-        "club": "The Strongest",
-        "desde": 2025,
-        "hasta": "Actualidad"
-      }
-    ]
-  },
-  {
     "id": "widen-saucedo",
     "nombre": "Widen Saucedo",
     "fechaNacimiento": "1997-03-01",
@@ -464,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 0,
     "trayectoria": [
       {
@@ -514,7 +494,7 @@
     "altura": 1.85,
     "peso": 77.0,
     "numero": "2",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 1,
     "trayectoria": [
       {
@@ -584,7 +564,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 0,
     "trayectoria": [
       {
@@ -644,7 +624,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 2,
     "trayectoria": [
       {
@@ -754,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -794,7 +774,7 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 1,
     "trayectoria": [
       {
@@ -834,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -889,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 0,
     "trayectoria": [
       {
@@ -1084,7 +1064,7 @@
     "altura": 1.76,
     "peso": 78.0,
     "numero": "11",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 0,
     "trayectoria": [
       {
@@ -1159,7 +1139,7 @@
     "altura": 1.76,
     "peso": 69.0,
     "numero": "77",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 1,
     "trayectoria": [
       {
@@ -1209,7 +1189,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 0,
     "trayectoria": [
       {
@@ -1319,7 +1299,7 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 2,
+    "partidosJugados": 3,
     "goles": 0,
     "trayectoria": [
       {
@@ -1394,7 +1374,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
