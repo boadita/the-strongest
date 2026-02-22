@@ -16,6 +16,7 @@ const Menu = () => {
       <li><a href="/invasiones">Invasiones</a></li>
       <li><a href="/medios">Medios</a></li>
       <li><a href="/predios">Predios</a></li>
+      <li><a href="/referencias">Referencias</a></li>
       <li><a href="/creditos">Creditos</a></li>
     </ul>
   </div>

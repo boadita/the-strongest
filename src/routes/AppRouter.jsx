@@ -29,6 +29,7 @@ import Fixture from "../pages/Fixture"
 import Canciones from "../pages/Canciones"
 import Predios from "../pages/Predios"
 import Medios from "../pages/Medios"
+import Referencias from "../pages/Referencias"
 import Creditos from "../pages/Creditos"
 const AppRouter = () => {
   return (
@@ -73,6 +74,7 @@ const AppRouter = () => {
           <Route path="/invasiones" element={<Invasiones />} />
           <Route path="/medios" element={<Medios />} />
           <Route path="/predios" element={<Predios />} />
+          <Route path="/referencias" element={<Referencias />} />
           <Route path="/creditos" element={<Creditos />} />
 
         </Route>

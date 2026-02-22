@@ -1,0 +1,212 @@
+[
+  {
+    "id":"la-fiesta-del-futbol",
+    "titulo":"La fiesta del fútbol",
+    "autor":"Jorge Hochman",
+    "anio":1986,
+    "descripcion":"Datos estadísticos del clásico The Strongest-Bolivar"
+  },
+  {
+    "id":"el-libro-de-oro",
+    "titulo":"El libro de oro de The Strongest",
+    "autor":"Freddy Oporto Lenz",
+    "anio":1989,
+    "descripcion":"Historia y datos del club The Strongest"
+  },
+  {
+    "id":"the-strongest-100-anhos-de-garra",
+    "titulo":"The Strongest 100 años de garra",
+    "autor":"La Razón",
+    "anio":2008,
+    "descripcion":"Datos históricos del club The Strongest en sus 100 años de vida"
+  },
+  {
+    "id":"warikasaya",
+    "titulo":"Warikasaya",
+    "autor":"Varios",
+    "anio":2008,
+    "descripcion":"Cuentos e historias Stronguistas contadas por los hinchas"
+  },
+  {
+    "id":"pasion-centenaria",
+    "titulo":"Pasión Centenaria",
+    "autor":"Ariel Sanjinés Díaz",
+    "anio":2008,
+    "descripcion":"Historia del club The Strongest en sus 100 años de vida"
+  },
+  {
+    "id":"los-100-del-tigre",
+    "titulo":"Los 100 del Tigre",
+    "autor":"Jhonny Villarroel",
+    "anio":2008,
+    "descripcion":"100 preguntas y respuestas del club The Strongest"
+  },
+  {
+    "id":"el-grafico",
+    "titulo":"El Tigre Amado",
+    "autor":"Revista El Gráfico",
+    "anio":2008,
+    "descripcion":"La histórica revista argentina El Gráfico dedicó un especial al club en sus 100 años"
+  },
+  {
+    "id":"4-de-5-el-tigre-te-mata",
+    "titulo":"4 de 5, el Tigre te mata",
+    "autor":"Ricardo Bajo",
+    "anio":2013,
+    "descripcion":"Relatos e historias del título 4 de 5 del 2013"
+  },
+  {
+    "id":"historia-de-la-gloriosa-ultra-sur-34",
+    "titulo":"Historia de la Gloriosa Ultra Sur",
+    "autor":"Oswaldo Calatayud",
+    "anio":2015,
+    "descripcion":"Historia de la barra más fiel del club The Strongest"
+  },
+  {
+    "id":"kalatakaya",
+    "titulo":"Kalatakaya",
+    "autor":"Varios",
+    "anio":2017,
+    "descripcion":"Relatos atigrados de las vivencias del 24 de Diciembre del 2016"
+  },
+  {
+    "id":"clasico-literario",
+    "titulo":"Clásico Literiario",
+    "autor":"Ricardo Bajo",
+    "anio":2018,
+    "descripcion":"Cuentos stronguistas y bolivaristas"
+  },
+  {
+    "id":"hurra-hurra",
+    "titulo":"Hurra Hurra ",
+    "autor":"Varios",
+    "anio":2018,
+    "descripcion":"Cuentos y relatos stronguistas realizados por varios autores"
+  },
+  {
+    "id":"the-strongest-numeros-en-amarillo-y-negro",
+    "titulo":"The Strongest números en amarillo y negro",
+    "autor":"Ariel Sanjinés Díaz",
+    "anio":2019,
+    "descripcion":"Números y estadísticas del club The Strongest desde el profesionalismo"
+  },
+  {
+    "id":"ya-no-moriran",
+    "titulo":"Ya no morirán",
+    "autor":"Ricardo Bajo",
+    "anio":2019,
+    "descripcion":"Relatos de Cañada Strongest en la Guerra del Chaco"
+  },
+  {
+    "id":"viloco-50-anhos",
+    "titulo":"Viloco 50 años de la tragedia aérea",
+    "autor":"Varios",
+    "anio":2019,
+    "descripcion":"Relatos del trágico accidente de Viloco"
+  },
+  {
+    "id":"las-mas-fuertes",
+    "titulo":"Las Más Fuertes",
+    "autor":"Katherine Gallardo",
+    "anio":2020,
+    "descripcion":"Narración y relatos de las mujeres en el club The Strongest"
+  },
+  {
+    "id":"the-strongest-y el-hernando-siles",
+    "titulo":"The Strongest y el Hernando Siles",
+    "autor":"Varios",
+    "anio":2020,
+    "descripcion":"Relatos e historias vividas en el estadio Hernando Siles en sus 90 años y los partidos del club The Strongest"
+  },
+  {
+    "id":"cancionero-stronguista",
+    "titulo":"Cancionero Stronguista",
+    "autor":"Oswaldo Calatayud-Pamela Tamayo",
+    "anio":2021,
+    "descripcion":"Canciones del club desde los inicios y también canciones de la barra"
+  },
+  {
+    "id":"sucre-capital-atigrada",
+    "titulo":"Sucre capital atigrada",
+    "autor":"Jorge Luis Molina",
+    "anio":2021,
+    "descripcion":"Relatos y descripción del tigre y la hinchada y juegos en la capital del país"
+  },
+  {
+    "id":"raul-chupa-riveros",
+    "titulo":"Raúl Chupa Riveros",
+    "autor":"Oswaldo Calatayud-Pamela Tamayo",
+    "anio":2022,
+    "descripcion":"Anecdotas del hincha eterno No 1 del club Chupa Riveros"
+  },
+  {
+    "id":"2528-noches",
+    "titulo":"2528 noches",
+    "autor":"Oswaldo Calatayud-Ricardo Bajo",
+    "anio":2023,
+    "descripcion":"Relatos de los hinchas del título obtenido el 2023 luego de 7 años de espera"
+  },
+  {
+    "id":"cuando-el-tigre-era-joven",
+    "titulo":"Cuando el Tigre era joven",
+    "autor":"Ricardo Bajo",
+    "anio":2023,
+    "descripcion":"Historias del club The Strongest en sus primeros anos de vida"
+  },
+  {
+    "id":"marina-azcarraga-la-inolvidable",
+    "titulo":"Marina Azcárraga la Inovvidable",
+    "autor":"Oswaldo Calatayud-Pamela Tamayo",
+    "anio":2023,
+    "descripcion":"Historia y relatos de una dama importante en el club como fue Marina Azcárraga"
+  },
+  {
+    "id":"tricampeones",
+    "titulo":"Tricampeones",
+    "autor":"Ricardo Bajo-Oswaldo Calatayud-Ariel Sanjinés Díaz",
+    "anio":2023,
+    "descripcion":"Relatos, vivencias y recuerdos partido a partido recordando los 10 años del histórico tricampeonato atigrado"
+  },
+  {
+    "id":"rugido-centenario",
+    "titulo":"Rugido Centenario",
+    "autor":"Iván Aguilar Murguía",
+    "anio":2023,
+    "descripcion":"Libro póstumo del historiador Iván Aguilar Murguía de la historia del club The Strongest en 3 tomos"
+  },
+  {
+    "id":"luis-galarza",
+    "titulo":"Luis Galarza",
+    "autor":"Varios",
+    "anio":2024,
+    "descripcion":"Relatos e historias del histórico portero del club Luis Galarza"
+  },
+  {
+    "id":"pablo-escobar-el-emblema",
+    "titulo":"Pablo Escóbar el emblema stronguista",
+    "autor":"Oswaldo Calatayud-Pamela Tamayo",
+    "anio":2024,
+    "descripcion":"Números y biografía del histórico capitán y emblema Pablo Escóbar"
+  },
+  {
+    "id":"rolando-vargas",
+    "titulo":"Rolando 'Perro' Vargas aurinegro hasta la eternidad",
+    "autor":"Thomas Allain Pouliquen",
+    "anio":2024,
+    "descripcion":"Historia y biografía de un histórico del club Rolando \"Perro\" Vargas"
+  },
+  {
+    "id":"sergio-luna",
+    "titulo":"Sergio Luna, la pelota mi vida",
+    "autor":"Sergio Uriarte",
+    "anio":2024,
+    "descripcion":"Biografía y recuerdos del histórico Sergio Luna"
+  },
+  {
+    "id":"the-strongest-bicentenario",
+    "titulo":"The Strongest Bicentenario",
+    "autor":"Ariel Sanjinés Díaz",
+    "anio":2025,
+    "descripcion":"Historia del club The Strongest como parte de los 200 años de Bolivia"
+  }
+]
