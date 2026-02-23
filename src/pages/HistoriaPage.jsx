@@ -62,7 +62,7 @@ const HistoriaPage = () => {
       </aside>
 
       {/* CONTENIDO */}
-      <section className="bg-yellow-100 rounded shadow p-6">
+      <section className="bg-yellow-100 dark:text-gray-800 rounded shadow p-6">
         <Outlet />
         {/* FUENTES */}
         <br />

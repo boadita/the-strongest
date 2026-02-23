@@ -123,14 +123,14 @@ const Historial = () => {
             <nav className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
                 {/* AÑO */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">AÑO: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">AÑO: </span>
                     <select
                         value={anioSeleccionado}
                         onChange={e => {
                             setAnioSeleccionado(e.target.value);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todos los años</option>
 
@@ -143,14 +143,14 @@ const Historial = () => {
                 </div>
                 {/* EQUIPO */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">RIVAL: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">RIVAL: </span>
                     <select
                         value={equipoSeleccionado}
                         onChange={e => {
                             setEquipoSeleccionado(e.target.value);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todos los equipos</option>
 
@@ -163,11 +163,11 @@ const Historial = () => {
                 </div>
                 {/* CIUDAD */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">CIUDAD: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">CIUDAD: </span>
                     <select
                         value={ciudadSeleccionada}
                         onChange={handleCiudadChange}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todas las ciudades</option>
                         {ciudadesUnicas.map(c => (
@@ -176,7 +176,7 @@ const Historial = () => {
                     </select>
                 </div>
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">ESTADIO: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">ESTADIO: </span>
                     {/* ESTADIO */}
                     <select
                         value={estadioSeleccionado}
@@ -184,7 +184,7 @@ const Historial = () => {
                             setestadioSeleccionado(e.target.value);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                         disabled={!estadiosFiltrados.length}
                     >
                         <option value="">Todos los estadios</option>
@@ -194,12 +194,12 @@ const Historial = () => {
                     </select>
                 </div>
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">MODALIDAD: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">MODALIDAD: </span>
                     {/* MODALIDAD */}
                     <select
                         value={modalidadSeleccionada}
                         onChange={handleModalidadChange}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todas las modalidades</option>
                         {modalidadesUnicas.map(m => (
@@ -208,12 +208,12 @@ const Historial = () => {
                     </select>
                 </div>
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">TIPO: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">TIPO: </span>
                     {/* TIPO */}
                     <select
                         value={tipoSeleccionado}
                         onChange={handleTipoChange}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todos los tipos</option>
                         {tiposUnicos.map(t => (
@@ -222,7 +222,7 @@ const Historial = () => {
                     </select>
                 </div>
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold whitespace-nowrap">TORNEO: </span>
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">TORNEO: </span>
                     {/* TORNEO */}
                     <select
                         value={torneoSeleccionado}
@@ -230,7 +230,7 @@ const Historial = () => {
                             setTorneoSeleccionado(e.target.value);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                         disabled={!torneosFiltrados.length}
                     >
                         <option value="">Todos los torneos</option>
@@ -240,7 +240,7 @@ const Historial = () => {
                     </select>
                 </div>
             </nav>
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">HISTORIAL DE PARTIDOS</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">HISTORIAL DE PARTIDOS</h1>
             {/* RESULTADO */}
             <div className="mt-6">
                 <div className="overflow-x-auto w-full">
@@ -263,7 +263,7 @@ const Historial = () => {
                             {datosPaginados.map(h => (
                                 <tr
                                     key={h.Id}
-                                    className="font-semibold bg-yellow-100 hover:bg-gray-50 transition-colors"
+                                    className="font-semibold bg-yellow-100 dark:text-gray-800 hover:bg-gray-50 transition-colors"
                                 >
                                     <td className="border px-2 py-1 text-center">{h.Id}</td>
                                     <td className="border px-2 py-1 text-center whitespace-nowrap">{h.FECHA}</td>
@@ -285,7 +285,7 @@ const Historial = () => {
                 <button
                     onClick={() => setPaginaActual(p => Math.max(p - 1, 1))}
                     disabled={paginaActual === 1}
-                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                    className="px-3 py-1 border rounded font-bold dark:text-gray-800 bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ⏮
                 </button>
@@ -302,7 +302,7 @@ const Historial = () => {
                             className={`px-3 py-1 border rounded font-bold
         ${paginaActual === num
                                     ? "bg-black text-yellow-400"
-                                    : "bg-yellow-100 hover:bg-black hover:text-yellow-400"
+                                    : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                                 }`}
                         >
                             {num}
@@ -315,7 +315,7 @@ const Historial = () => {
                         setPaginaActual(p => Math.min(p + 1, totalPaginas))
                     }
                     disabled={paginaActual === totalPaginas}
-                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                    className="px-3 py-1 border rounded font-bold dark:text-gray-800 bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ⏭
                 </button>
@@ -323,13 +323,11 @@ const Historial = () => {
                 <Link to="/estadisticas_partidos"
                 className="grid place-items-center">
                 <button
-                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                    className="px-3 py-1 border rounded font-bold bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ESTADÍSTICAS POR RIVAL
                 </button>
                 </Link>
-                <div className="mt-6">
-      </div>
         </div>
     );
 };

@@ -1,7 +1,7 @@
 const Creditos = () => {
   return (
     <section className="space-y-6">
-      <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+      <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
         CRÉDITOS Y REFERENCIAS
       </h1>
       <div className="bg-yellow-100 rounded shadow p-6">
@@ -12,7 +12,7 @@ const Creditos = () => {
 
         {/* Fuentes históricas */}
         <div className="mb-8">
-          <h2 className="text-xl font-semibold mb-3">
+          <h2 className="text-xl font-semibold mb-3 dark:text-gray-800">
             Fuentes Históricas
           </h2>
           <ul className="list-disc list-inside text-gray-600">
@@ -25,7 +25,7 @@ const Creditos = () => {
 
         {/* Créditos de imágenes */}
         <div className="mb-8">
-          <h2 className="text-xl font-semibold mb-3">
+          <h2 className="text-xl font-semibold mb-3 dark:text-gray-800">
             Créditos de Imágenes
           </h2>
           <p className="text-gray-600 mb-2">
@@ -42,7 +42,7 @@ const Creditos = () => {
 
         {/* Aviso legal */}
         <div>
-          <h2 className="text-xl font-semibold mb-3">
+          <h2 className="text-xl font-semibold mb-3 dark:text-gray-800">
             Aviso Legal
           </h2>
           <p className="text-gray-600">

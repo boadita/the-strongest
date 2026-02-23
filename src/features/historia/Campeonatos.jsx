@@ -16,6 +16,7 @@ const Campeonatos = () => {
                 "TORNEO PACEÑO 1935",
                 "TORNEO PACEÑO 1938",
                 "TORNEO PACEÑO 1943",
+                "TORNEO PACEÑO 1945",
                 "TORNEO PACEÑO 1946",
             ],
             profesional: [
@@ -55,7 +56,7 @@ const Campeonatos = () => {
     return (
         <div className="space-y-10">
             {/* TÍTULO */}
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
                 CAMPEONATOS
             </h1>
             <div className="grid md:grid-cols-2 gap-6">

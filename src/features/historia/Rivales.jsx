@@ -81,7 +81,7 @@ const Rivales = () => {
         categoria === "paceños" ? rivalesPaceños : rivalesNacionales;
     return (
         <div className="space-y-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">RIVALES</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">RIVALES</h1>
             {/* BOTONES */}
             <div className="flex justify-center gap-4">
                 <button

@@ -17,7 +17,7 @@ const Entrenadores = () => {
     return (
         <div className="space-y-10">
             {/* TÍTULO */}
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
                 ENTRENADORES
             </h1>
             <div className="overflow-x-auto items-center justify-center flex flex-col">

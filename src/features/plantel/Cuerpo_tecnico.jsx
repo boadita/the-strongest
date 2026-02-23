@@ -2,7 +2,7 @@
 const Cuerpo_tecnico = () => {
 
   return (
-    <section>
+    <section className="dark:text-gray-800">
       <h2 className="text-2xl font-bold mb-6 text-center">
         CUERPO TECNICO
       </h2>

@@ -5,7 +5,7 @@ import Cuerpo_tecnico from "./Cuerpo_tecnico"
 const Plantel = () => {
   return (
     <section>
-      <h2 className="text-2xl font-bold mb-6 text-center">
+      <h2 className="text-2xl font-bold dark:text-gray-800 mb-6 text-center">
         TEMPORADA 2026
       </h2>
 
@@ -23,7 +23,7 @@ const Plantel = () => {
             />
 
             <div className="p-3 bg-yellow-100 rounded text-center">
-              <h3 className="font-semibold">{jugador.nombre}</h3>
+              <h3 className="font-semibold dark:text-gray-800">{jugador.nombre}</h3>
               <p className="text-sm text-gray-600">{jugador.posicion}</p>
             </div>
           </Link>

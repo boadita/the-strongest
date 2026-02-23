@@ -19,7 +19,7 @@ const JugadorDetalle = () => {
         />
 
         <div>
-          <h2 className="text-3xl font-bold text-center">
+          <h2 className="text-3xl font-bold dark:text-gray-800 text-center">
             {jugador.nombre}
           </h2>
           <p className="text-gray-600 mb-4 text-2xl font-bold text-center">{jugador.posicion}</p>
@@ -38,7 +38,7 @@ const JugadorDetalle = () => {
 
       {/* Trayectoria */}
       <div className="mt-8 flex flex-col items-center md:items-start">
-        <h3 className="text-xl font-semibold mb-3">Trayectoria:</h3>
+        <h3 className="text-xl font-semibold dark:text-gray-800 mb-3">Trayectoria:</h3>
         <ul className="list-disc list-inside text-gray-700 font-semibold">
           {jugador.trayectoria.map((club, index) => (
             <li key={index}>

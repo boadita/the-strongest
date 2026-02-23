@@ -9,7 +9,7 @@ import colon from "../assets/predios/colon.jpg";
 const Predios = () => {
     return (
         <div className="space-y-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">PREDIOS</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">PREDIOS</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-10">
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -17,7 +17,7 @@ const Predios = () => {
                         alt="cancha_gustavo_carlos_otero"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>CANCHA GUSTAVO CARLOS OTERO</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">CANCHA GUSTAVO CARLOS OTERO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -25,7 +25,7 @@ const Predios = () => {
                         alt="estadio"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ESTADIO RAFAEL MENDOZA CASTELLÓN</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">ESTADIO RAFAEL MENDOZA CASTELLÓN</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -33,7 +33,7 @@ const Predios = () => {
                         alt="complejo"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COMPLEJO DE ACHUMANI</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">COMPLEJO DE ACHUMANI</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -41,7 +41,7 @@ const Predios = () => {
                         alt="yungas"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ESCUELA CAÑADA STRONGEST</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">ESCUELA CAÑADA STRONGEST</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -49,7 +49,7 @@ const Predios = () => {
                         alt="satelite"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ESCUELA CIUDAD SATÉLITE</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">ESCUELA CIUDAD SATÉLITE</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -57,7 +57,7 @@ const Predios = () => {
                         alt="colon"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>SEDE DEL CLUB</h2>
+                    <h2 className="font-bold text-center mt-2 dark:text-gray-800">SEDE DEL CLUB</h2>
                 </div>
             </div>
         </div>

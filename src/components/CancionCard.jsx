@@ -12,7 +12,7 @@ const CancionCard = ({ cancion }) => {
       </div>
 
       <div className="p-4">
-        <h3 className="font-bold text-lg text-center">
+        <h3 className="font-bold text-lg dark:text-gray-800 text-center">
           {cancion.titulo}
         </h3>
 

@@ -5,7 +5,7 @@ const Referencias = () => {
         <div className="space-y-6">
 
             {/* TÍTULO */}
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
                 REFERENCIAS BIBLIOGRÁFICAS
             </h1>
 
@@ -36,7 +36,7 @@ const Referencias = () => {
 
                         {/* CONTENIDO */}
 
-                        <div className="p-4 space-y-1 text-center">
+                        <div className="p-4 space-y-1 text-center dark:text-gray-800">
                             <h2 className="text-lg font-bold">
                                 {lib.titulo}
                             </h2>

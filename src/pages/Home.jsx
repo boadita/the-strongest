@@ -3,10 +3,10 @@ import React from 'react';
 const Home = () => {
   return (
     <div className="space-y-6">
-      <div className="font-bold text-5xl text-center p-3">
+      <div className="font-bold dark:text-gray-800 text-5xl text-center p-3">
         KALATAKAYA HUARIKASAYA
       </div>
-      <div className="flex flex-col lg:flex-row gap-6">
+      <div className="flex flex-col lg:flex-row gap-6 dark:text-gray-800">
         <div className="bg-yellow-100 p-4 rounded-xl shadow lg:w-1/2">
           <h3 className="font-bold text-xl mb-1 text-center">ÚLTIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">

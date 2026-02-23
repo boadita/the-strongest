@@ -8,7 +8,7 @@ const HinchadaCard = ({ item }) => {
       />
 
       <div className="p-4">
-        <h3 className="font-bold text-xl mb-1 text-center">
+        <h3 className="font-bold text-xl mb-1 dark:text-gray-800 text-center">
           {item.nombre}
         </h3>
 

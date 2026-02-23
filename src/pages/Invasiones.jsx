@@ -35,7 +35,7 @@ import Rusia from "../assets/invasiones/Rusia.jpg";
 const Invasiones = () => {
     return (
         <div className="space-y-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">INVASIONES</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">INVASIONES</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 p-10">
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -43,7 +43,7 @@ const Invasiones = () => {
                         alt="ElAlto"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>EL ALTO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>EL ALTO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -51,7 +51,7 @@ const Invasiones = () => {
                         alt="Huarina"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>HUARINA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>HUARINA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -59,7 +59,7 @@ const Invasiones = () => {
                         alt="Oruro"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ORURO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>ORURO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -67,7 +67,7 @@ const Invasiones = () => {
                         alt="Potosi"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>POTOSÍ</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>POTOSÍ</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -75,7 +75,7 @@ const Invasiones = () => {
                         alt="Sucre"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>SUCRE</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>SUCRE</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -83,7 +83,7 @@ const Invasiones = () => {
                         alt="Cochabamba"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COCHABAMBA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>COCHABAMBA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -91,7 +91,7 @@ const Invasiones = () => {
                         alt="Quillacollo"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>QUILLACOLLO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>QUILLACOLLO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -99,7 +99,7 @@ const Invasiones = () => {
                         alt="Sacaba"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>SACABA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>SACABA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -107,7 +107,7 @@ const Invasiones = () => {
                         alt="Colcapirhua"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COLCAPIRHUA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>COLCAPIRHUA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -115,7 +115,7 @@ const Invasiones = () => {
                         alt="Arbieto"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ARBIETO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>ARBIETO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -123,7 +123,7 @@ const Invasiones = () => {
                         alt="VillaTunari"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>VILLA TUNARI</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>VILLA TUNARI</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -131,7 +131,7 @@ const Invasiones = () => {
                         alt="EntreRios"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ENTRE RÍOS</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>ENTRE RÍOS</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -139,7 +139,7 @@ const Invasiones = () => {
                         alt="SantaCruz"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>SANTA CRUZ</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>SANTA CRUZ</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -147,7 +147,7 @@ const Invasiones = () => {
                         alt="Montero"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>MONTERO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>MONTERO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -155,7 +155,7 @@ const Invasiones = () => {
                         alt="Warnes"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>WARNES</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>WARNES</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -163,7 +163,7 @@ const Invasiones = () => {
                         alt="Tarija"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>TARIJA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>TARIJA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -171,7 +171,7 @@ const Invasiones = () => {
                         alt="Villamontes"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>VILLAMONTES</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>VILLAMONTES</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -179,7 +179,7 @@ const Invasiones = () => {
                         alt="Yacuiba"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>YACUIBA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>YACUIBA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -187,7 +187,7 @@ const Invasiones = () => {
                         alt="Trinidad"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>TRINIDAD</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>TRINIDAD</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -195,7 +195,7 @@ const Invasiones = () => {
                         alt="Cobija"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COBIJA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>COBIJA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -203,7 +203,7 @@ const Invasiones = () => {
                         alt="Brasil"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>BRASIL</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>BRASIL</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -211,7 +211,7 @@ const Invasiones = () => {
                         alt="Argentina"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ARGENTINA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>ARGENTINA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -219,7 +219,7 @@ const Invasiones = () => {
                         alt="Uruguay"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>URUGUAY</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>URUGUAY</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -227,7 +227,7 @@ const Invasiones = () => {
                         alt="Paraguay"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>PARAGUAY</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>PARAGUAY</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -235,7 +235,7 @@ const Invasiones = () => {
                         alt="Chile"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>CHILE</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>CHILE</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -243,7 +243,7 @@ const Invasiones = () => {
                         alt="Peru"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>PERÚ</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>PERÚ</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -251,7 +251,7 @@ const Invasiones = () => {
                         alt="Colombia"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COLOMBIA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>COLOMBIA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -259,7 +259,7 @@ const Invasiones = () => {
                         alt="Ecuador"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>ECUADOR</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>ECUADOR</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -267,7 +267,7 @@ const Invasiones = () => {
                         alt="Venezuela"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>VENEZUELA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>VENEZUELA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -275,7 +275,7 @@ const Invasiones = () => {
                         alt="Mexico"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>MÉXICO</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>MÉXICO</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -283,7 +283,7 @@ const Invasiones = () => {
                         alt="USA"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>USA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>USA</h2>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
@@ -291,7 +291,7 @@ const Invasiones = () => {
                         alt="Rusia"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>RUSIA</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>RUSIA</h2>
                 </div>
             </div>
         </div>

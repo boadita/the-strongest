@@ -10,8 +10,8 @@ const TablaPosiciones = () => {
 
   return (
     <div className="overflow-x-auto items-center justify-center flex flex-col">
-      <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TABLA DE POSICIONES</h1>
-      <h2 className='font-bold text-center'>TEMPORADA 2025</h2>
+      <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TABLA DE POSICIONES</h1>
+      <h2 className='font-bold text-center dark:text-gray-800'>TEMPORADA 2025</h2>
       {/* CONTENEDOR RESPONSIVE */}
       <div className="overflow-x-auto">
         <table className="w-full border-collapse text-xs sm:text-sm md:text-base">
@@ -31,7 +31,7 @@ const TablaPosiciones = () => {
             </tr>
           </thead>
 
-          <tbody className="bg-yellow-100">
+          <tbody className="bg-yellow-100 dark:text-gray-800">
             {tablaOrdenada.map((equipo, index) => (
               <tr
                 key={equipo.EQUIPO}

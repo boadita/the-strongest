@@ -28,14 +28,14 @@ const Internacionales = () => {
 
     return (
         <div className="space-y-6 p-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TORNEOS INTERNACIONALES</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TORNEOS INTERNACIONALES</h1>
             <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
                 <button
                     onClick={() => setCompetenciaSeleccionada("LIBERTADORES")}
                     className={`px-4 py-2 rounded font-bold text-center
                         ${competenciaSeleccionada === "LIBERTADORES"
                         ? "bg-black text-yellow-400"
-                        : "bg-yellow-100 hover:bg-black hover:text-yellow-400"
+                        : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                         }`}
                 >
                     LIBERTADORES
@@ -45,7 +45,7 @@ const Internacionales = () => {
                     className={`px-4 py-2 rounded font-bold text-center
                         ${competenciaSeleccionada === "SUDAMERICANA"
                         ? "bg-black text-yellow-400"
-                        : "bg-yellow-100 hover:bg-black hover:text-yellow-400"
+                        : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                         }`}
                 >
                     SUDAMERICANA
@@ -55,7 +55,7 @@ const Internacionales = () => {
                     className={`px-4 py-2 rounded font-bold text-center
                         ${competenciaSeleccionada === "CONMEBOL"
                         ? "bg-black text-yellow-400"
-                        : "bg-yellow-100 hover:bg-black hover:text-yellow-400"
+                        : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                         }`}
                 >
                     CONMEBOL
@@ -65,7 +65,7 @@ const Internacionales = () => {
                     className={`px-4 py-2 rounded font-bold text-center
                         ${competenciaSeleccionada === "MERCONORTE"
                         ? "bg-black text-yellow-400"
-                        : "bg-yellow-100 hover:bg-black hover:text-yellow-400"
+                        : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                         }`}
                 >
                     MERCONORTE
@@ -79,7 +79,7 @@ const Internacionales = () => {
                         alt={competenciaSeleccionada}
                         className="w-full h-40 object-contain"
                     />
-                    <h2 className="text-xl font-bold text-center uppercase">
+                    <h2 className="text-xl font-bold dark:text-gray-800 text-center uppercase">
                         {competenciaSeleccionada}
                     </h2>
                     <h3 className="font-semibold mb-2 text-gray-700">
@@ -93,7 +93,7 @@ const Internacionales = () => {
                                     className={`w-full text-left px-3 py-1 font-semibold rounded
               ${anioSeleccionado === anio
                                             ? "bg-black text-yellow-400"
-                                            : "bg-yellow-200 hover:bg-black hover:text-yellow-400"
+                                            : "bg-yellow-200 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                                         }`}
                                 >
                                     {anio}
@@ -107,7 +107,7 @@ const Internacionales = () => {
                         {partidosPorAnio.map((partido) => (
                             <div
                                 key={partido.Id}
-                                className="border rounded p-4 bg-yellow-100 shadow hover:shadow-lg transition"
+                                className="border rounded p-4 bg-yellow-100 dark:text-gray-800 shadow hover:shadow-lg transition"
                             >
                                 <h2 className="font-semibold mb-2 text-center">
                                     {partido.EQUIPO} <br /> {partido.RESULTADO} <br />{partido.EQUIPO2}

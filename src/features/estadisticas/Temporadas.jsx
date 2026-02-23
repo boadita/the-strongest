@@ -29,7 +29,7 @@ const Temporadas = () => {
     const datosPaginados = datos.slice(indiceInicio, indiceFin);
     return (
         <div className="space-y-6 p-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TEMPORADAS</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TEMPORADAS</h1>
             <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
                 <button
                     onClick={() => cambiarEra("ERA AMATEUR", Era_amateur)}
@@ -86,7 +86,7 @@ const Temporadas = () => {
             </div>
             {/* RESULTADO */}
             <div className="mt-6">
-                <h2 className="text-xl font-semibold mb-4 text-center">
+                <h2 className="text-xl font-semibold mb-4 dark:text-gray-800 text-center">
                     {titulo}
                 </h2>
 
@@ -104,7 +104,7 @@ const Temporadas = () => {
 
                         <tbody>
                             {datosPaginados.map((fila, index) => (
-                                <tr key={index} className="text-center font-semibold bg-yellow-200 hover:bg-gray-100">
+                                <tr key={index} className="text-center font-semibold dark:text-gray-800 bg-yellow-200 hover:bg-gray-100">
                                     {Object.values(fila).map((valor, i) => (
                                         <td key={i} className="border px-3 py-2">
                                             {valor}
@@ -121,7 +121,7 @@ const Temporadas = () => {
                 <button
                     onClick={() => setPaginaActual(p => Math.max(p - 1, 1))}
                     disabled={paginaActual === 1}
-                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                    className="px-3 py-1 border rounded font-bold dark:text-gray-800 bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ⏮
                 </button>
@@ -133,7 +133,7 @@ const Temporadas = () => {
                         className={`px-3 py-1 border rounded font-bold
         ${paginaActual === num
                                 ? "bg-black text-yellow-400"
-                                : "bg-yellow-100 hover:bg-black hover:text-yellow-400"}`}
+                                : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"}`}
                     >
                         {num}
                     </button>
@@ -144,7 +144,7 @@ const Temporadas = () => {
                         setPaginaActual(p => Math.min(p + 1, totalPaginas))
                     }
                     disabled={paginaActual === totalPaginas}
-                    className="px-3 py-1 border rounded font-bold bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
+                    className="px-3 py-1 border rounded font-bold dark:text-gray-800 bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ⏭
                 </button>

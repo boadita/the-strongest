@@ -11,7 +11,7 @@ import grito_de_guerra from "../../assets/simbolos/grito_de_guerra.jpg";
 const Simbolos = () => {
     return (
         <div className="space-y-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">SÍMBOLOS</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">SÍMBOLOS</h1>
             <div className="grid grid-cols-1 gap-8">
                 <div className="bg-yellow-200 p-6 rounded-xl shadow flex flex-col md:flex-row gap-6 items-center hover:scale-105 transition">
                     <img

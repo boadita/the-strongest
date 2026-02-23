@@ -165,11 +165,11 @@ const EstadisticasPartidos = () => {
 
                 {/* RIVAL */}
                 <div className="flex flex-col gap-1">
-                    <span className="font-bold">RIVAL:</span>
+                    <span className="font-bold dark:text-gray-800">RIVAL:</span>
                     <select
                         value={equipoSeleccionado}
                         onChange={e => setEquipoSeleccionado(e.target.value)}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Seleccione rival</option>
                         {equiposUnicos.map(eq => (
@@ -180,11 +180,11 @@ const EstadisticasPartidos = () => {
 
                 {/* CIUDAD */}
                 <div className="flex flex-col gap-1">
-                    <span className="font-bold">CIUDAD:</span>
+                    <span className="font-bold dark:text-gray-800">CIUDAD:</span>
                     <select
                         value={ciudadSeleccionada}
                         onChange={e => setCiudadSeleccionada(e.target.value)}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todas</option>
                         {ciudadesUnicas.map(c => (
@@ -195,11 +195,11 @@ const EstadisticasPartidos = () => {
 
                 {/* MODALIDAD */}
                 <div className="flex flex-col gap-1">
-                    <span className="font-bold">MODALIDAD:</span>
+                    <span className="font-bold dark:text-gray-800">MODALIDAD:</span>
                     <select
                         value={modalidadSeleccionada}
                         onChange={e => setModalidadSeleccionada(e.target.value)}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todas</option>
                         {modalidadesUnicas.map(m => (
@@ -210,11 +210,11 @@ const EstadisticasPartidos = () => {
 
                 {/* TIPO */}
                 <div className="flex flex-col gap-1">
-                    <span className="font-bold">TIPO:</span>
+                    <span className="font-bold dark:text-gray-800">TIPO:</span>
                     <select
                         value={tipoSeleccionado}
                         onChange={e => setTipoSeleccionado(e.target.value)}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                     >
                         <option value="">Todos</option>
                         {tiposUnicos.map(t => (
@@ -225,11 +225,11 @@ const EstadisticasPartidos = () => {
 
                 {/* TORNEO */}
                 <div className="flex flex-col gap-1">
-                    <span className="font-bold">TORNEO:</span>
+                    <span className="font-bold dark:text-gray-800">TORNEO:</span>
                     <select
                         value={torneoSeleccionado}
                         onChange={e => setTorneoSeleccionado(e.target.value)}
-                        className="border p-2 rounded bg-white font-semibold w-full md:w-40"
+                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
                         disabled={!torneosFiltrados.length}
                     >
                         <option value="">Todos</option>
@@ -242,12 +242,12 @@ const EstadisticasPartidos = () => {
             </nav>
 
             {!equipoSeleccionado ? (
-                <p className="text-center mt-6 text-gray-500 font-semibold">
+                <p className="text-center mt-6 text-gray-500 dark:text-gray-800 font-semibold">
                     Selecciona un rival para ver estadísticas
                 </p>
             ) : (
                 <div className="mt-6 overflow-x-auto">
-                    <h2 className="text-xl font-bold text-center mb-4">
+                    <h2 className="text-xl font-bold text-center dark:text-gray-800 mb-4">
                         THE STRONGEST vs {equipoSeleccionado}
                     </h2>
 
@@ -259,15 +259,15 @@ const EstadisticasPartidos = () => {
 
                         equipoSeleccionado && (
                             <div className="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-6 text-center">
-                                <div className="border rounded p-3 bg-green-100 font-bold">
+                                <div className="border rounded p-3 bg-green-100 dark:text-gray-800 font-bold">
                                     Ganados: {resumen.ganado}
                                 </div>
 
-                                <div className="border rounded p-3 bg-gray-100 font-bold">
+                                <div className="border rounded p-3 bg-gray-100 dark:text-gray-800 font-bold">
                                     Empatados: {resumen.empatado}
                                 </div>
 
-                                <div className="border rounded p-3 bg-red-100 font-bold">
+                                <div className="border rounded p-3 bg-red-100 dark:text-gray-800 font-bold">
                                     Perdidos: {resumen.perdido}
                                 </div>
                             </div>
@@ -279,7 +279,7 @@ const EstadisticasPartidos = () => {
             )}
             {equipoSeleccionado && (
                 <div className="w-full h-64 mb-8">
-                    <h3 className="text-lg font-bold text-center mb-2">
+                    <h3 className="text-lg font-bold dark:text-gray-800 text-center mb-2">
                         Rendimiento
                     </h3>
 

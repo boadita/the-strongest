@@ -8,7 +8,7 @@ import internacionales from "../assets/estadisticas/internacionales.png";
 const Estadisticas = () => {
     return (
         <div className="space-y-6">
-            <h1 className="font-bold text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">ESTADISTICAS</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">ESTADISTICAS</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-8 p-10">
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <Link
@@ -20,7 +20,7 @@ const Estadisticas = () => {
                         alt="posiciones"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>TABLA DE POSICIONES</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>TABLA DE POSICIONES</h2>
                 </Link>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
@@ -33,7 +33,7 @@ const Estadisticas = () => {
                         alt="temporadas"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>TEMPORADAS</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>TEMPORADAS</h2>
                 </Link>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
@@ -46,7 +46,7 @@ const Estadisticas = () => {
                         alt="historial"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>HISTORIAL DE PARTIDOS</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>HISTORIAL DE PARTIDOS</h2>
                 </Link>
                 </div>
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
@@ -59,7 +59,7 @@ const Estadisticas = () => {
                         alt="internacionales"
                         className="rounded-xl mx-auto w-64 h-40 object-cover"
                     />
-                    <h2 className='font-bold text-center mt-2'>COPAS INTERNACIONALES</h2>
+                    <h2 className='font-bold text-center dark:text-gray-800 mt-2'>COPAS INTERNACIONALES</h2>
                 </Link>
                 </div>
             </div>
