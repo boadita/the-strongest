@@ -502,5 +502,12 @@
     "tipo":"Bailable",
     "youtubeId":"3rXiBskvsp4",
     "descripcion":"Canción para flamear las banderas del club"
+  },
+  {
+    "id":73,
+    "titulo":"Viejo gualdinegro",
+    "tipo":"Cueca",
+    "youtubeId":"jSLpTTshMfw",
+    "descripcion":"Cueca dedicada al club"
   }
 ]

@@ -27,6 +27,7 @@ import EstadisticasPartidos from "../features/estadisticas/EstadisticasPartidos"
 import Internacionales from "../features/estadisticas/Internacionales"
 import Fixture from "../pages/Fixture"
 import Canciones from "../pages/Canciones"
+import PartidosHistoricos from "../pages/PartidosHistoricos"
 import Predios from "../pages/Predios"
 import Medios from "../pages/Medios"
 import Referencias from "../pages/Referencias"
@@ -70,6 +71,7 @@ const AppRouter = () => {
           <Route path="/internacionales" element={<Internacionales />} />
           <Route path="/fixture" element={<Fixture />} />
           <Route path="/canciones" element={<Canciones />} />
+          <Route path="/partidos_historicos" element={<PartidosHistoricos />} />
           <Route path="/hinchada" element={<Hinchada />} />
           <Route path="/invasiones" element={<Invasiones />} />
           <Route path="/medios" element={<Medios />} />

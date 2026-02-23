@@ -1,0 +1,104 @@
+[
+    {
+        "id": 1,
+        "partido": "Primeros partidos históricos",
+        "fecha": "1914-1952",
+        "youtubeId": "nz5Yh0b3vIg"
+    },
+    {
+        "id": 2,
+        "partido": "Final The Strongest 3 - Oriente 1",
+        "fecha": "29-03-1978",
+        "youtubeId": "xMs46BrGgn0"
+    },
+    {
+        "id": 3,
+        "partido": "The Strongest 4 - Emelec 3",
+        "fecha": "20-03-1990",
+        "youtubeId": "v6UHw_0uOV4"
+    },
+    {
+        "id": 4,
+        "partido": "The Strongest 1 - Bolívar 0",
+        "fecha": "4-12-1999",
+        "youtubeId": "cm-6hx5GGXs"
+    },
+    {
+        "id": 5,
+        "partido": "The Strongest 4 - Palmeiras 2",
+        "fecha": "6-4-2000",
+        "youtubeId": "WIGQCqLBfAY"
+    },
+    {
+        "id": 6,
+        "partido": "The Strongest 4 - River Plate 1",
+        "fecha": "5-4-2001",
+        "youtubeId": "C1_TB5unt8s"
+    },
+    {
+        "id": 7,
+        "partido": "The Strongest 1 (4) - Bolívar 1 (2)",
+        "fecha": "19-8-2003",
+        "youtubeId": "jF_DzKpU5sE"
+    },
+    {
+        "id": 8,
+        "partido": "San Lorenzo 2 - The Strongest 1",
+        "fecha": "7-10-2003",
+        "youtubeId": "T5hzqhfl1GY"
+    },
+    {
+        "id": 9,
+        "partido": "The Strongest 2 - Bolívar 1",
+        "fecha": "25-8-2005",
+        "youtubeId": "7xqOzAqVDOk"
+    },
+    {
+        "id": 10,
+        "partido": "Liga de Quito 0 - The Strongest 3",
+        "fecha": "8-9-2005",
+        "youtubeId": "C4qgz4au4jU"
+    },
+    {
+        "id": 11,
+        "partido": "The Strongest 5 - Oriente 3",
+        "fecha": "12-12-2011",
+        "youtubeId": "YgRvEooMQH0"
+    },
+    {
+        "id": 12,
+        "partido": "The Strongest 2 - Santos 1",
+        "fecha": "15-2-2012",
+        "youtubeId": "P7PjZg6Hh7w"
+    },
+    {
+        "id": 13,
+        "partido": "San José 1 - The Strongest 2",
+        "fecha": "13-5-2012",
+        "youtubeId": "QYYu_yZEYcg"
+    },
+    {
+        "id": 14,
+        "partido": "Real Potosí 2 - The Strongest 2",
+        "fecha": "9-12-2012",
+        "youtubeId": "QZpxsxs1bBY"
+    },
+    {
+        "id": 15,
+        "partido": "Sao Paulo 0 - The Strongest 1",
+        "fecha": "17-2-2016",
+        "youtubeId": "lSsvFHIe0rU"
+    },
+    {
+        "id": 16,
+        "partido": "The Strongest 2 - Bolívar 1",
+        "fecha": "24-12-2016",
+        "youtubeId": "Xsu6r9m8mIY"
+    },
+    {
+        "id": 17,
+        "partido": "The Strongest 5 - Paranaense 0",
+        "fecha": "3-5-2022",
+        "youtubeId": "FevryXu2gYA"
+    }
+]
