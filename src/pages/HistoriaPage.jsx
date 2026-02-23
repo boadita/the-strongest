@@ -7,6 +7,7 @@ const HistoriaPage = () => {
     { path: "historia", label: "Historia General" },
     { path: "simbolos", label: "Símbolos" },
     { path: "campeonatos", label: "Campeonatos" },
+    { path: "partidos_historicos", label: "Partidos históricos" },
     { path: "figuras", label: "Figuras" },
     { path: "presidentes", label: "Presidentes" },
     { path: "entrenadores", label: "Entrenadores" },

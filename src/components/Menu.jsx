@@ -12,7 +12,6 @@ const Menu = () => {
       <li><a href="/estadisticas">Estadísticas</a></li>
       <li><a href="/fixture">Fixture</a></li>
       <li><a href="/canciones">Canciones</a></li>
-      <li><a href="/partidos_historicos">Partidos Históricos</a></li>
       <li><a href="/hinchada">Hinchada</a></li>
       <li><a href="/invasiones">Invasiones</a></li>
       <li><a href="/medios">Medios</a></li>

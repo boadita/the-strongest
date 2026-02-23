@@ -1,5 +1,5 @@
-import data from "../data/partidos_historicos.json";
-import PartidosCard from "../components/PartidosCard";
+import data from "../../data/partidos_historicos.json";
+import PartidosCard from "../../components/PartidosCard";
 
 const PartidosHistoricos = () => {
   const matches = [...data];
@@ -11,7 +11,7 @@ const PartidosHistoricos = () => {
       </h1>
 
       {/* LISTA */}
-      <div className="grid gap-6 md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 ">
         {matches.map(partidos => (
           <PartidosCard key={partidos.id} partidos={partidos} />
         ))}

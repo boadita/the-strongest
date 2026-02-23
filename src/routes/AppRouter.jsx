@@ -5,6 +5,7 @@ import HistoriaPage from "../pages/HistoriaPage";
 import Fundacion from "../features/historia/Fundacion";
 import HistoriaGeneral from "../features/historia/HistoriaGeneral";
 import Campeonatos from "../features/historia/Campeonatos";
+import PartidosHistoricos from "../features/historia/PartidosHistoricos"
 import Simbolos from "../features/historia/Simbolos";
 import Rivales from "../features/historia/Rivales";
 import Entrenadores from "../features/historia/Entrenadores";
@@ -27,7 +28,6 @@ import EstadisticasPartidos from "../features/estadisticas/EstadisticasPartidos"
 import Internacionales from "../features/estadisticas/Internacionales"
 import Fixture from "../pages/Fixture"
 import Canciones from "../pages/Canciones"
-import PartidosHistoricos from "../pages/PartidosHistoricos"
 import Predios from "../pages/Predios"
 import Medios from "../pages/Medios"
 import Referencias from "../pages/Referencias"
@@ -46,6 +46,7 @@ const AppRouter = () => {
             <Route path="fundacion" element={<Fundacion />} />
             <Route path="historia" element={<HistoriaGeneral />} />
             <Route path="campeonatos" element={<Campeonatos />} />
+            <Route path="partidos_historicos" element={<PartidosHistoricos />} />
             <Route path="simbolos" element={<Simbolos />} />
             <Route path="rivales" element={<Rivales />} />
             <Route path="entrenadores" element={<Entrenadores />} />
@@ -71,7 +72,6 @@ const AppRouter = () => {
           <Route path="/internacionales" element={<Internacionales />} />
           <Route path="/fixture" element={<Fixture />} />
           <Route path="/canciones" element={<Canciones />} />
-          <Route path="/partidos_historicos" element={<PartidosHistoricos />} />
           <Route path="/hinchada" element={<Hinchada />} />
           <Route path="/invasiones" element={<Invasiones />} />
           <Route path="/medios" element={<Medios />} />
