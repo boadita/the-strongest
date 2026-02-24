@@ -3,7 +3,7 @@ import PartidosCard from "../../components/PartidosCard";
 
 const PartidosHistoricos = () => {
   const matches = [...data];
-    return (
+  return (
     <div className="p-6 space-y-8">
 
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">

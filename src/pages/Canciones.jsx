@@ -38,10 +38,9 @@ const Canciones = () => {
             key={t}
             onClick={() => setTipo(t)}
             className={`px-4 py-2 rounded font-bold
-              ${
-                tipo === t
-                  ? "bg-black text-yellow-400"
-                  : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-300"
+              ${tipo === t
+                ? "bg-black text-yellow-400"
+                : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-300"
               }`}
           >
             {t}

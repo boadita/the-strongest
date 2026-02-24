@@ -1,6 +1,6 @@
 const PartidosCard = ({ partidos }) => {
   return (
-    <div className="bg-yellow-200 rounded-xl shadow overflow-hidden">
+    <div className="bg-yellow-200 rounded-xl shadow overflow-hidden hover:scale-105 transition">
       <div className="aspect-video">
         <iframe
           src={`https://www.youtube.com/embed/${partidos.youtubeId}`}

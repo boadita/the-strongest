@@ -320,14 +320,14 @@ const Historial = () => {
                     ⏭
                 </button>
             </div>
-                <Link to="/estadisticas_partidos"
+            <Link to="/estadisticas_partidos"
                 className="grid place-items-center">
                 <button
                     className="px-3 py-1 border rounded font-bold bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ESTADÍSTICAS POR RIVAL
                 </button>
-                </Link>
+            </Link>
         </div>
     );
 };
