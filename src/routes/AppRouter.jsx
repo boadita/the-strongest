@@ -15,6 +15,7 @@ import Estadios from "../features/historia/Estadios";
 import Figuras from "../features/historia/Figuras";
 import Mundialistas from "../features/historia/Mundialistas";
 import Galeria from "../features/historia/galeria/Galeria";
+import Audiovisual from "../features/historia/Audiovisual";
 import Hinchada from "../pages/Hinchada"
 import Invasiones from "../pages/Invasiones"
 import PlantelPage from "../pages/PlantelPage"
@@ -56,6 +57,7 @@ const AppRouter = () => {
             <Route path="figuras" element={<Figuras />} />
             <Route path="mundialistas" element={<Mundialistas />} />
             <Route path="galeria" element={<Galeria />} />
+            <Route path="audiovisual" element={<Audiovisual />} />
           </Route>
 
           {/* OTRAS SECCIONES */}

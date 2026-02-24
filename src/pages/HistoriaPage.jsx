@@ -15,7 +15,8 @@ const HistoriaPage = () => {
     { path: "ciudades", label: "Ciudades" },
     { path: "estadios", label: "Estadios" },
     { path: "mundialistas", label: "Mundialistas" },
-    { path: "galeria", label: "Galería" }
+    { path: "galeria", label: "Galería" },
+    { path: "audiovisual", label: "Audiovisual" }
   ];
 
   const [menuAbierto, setMenuAbierto] = useState(false);

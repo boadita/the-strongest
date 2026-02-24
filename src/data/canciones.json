@@ -509,5 +509,12 @@
     "tipo":"Cueca",
     "youtubeId":"jSLpTTshMfw",
     "descripcion":"Cueca dedicada al club"
+  },
+  {
+    "id":74,
+    "titulo":"Cueca The Strongest",
+    "tipo":"Cueca",
+    "youtubeId":"BM1E2nmV8mA",
+    "descripcion":"Cueca atigrada compuesta por Roberto Inchausti y cantada por Vale Pérez"
   }
 ]
