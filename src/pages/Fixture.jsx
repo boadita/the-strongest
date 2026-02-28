@@ -4,7 +4,7 @@ import nacional_potosi from "../assets/rivales/nacional_potosi.png";
 const Fixture = () => {
     return (
         <div className="space-y-6">
-            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">PARTIDOS FEBRERO</h1>
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">PARTIDOS MARZO</h1>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-10">
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
