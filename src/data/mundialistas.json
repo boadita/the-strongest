@@ -88,6 +88,14 @@
     "etapaStrongest":"1946-1947, 1949-1951"
   },
   {
+    "id":"ruben-galvan",
+    "nombre":"Rubén Galvan",
+    "rol":"Jugador",
+    "pais":"Argentina",
+    "mundiales": ["Argentina 1978"],
+    "etapaStrongest":1983
+  },
+  {
     "id":"mario-kempes",
     "nombre":"Mario Kempes",
     "rol":"Entrenador",
