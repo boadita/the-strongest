@@ -43,16 +43,16 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">ESTADIO: </h4>
-            <span className="text-2x1">HERNANDO SILES</span>
+            <span className="text-2x1">JESÚS BERMÚDEZ</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">TORNEO: </h4>
             <span className="text-2x1">REPECHAJE VERANO</span>
           </div>
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-white rounded-lg">
-            <div className="font-bold text-lg">THE STRONGEST</div>
-            <div className="text-2x1 text-white">vs</div>
             <div className="font-bold text-lg">REAL ORURO</div>
+            <div className="text-2x1 text-white">vs</div>
+            <div className="font-bold text-lg">THE STRONGEST</div>
           </div>
         </div>
       </div>
