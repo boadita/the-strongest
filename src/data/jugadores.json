@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "2",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 0,
     "trayectoria": [
       {
@@ -319,7 +319,7 @@
     "altura": 1.68,
     "peso": 78.0,
     "numero": "19",
-    "partidosJugados": 9,
+    "partidosJugados": 10,
     "goles": 1,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 1,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 0,
     "trayectoria": [
       {
@@ -494,7 +494,7 @@
     "altura": 1.85,
     "peso": 77.0,
     "numero": "2",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 1,
     "trayectoria": [
       {
@@ -564,7 +564,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 9,
+    "partidosJugados": 10,
     "goles": 0,
     "trayectoria": [
       {
@@ -624,7 +624,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 2,
     "trayectoria": [
       {
@@ -814,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 0,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 0,
     "trayectoria": [
       {
@@ -944,7 +944,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 6,
+    "partidosJugados": 7,
     "goles": 1,
     "trayectoria": [
       {
@@ -1064,7 +1064,7 @@
     "altura": 1.76,
     "peso": 78.0,
     "numero": "11",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 2,
     "trayectoria": [
       {
@@ -1189,7 +1189,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 3,
     "trayectoria": [
       {
@@ -1254,7 +1254,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 0,
     "trayectoria": [
       {
@@ -1299,8 +1299,8 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 7,
-    "goles": 4,
+    "partidosJugados": 8,
+    "goles": 5,
     "trayectoria": [
       {
         "club": "Chattanooga FC (USA)",
@@ -1374,7 +1374,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 0,
     "trayectoria": [
       {
