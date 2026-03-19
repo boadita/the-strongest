@@ -1,16 +1,60 @@
-# React + Vite
+# 🐯 The Strongest - Plataforma Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada para centralizar la historia, estadísticas y contenido del Club The Strongest en una plataforma clara, organizada y accesible.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Descripción
 
-## React Compiler
+Este proyecto busca ofrecer a los hinchas una experiencia completa, permitiendo consultar información histórica, plantel, estadísticas y contenido relevante del club.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologías
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React
+* JavaScript
+* CSS
+* Vite
+
+---
+
+## ✨ Funcionalidades
+
+* Información histórica del club
+* Visualización del plantel
+* Secciones organizadas por categorías
+* Navegación intuitiva
+
+---
+
+## 📸 Capturas
+
+(Aquí puedes agregar imágenes del sitio)
+
+---
+
+## 🌐 Demo en vivo
+
+👉 https://the-strongest.vercel.app
+
+---
+
+## ⚙️ Instalación
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Objetivo
+
+Brindar una plataforma digital que reúna la identidad, historia y datos del Club The Strongest en un solo lugar.
+
+---
+
+## 👨‍💻 Autor
+
+**Sergio Mario Boada Miranda**
