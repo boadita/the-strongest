@@ -59,7 +59,7 @@ const Fixture = () => {
                         alt="real_oruro"
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
-                    <h2 className='font-bold text-center mt-2'>21-3-2026</h2>
+                    <h2 className='font-bold text-center mt-2'>24-3-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
                 </div>
             </div>

@@ -35,7 +35,7 @@ const Home = () => {
           <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">21-3-2026</span>
+            <span className="text-2x1">24-3-2026</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
