@@ -2,6 +2,7 @@ import React from 'react';
 import nacional_potosi from "../assets/rivales/nacional_potosi.png";
 import oriente_petrolero from "../assets/rivales/oriente-petrolero.png";
 import real_oruro from "../assets/rivales/real-oruro.png";
+import blooming from "../assets/rivales/blooming.png";
 
 const Fixture = () => {
     return (
@@ -61,6 +62,15 @@ const Fixture = () => {
                     />
                     <h2 className='font-bold text-center mt-2'>24-3-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
+                </div>
+                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
+                    <img
+                        src={blooming}
+                        alt="blooming"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>27-3-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO TAHUICHI AGUI</p>
                 </div>
             </div>
         </div>
