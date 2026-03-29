@@ -70,7 +70,7 @@ const Fixture = () => {
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
                     <h2 className='font-bold text-center mt-2'>27-3-2026</h2>
-                    <p className='font-bold text-center mt-2'>ESTADIO TAHUICHI AGUI</p>
+                    <p className='font-bold text-center mt-2'>ESTADIO GILBERTO PARADA</p>
                 </div>
             </div>
         </div>
