@@ -9,38 +9,47 @@ const Cuerpo_tecnico = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/eduardo-villegas.png"
-            alt="EDUARDO VILLEGAS"
+            src="cuerpo-tecnico/sixto-vizuete.png"
+            alt="SIXTO VIZUETE"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">EDUARDO VILLEGAS</h3>
+          <h3 className="font-semibold">SIXTO VIZUETE</h3>
           <p className="text-sm text-gray-600">ENTRENADOR</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/horacio-barrenechea.png"
-            alt="HORACIO BARRENECHEA"
+            src="cuerpo-tecnico/fernando-torres.png"
+            alt="FERNANDO TORRES"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">HORACIO BARRENECHEA</h3>
-          <p className="text-sm text-gray-600">AYUDANTE DE CAMPO</p>
+          <h3 className="font-semibold">FERNANDO TORRES</h3>
+          <p className="text-sm text-gray-600">ASISTENTE TÉCNICO</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/jaime-jimenez.png"
-            alt="JAIME JIMENEZ"
+            src="cuerpo-tecnico/juan-carlos-paz-garcia.png"
+            alt="JUAN CARLOS PAZ GARCÍA"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">JAIME JIMENEZ</h3>
+          <h3 className="font-semibold">JUAN CARLOS PAZ GARCÍA</h3>
+          <p className="text-sm text-gray-600">ASISTENTE TÉCNICO</p>
+        </div>
+        <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
+          <img
+            src="cuerpo-tecnico/darwin-veloz.png"
+            alt="DARWIN VELOZ"
+            className="w-full h-48 object-cover rounded-t"
+          />
+          <h3 className="font-semibold">DARWIN VELOZ</h3>
           <p className="text-sm text-gray-600">PREPARADOR FÍSICO</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/cristian-bernadas.png"
-            alt="CRISTIAN BERNADAS"
+            src="cuerpo-tecnico/hamlet-barrientos.png"
+            alt="HAMLET BARRIENTOS"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">CRISTIAN BERNADAS</h3>
+          <h3 className="font-semibold">HAMLET BARRIENTOS</h3>
           <p className="text-sm text-gray-600">PREPARADOR DE ARQUEROS</p>
         </div>
       </div>

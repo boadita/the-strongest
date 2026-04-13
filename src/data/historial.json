@@ -41182,5 +41182,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3433,
+    "FECHA":"2026-04-12",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"3-2",
+    "EQUIPO2":"SAN ANTONIO",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
