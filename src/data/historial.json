@@ -41194,5 +41194,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3434,
+    "FECHA":"2026-04-23",
+    "EQUIPO":"TOMAYAPO",
+    "RESULTADO":"0-0",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"IV CENTENARIO",
+    "CIUDAD":"TARIJA",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
