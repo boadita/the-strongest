@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "1",
-    "partidosJugados": 13,
+    "partidosJugados": 14,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 11,
+    "partidosJugados": 12,
     "goles": 0,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 0,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 13,
+    "partidosJugados": 14,
     "goles": 2,
     "trayectoria": [
       {
@@ -424,7 +424,7 @@
     "altura": 1.85,
     "peso": 80.0,
     "numero": "29",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 0,
     "trayectoria": [
       {
@@ -494,7 +494,7 @@
     "altura": 1.85,
     "peso": 77.0,
     "numero": "2",
-    "partidosJugados": 13,
+    "partidosJugados": 14,
     "goles": 1,
     "trayectoria": [
       {
@@ -624,7 +624,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 3,
     "trayectoria": [
       {
@@ -774,7 +774,7 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 1,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 16,
+    "partidosJugados": 17,
     "goles": 0,
     "trayectoria": [
       {
@@ -935,6 +935,31 @@
     ]
   },
   {
+    "id": "juan-cuellar",
+    "nombre": "Juan Cuéllar",
+    "fechaNacimiento": "2006-12-27",
+    "edad": 19,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": 1.64,
+    "peso": null,
+    "numero": "31",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Fc Universitario",
+        "desde": 2024,
+        "hasta": "2025"
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
     "id": "gabriel-sotomayor",
     "nombre": "Gabriel Sotomayor",
     "fechaNacimiento": "1999-07-02",
@@ -944,8 +969,8 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 11,
-    "goles": 2,
+    "partidosJugados": 12,
+    "goles": 3,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -1064,8 +1089,8 @@
     "altura": 1.76,
     "peso": 78.0,
     "numero": "11",
-    "partidosJugados": 14,
-    "goles": 8,
+    "partidosJugados": 15,
+    "goles": 9,
     "trayectoria": [
       {
         "club": "Oriente Petrolero",
@@ -1254,7 +1279,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 2,
     "trayectoria": [
       {
@@ -1299,8 +1324,8 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 10,
-    "goles": 5,
+    "partidosJugados": 11,
+    "goles": 6,
     "trayectoria": [
       {
         "club": "Chattanooga FC (USA)",
@@ -1374,7 +1399,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 0,
     "trayectoria": [
       {

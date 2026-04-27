@@ -41206,5 +41206,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3435,
+    "FECHA":"2026-04-26",
+    "EQUIPO":"REAL ORURO",
+    "RESULTADO":"2-3",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"JESÚS BERMÚDEZ",
+    "CIUDAD":"ORURO",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
