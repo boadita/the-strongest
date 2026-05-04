@@ -1,9 +1,10 @@
 import React from 'react';
-import blooming from "../assets/rivales/blooming.png";
-import fc_universitario from "../assets/rivales/fc_universitario.png";
-import san_antonio from "../assets/rivales/san_antonio.png";
-import real_tomayapo from "../assets/rivales/real_tomayapo.png";
-import real_oruro from "../assets/rivales/real-oruro.png";
+import ABB from "../assets/rivales/ABB.png";
+import real_potosi from "../assets/rivales/real-potosi.png";
+import always_ready from "../assets/rivales/always_ready.png";
+import oriente_petrolero from "../assets/rivales/oriente-petrolero.png";
+import gv_san_jose from "../assets/rivales/gv-san-jose.png";
+import bolivar from "../assets/rivales/bolivar.png";
 
 const Fixture = () => {
     return (
@@ -12,48 +13,57 @@ const Fixture = () => {
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-10">
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
-                        src={blooming}
-                        alt="blooming"
+                        src={ABB}
+                        alt="ABB"
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
-                    <h2 className='font-bold text-center mt-2'>1-4-2026</h2>
+                    <h2 className='font-bold text-center mt-2'>3-5-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
                 </div>
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
-                        src={fc_universitario}
-                        alt="fc_universitario"
+                        src={real_potosi}
+                        alt="real_potosi"
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
-                    <h2 className='font-bold text-center mt-2'>5-4-2026</h2>
-                    <p className='font-bold text-center mt-2'>ESTADIO FÉLIX CAPRILES</p>
-                </div>
-                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
-                    <img
-                        src={san_antonio}
-                        alt="san_antonio"
-                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
-                    />
-                    <h2 className='font-bold text-center mt-2'>12-4-2026</h2>
+                    <h2 className='font-bold text-center mt-2'>10-5-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
                 </div>
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
-                        src={real_tomayapo}
-                        alt="real_tomayapo"
+                        src={always_ready}
+                        alt="always_ready"
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
-                    <h2 className='font-bold text-center mt-2'>23-4-2026</h2>
-                    <p className='font-bold text-center mt-2'>ESTADIO IV CENTENARIO</p>
+                    <h2 className='font-bold text-center mt-2'>13-5-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO VILLA INGENIO</p>
                 </div>
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
-                        src={real_oruro}
-                        alt="real_oruro"
+                        src={oriente_petrolero}
+                        alt="oriente_petrolero"
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
-                    <h2 className='font-bold text-center mt-2'>26-4-2026</h2>
+                    <h2 className='font-bold text-center mt-2'>17-5-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
+                </div>
+                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
+                    <img
+                        src={gv_san_jose}
+                        alt="gv_san_jose"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>22-5-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO JESÚS BERMÚDEZ</p>
+                </div>
+                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
+                    <img
+                        src={bolivar}
+                        alt="bolivar"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>31-5-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
                 </div>
             </div>
         </div>
