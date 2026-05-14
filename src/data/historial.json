@@ -41242,5 +41242,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3438,
+    "FECHA":"2026-05-13",
+    "EQUIPO":"ALWAYS READY",
+    "RESULTADO":"0-1",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"VILLA INGENIO",
+    "CIUDAD":"EL ALTO",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
