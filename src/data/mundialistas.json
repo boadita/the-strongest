@@ -88,6 +88,14 @@
     "etapaStrongest":"1946-1947, 1949-1951"
   },
   {
+    "id":"luis-gini",
+    "nombre":"Luis Gini",
+    "rol":"Jugador",
+    "pais":"Paraguay",
+    "mundiales": ["Suecia 1958"],
+    "etapaStrongest":"1967-1972"
+  },
+  {
     "id":"ruben-galvan",
     "nombre":"Rubén Galvan",
     "rol":"Jugador",

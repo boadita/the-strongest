@@ -35,7 +35,7 @@ const Home = () => {
           <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">17-5-2026</span>
+            <span className="text-2x1">12-7-2026</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
@@ -52,7 +52,7 @@ const Home = () => {
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-white rounded-lg">
             <div className="font-bold text-lg">THE STRONGEST</div>
             <div className="text-2x1 text-white">vs</div>
-            <div className="font-bold text-lg">ORIENTE PETROLERO</div>
+            <div className="font-bold text-lg">BOLÍVAR</div>
           </div>
         </div>
       </div>
