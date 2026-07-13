@@ -41254,5 +41254,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3439,
+    "FECHA":"2026-07-12",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"1-1",
+    "EQUIPO2":"BOLÍVAR",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
