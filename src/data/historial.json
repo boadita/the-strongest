@@ -41266,5 +41266,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3440,
+    "FECHA":"2026-07-15",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"2-1",
+    "EQUIPO2":"ORIENTE",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
