@@ -41278,5 +41278,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3441,
+    "FECHA":"2026-07-19",
+    "EQUIPO":"GV SAN JOSÉ",
+    "RESULTADO":"0-0",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"JESÚS BERMÚDEZ",
+    "CIUDAD":"ORURO",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
