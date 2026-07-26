@@ -41290,5 +41290,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3442,
+    "FECHA":"2026-07-26",
+    "EQUIPO":"BLOOMING",
+    "RESULTADO":"1-1",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"TAHUICHI AGUILERA",
+    "CIUDAD":"SANTA CRUZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

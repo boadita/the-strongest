@@ -19,15 +19,15 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">ESTADIO: </h4>
-            <span className="text-2x1">JESÚS BERMÚDEZ</span>
+            <span className="text-2x1">TAHUICHI AGUILERA</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">TORNEO: </h4>
             <span className="text-2x1">LIGA FBF</span>
           </div>
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-black rounded-lg">
-            <div className="font-bold text-lg">GV SAN JOSÉ</div>
-            <div className="text-2x1 text-black">0-0</div>
+            <div className="font-bold text-lg">BLOOMING</div>
+            <div className="text-2x1 text-black">1-1</div>
             <div className="font-bold text-lg">THE STRONGEST</div>
           </div>
         </div>
@@ -35,7 +35,7 @@ const Home = () => {
           <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">26-7-2026</span>
+            <span className="text-2x1">1-8-2026</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
@@ -43,16 +43,16 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">ESTADIO: </h4>
-            <span className="text-2x1">TAHUICHI AGUILERA</span>
+            <span className="text-2x1">HERNANDO SILES</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">TORNEO: </h4>
             <span className="text-2x1">LIGA FBF</span>
           </div>
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-white rounded-lg">
-            <div className="font-bold text-lg">BLOOMING</div>
-            <div className="text-2x1 text-white">vs</div>
             <div className="font-bold text-lg">THE STRONGEST</div>
+            <div className="text-2x1 text-white">vs</div>
+            <div className="font-bold text-lg">AURORA</div>
           </div>
         </div>
       </div>
