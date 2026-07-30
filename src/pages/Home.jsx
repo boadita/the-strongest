@@ -15,7 +15,7 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
-            <span className="text-2x1">ORURO</span>
+            <span className="text-2x1">SANTA CRUZ</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">ESTADIO: </h4>
