@@ -41302,5 +41302,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3443,
+    "FECHA":"2026-07-31",
+    "EQUIPO":"THE STRONGEST ",
+    "RESULTADO":"1-1",
+    "EQUIPO2":"AURORA",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
