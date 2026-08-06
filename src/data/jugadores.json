@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "1",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 12,
+    "partidosJugados": 13,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 20,
+    "partidosJugados": 21,
     "goles": 1,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 2,
     "trayectoria": [
       {
@@ -394,7 +394,7 @@
     "altura": null,
     "peso": null,
     "numero": "27",
-    "partidosJugados": 1,
+    "partidosJugados": 2,
     "goles": 0,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 0,
     "trayectoria": [
       {
@@ -564,7 +564,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 12,
+    "partidosJugados": 13,
     "goles": 0,
     "trayectoria": [
       {
@@ -624,8 +624,8 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 23,
-    "goles": 5,
+    "partidosJugados": 24,
+    "goles": 6,
     "trayectoria": [
       {
         "club": "Bolívar",
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 0,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 25,
+    "partidosJugados": 26,
     "goles": 0,
     "trayectoria": [
       {
@@ -944,7 +944,7 @@
     "altura": 1.64,
     "peso": null,
     "numero": "31",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 0,
     "trayectoria": [
       {
@@ -988,7 +988,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 18,
+    "partidosJugados": 19,
     "goles": 3,
     "trayectoria": [
       {
@@ -1233,7 +1233,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 4,
     "trayectoria": [
       {
@@ -1298,8 +1298,8 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 19,
-    "goles": 4,
+    "partidosJugados": 20,
+    "goles": 5,
     "trayectoria": [
       {
         "club": "Deportivo Pasto (Colombia)",
@@ -1343,8 +1343,8 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 18,
-    "goles": 9,
+    "partidosJugados": 19,
+    "goles": 10,
     "trayectoria": [
       {
         "club": "Chattanooga FC (USA)",
@@ -1418,7 +1418,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 0,
     "trayectoria": [
       {

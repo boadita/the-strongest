@@ -41314,5 +41314,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3444,
+    "FECHA":"2026-08-5",
+    "EQUIPO":"NACIONAL POTOSÍ",
+    "RESULTADO":"2-3",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"VICTOR AGUSTÍN UGARTE",
+    "CIUDAD":"POTOSÍ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
