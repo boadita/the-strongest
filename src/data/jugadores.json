@@ -69,7 +69,7 @@
     "altura": 1.86,
     "peso": 78.0,
     "numero": "12",
-    "partidosJugados": 2,
+    "partidosJugados": 3,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,8 +209,8 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 22,
-    "goles": 1,
+    "partidosJugados": 23,
+    "goles": 2,
     "trayectoria": [
       {
         "club": "Las Palmas (Argentina)",
@@ -394,7 +394,7 @@
     "altura": null,
     "peso": null,
     "numero": "27",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -424,7 +424,7 @@
     "altura": 1.85,
     "peso": 80.0,
     "numero": "29",
-    "partidosJugados": 6,
+    "partidosJugados": 7,
     "goles": 0,
     "trayectoria": [
       {
@@ -564,8 +564,8 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 14,
-    "goles": 0,
+    "partidosJugados": 15,
+    "goles": 1,
     "trayectoria": [
       {
         "club": "García Ágreda",
@@ -624,7 +624,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 26,
+    "partidosJugados": 27,
     "goles": 7,
     "trayectoria": [
       {
@@ -694,7 +694,7 @@
     "altura": 1.8,
     "peso": null,
     "numero": "36",
-    "partidosJugados": 4,
+    "partidosJugados": 5,
     "goles": 1,
     "trayectoria": [
       {
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 11,
+    "partidosJugados": 12,
     "goles": 0,
     "trayectoria": [
       {
@@ -774,7 +774,7 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 20,
+    "partidosJugados": 21,
     "goles": 1,
     "trayectoria": [
       {
@@ -814,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 17,
+    "partidosJugados": 18,
     "goles": 1,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 0,
     "trayectoria": [
       {
@@ -968,7 +968,7 @@
     "altura": null,
     "peso": null,
     "numero": "24",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 0,
     "trayectoria": [
       {
@@ -988,7 +988,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 3,
     "trayectoria": [
       {
@@ -1233,7 +1233,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 25,
+    "partidosJugados": 26,
     "goles": 4,
     "trayectoria": [
       {
@@ -1343,7 +1343,7 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 10,
     "trayectoria": [
       {
