@@ -41362,5 +41362,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3448,
+    "FECHA":"2026-08-21",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"4-3",
+    "EQUIPO2":"UNIVERSITARIO (VT)",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
