@@ -9,20 +9,20 @@ const Cuerpo_tecnico = () => {
       <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/sixto-vizuete.png"
-            alt="SIXTO VIZUETE"
+            src="cuerpo-tecnico/antonio-carlos-zago.png"
+            alt="ANTONIO CARLOS ZAGO"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">SIXTO VIZUETE</h3>
+          <h3 className="font-semibold">ANTONIO CARLOS ZAGO</h3>
           <p className="text-sm text-gray-600">ENTRENADOR</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/fernando-torres.png"
-            alt="FERNANDO TORRES"
+            src="cuerpo-tecnico/giancarlo-zago.png"
+            alt="GIANCARLO ZAGO"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">FERNANDO TORRES</h3>
+          <h3 className="font-semibold">GIANCARLO ZAGO</h3>
           <p className="text-sm text-gray-600">ASISTENTE TÉCNICO</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
@@ -36,12 +36,12 @@ const Cuerpo_tecnico = () => {
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
-            src="cuerpo-tecnico/darwin-veloz.png"
-            alt="DARWIN VELOZ"
+            src="cuerpo-tecnico/rodrigo-morales.png"
+            alt="RODRIGO MORALES"
             className="w-full h-48 object-cover rounded-t"
           />
-          <h3 className="font-semibold">DARWIN VELOZ</h3>
-          <p className="text-sm text-gray-600">PREPARADOR FÍSICO</p>
+          <h3 className="font-semibold">RODRIGO MORALES</h3>
+          <p className="text-sm text-gray-600">MÉDICO</p>
         </div>
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
