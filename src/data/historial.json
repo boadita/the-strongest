@@ -41374,5 +41374,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3449,
+    "FECHA":"2026-08-26",
+    "EQUIPO":"SAN ANTONIO",
+    "RESULTADO":"0-3",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"FÉLIX CAPRILES",
+    "CIUDAD":"COCHABAMBA",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

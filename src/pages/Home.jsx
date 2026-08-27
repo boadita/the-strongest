@@ -11,7 +11,31 @@ const Home = () => {
           <h3 className="font-bold text-xl mb-1 text-center">ÚLTIMO PARTIDO</h3>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">21-8-2026</span>
+            <span className="text-2x1">26-8-2026</span>
+          </div>
+          <div className="flex items-center gap-2 p-1">
+            <h4 className="font-bold text-2x1">CIUDAD: </h4>
+            <span className="text-2x1">COCHABAMBA</span>
+          </div>
+          <div className="flex items-center gap-2 p-1">
+            <h4 className="font-bold text-2x1">ESTADIO: </h4>
+            <span className="text-2x1">FÉLIX CAPRILES</span>
+          </div>
+          <div className="flex items-center gap-2 p-1">
+            <h4 className="font-bold text-2x1">TORNEO: </h4>
+            <span className="text-2x1">LIGA FBF</span>
+          </div>
+          <div className="flex flex-col items-center justify-center p-4 gap-2 border border-black rounded-lg">
+            <div className="font-bold text-lg">SAN ANTONIO</div>
+            <div className="text-2x1 text-black">0-3</div>
+            <div className="font-bold text-lg">THE STRONGEST</div>
+          </div>
+        </div>
+        <div className="bg-black text-white p-4 rounded-xl shadow lg:w-1/2">
+          <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
+          <div className="flex items-center gap-2 p-1">
+            <h4 className="font-bold text-2x1">FECHA: </h4>
+            <span className="text-2x1">30-8-2026</span>
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">CIUDAD: </h4>
@@ -23,34 +47,10 @@ const Home = () => {
           </div>
           <div className="flex items-center gap-2 p-1">
             <h4 className="font-bold text-2x1">TORNEO: </h4>
-            <span className="text-2x1">LIGA FBF</span>
-          </div>
-          <div className="flex flex-col items-center justify-center p-4 gap-2 border border-black rounded-lg">
-            <div className="font-bold text-lg">THE STRONGEST</div>
-            <div className="text-2x1 text-black">4-3</div>
-            <div className="font-bold text-lg">FC UNIVERSITARIO</div>
-          </div>
-        </div>
-        <div className="bg-black text-white p-4 rounded-xl shadow lg:w-1/2">
-          <h3 className="font-bold text-xl mb-1 text-center">PRÓXIMO PARTIDO</h3>
-          <div className="flex items-center gap-2 p-1">
-            <h4 className="font-bold text-2x1">FECHA: </h4>
-            <span className="text-2x1">26-8-2026</span>
-          </div>
-          <div className="flex items-center gap-2 p-1">
-            <h4 className="font-bold text-2x1">CIUDAD: </h4>
-            <span className="text-2x1">ENTRE RÍOS</span>
-          </div>
-          <div className="flex items-center gap-2 p-1">
-            <h4 className="font-bold text-2x1">ESTADIO: </h4>
-            <span className="text-2x1">CARLOS VILLEGAS</span>
-          </div>
-          <div className="flex items-center gap-2 p-1">
-            <h4 className="font-bold text-2x1">TORNEO: </h4>
-            <span className="text-2x1">LIGA FBF</span>
+            <span className="text-2x1">COPA PACEÑA</span>
           </div>
           <div className="flex flex-col items-center justify-center p-4 gap-2 border border-white rounded-lg">
-            <div className="font-bold text-lg">SAN ANTONIO</div>
+            <div className="font-bold text-lg">BOLÍVAR</div>
             <div className="text-2x1 text-white">vs</div>
             <div className="font-bold text-lg">THE STRONGEST</div>
           </div>
