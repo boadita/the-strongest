@@ -41386,5 +41386,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3450,
+    "FECHA":"2026-08-31",
+    "EQUIPO":"BOLÍVAR",
+    "RESULTADO":"4-2",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"COPA PACEÑA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

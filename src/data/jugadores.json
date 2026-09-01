@@ -69,7 +69,7 @@
     "altura": 1.86,
     "peso": 78.0,
     "numero": "12",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 25,
+    "partidosJugados": 26,
     "goles": 4,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 13,
+    "partidosJugados": 14,
     "goles": 0,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 26,
+    "partidosJugados": 27,
     "goles": 2,
     "trayectoria": [
       {
@@ -424,7 +424,7 @@
     "altura": 1.85,
     "peso": 80.0,
     "numero": "29",
-    "partidosJugados": 9,
+    "partidosJugados": 10,
     "goles": 0,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 0,
     "trayectoria": [
       {
@@ -564,7 +564,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 16,
+    "partidosJugados": 17,
     "goles": 1,
     "trayectoria": [
       {
@@ -624,8 +624,8 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 29,
-    "goles": 9,
+    "partidosJugados": 30,
+    "goles": 10,
     "trayectoria": [
       {
         "club": "Bolívar",
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 13,
+    "partidosJugados": 14,
     "goles": 0,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 30,
+    "partidosJugados": 31,
     "goles": 0,
     "trayectoria": [
       {
@@ -988,8 +988,8 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 23,
-    "goles": 4,
+    "partidosJugados": 24,
+    "goles": 5,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -1233,7 +1233,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 28,
+    "partidosJugados": 29,
     "goles": 4,
     "trayectoria": [
       {
@@ -1298,7 +1298,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 24,
+    "partidosJugados": 25,
     "goles": 5,
     "trayectoria": [
       {
@@ -1343,7 +1343,7 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 23,
+    "partidosJugados": 24,
     "goles": 11,
     "trayectoria": [
       {
@@ -1418,7 +1418,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 26,
+    "partidosJugados": 27,
     "goles": 0,
     "trayectoria": [
       {
@@ -1445,6 +1445,76 @@
         "club": "Monagas SC (Venezuela)",
         "desde": 2025,
         "hasta": 2025
+      },
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "luiz-henrique-pachu",
+    "nombre": "Luiz Henrique Pachu",
+    "fechaNacimiento": "1996-02-26",
+    "edad": 30,
+    "nacionalidad": "brasileña",
+    "posicion": "Delantero",
+    "altura": 1.85,
+    "peso": 77,
+    "numero": "99",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "Botafogo (Brasil)",
+        "desde": 2016,
+        "hasta": 2019
+      },
+      {
+        "club": "Gonçalense (Brasil)",
+        "desde": 2016,
+        "hasta": 2016
+      },
+      {
+        "club": "Santa Cruz de Recife (Brasil)",
+        "desde": 2017,
+        "hasta": 2017
+      },
+      {
+        "club": "Boavista (Brasil)",
+        "desde": 2019,
+        "hasta": 2019
+      },
+      {
+        "club": "Atibaia (Brasil)",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Atlético PB (Brasil)",
+        "desde": 2020,
+        "hasta": 2020
+      },
+      {
+        "club": "Cianorte (Brasil)",
+        "desde": 2021,
+        "hasta": 2021
+      },
+      {
+        "club": "Trofense (Portugal)",
+        "desde": 2021,
+        "hasta": 2023
+      },
+      {
+        "club": "Turan Tovuz (Azerbajián)",
+        "desde": 2023,
+        "hasta": 2024
+      },
+      {
+        "club": "Kapaz (Azerbajián)",
+        "desde": 2024,
+        "hasta": 2026
       },
       {
         "club": "The Strongest",
