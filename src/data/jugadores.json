@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "1",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 17,
+    "partidosJugados": 18,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 26,
+    "partidosJugados": 27,
     "goles": 4,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 0,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 2,
     "trayectoria": [
       {
@@ -393,9 +393,9 @@
     "posicion": "Defensor",
     "altura": null,
     "peso": null,
-    "numero": "27",
+    "numero": "28",
     "partidosJugados": 6,
-    "goles": 0,
+    "goles": 1,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -624,8 +624,8 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 30,
-    "goles": 10,
+    "partidosJugados": 31,
+    "goles": 11,
     "trayectoria": [
       {
         "club": "Bolívar",
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 0,
     "trayectoria": [
       {
@@ -774,8 +774,8 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 22,
-    "goles": 2,
+    "partidosJugados": 23,
+    "goles": 3,
     "trayectoria": [
       {
         "club": "Oriente Petrolero",
@@ -944,7 +944,7 @@
     "altura": 1.64,
     "peso": null,
     "numero": "31",
-    "partidosJugados": 11,
+    "partidosJugados": 12,
     "goles": 0,
     "trayectoria": [
       {
@@ -968,7 +968,7 @@
     "altura": null,
     "peso": null,
     "numero": "24",
-    "partidosJugados": 6,
+    "partidosJugados": 7,
     "goles": 0,
     "trayectoria": [
       {
@@ -988,7 +988,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 24,
+    "partidosJugados": 25,
     "goles": 5,
     "trayectoria": [
       {
@@ -1233,7 +1233,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 29,
+    "partidosJugados": 30,
     "goles": 4,
     "trayectoria": [
       {
@@ -1298,7 +1298,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 25,
+    "partidosJugados": 26,
     "goles": 5,
     "trayectoria": [
       {
@@ -1418,7 +1418,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 0,
     "trayectoria": [
       {
@@ -1463,7 +1463,7 @@
     "altura": 1.85,
     "peso": 77,
     "numero": "99",
-    "partidosJugados": 1,
+    "partidosJugados": 2,
     "goles": 0,
     "trayectoria": [
       {
