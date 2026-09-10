@@ -41400,7 +41400,7 @@
     "MODALIDAD":"OFICIAL"
   },
   {
-    "Id":3450,
+    "Id":3451,
     "FECHA":"2026-09-06",
     "EQUIPO":"THE STRONGEST",
     "RESULTADO":"3-1",
@@ -41408,6 +41408,18 @@
     "ESTADIO":"HERNANDO SILES",
     "CIUDAD":"LA PAZ",
     "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3452,
+    "FECHA":"2026-09-09",
+    "EQUIPO":"UNIVERSITARIO (VT)",
+    "RESULTADO":"1-2",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"FÉLIX CAPRILES",
+    "CIUDAD":"COCHABAMBA",
+    "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
   }
