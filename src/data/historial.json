@@ -41422,5 +41422,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3453,
+    "FECHA":"2026-09-12",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"5-0",
+    "EQUIPO2":"REAL ORURO",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
