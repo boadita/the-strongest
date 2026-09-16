@@ -1,6 +1,6 @@
 const Creditos = () => {
   return (
-    <section className="space-y-6">
+    <section className="space-y-6 tv:space-y-10 tv:px-8">
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
         CRÉDITOS Y REFERENCIAS
       </h1>

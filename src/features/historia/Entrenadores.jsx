@@ -15,7 +15,7 @@ const Entrenadores = () => {
     const datosPaginados = entrenador.slice(indiceInicio, indiceFin);
 
     return (
-        <div className="space-y-10">
+        <div className="space-y-10 tv:space-y-14">
             {/* TÍTULO */}
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
                 ENTRENADORES

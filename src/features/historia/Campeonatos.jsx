@@ -54,12 +54,12 @@ const Campeonatos = () => {
     };
 
     return (
-        <div className="space-y-10">
+        <div className="space-y-10 tv:space-y-14">
             {/* TÍTULO */}
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
                 CAMPEONATOS
             </h1>
-            <div className="grid md:grid-cols-2 gap-6">
+            <div className="grid md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6">
                 {/* PACEÑOS */}
                 <div>
                     <section>

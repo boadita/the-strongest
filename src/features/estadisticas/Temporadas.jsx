@@ -28,9 +28,9 @@ const Temporadas = () => {
 
     const datosPaginados = datos.slice(indiceInicio, indiceFin);
     return (
-        <div className="space-y-6 p-6">
+        <div className="space-y-6 tv:space-y-10 tv:px-8 p-6">
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TEMPORADAS</h1>
-            <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-5 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-4">
                 <button
                     onClick={() => cambiarEra("ERA AMATEUR", Era_amateur)}
                     className={`px-4 py-2 rounded font-bold text-center

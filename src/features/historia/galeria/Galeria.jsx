@@ -38,12 +38,12 @@ const Galeria = () => {
   if (!decadaData || !anioData) return null;
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 tv:space-y-10 tv:px-8">
 
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
         FORMACIONES POR AÑOS
       </h1>
-      <nav className="grid grid-cols-1 md:grid-cols-2">
+      <nav className="grid grid-cols-1 md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8">
         {/* DÉCADAS */}
         <DecadasSelector
           decadas={decadas}
@@ -60,7 +60,7 @@ const Galeria = () => {
       </nav>
 
       {/* GALERÍA */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 gap-8 ">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-8 ">
         {anioData.imagenes.map((img, i) => (
           <FormacionCard
             key={i}

@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
 import estadios from "../../data/estadios.json";
+import TvSelect from "../../components/TvSelect";
 
 const Ciudades = () => {
   const [tipo, setTipo] = useState("nacionales");
@@ -68,10 +69,10 @@ const Ciudades = () => {
       if (a.pais !== b.pais) {
         return a.pais.localeCompare(b.pais);
       }
-       // 2️⃣ Region
-    if (a.region !== b.region) {
-      return a.region.localeCompare(b.region);
-    }
+      // 2️⃣ Region
+      if (a.region !== b.region) {
+        return a.region.localeCompare(b.region);
+      }
 
       //  3️⃣ Ciudad
       return a.ciudad.localeCompare(b.ciudad);
@@ -93,7 +94,7 @@ const Ciudades = () => {
       : ciudadesInternacionales;
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 tv:space-y-10 tv:px-8">
 
       {/* TÍTULO */}
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
@@ -130,23 +131,17 @@ const Ciudades = () => {
         <div className="max-w-xs">
           <div className="flex flex-col md:flex-row md:items-center gap-3">
             <span className="font-bold whitespace-nowrap">Seleccione pais: </span>
-            <select
+            <TvSelect
               value={paisSeleccionado}
-              onChange={(e) => setPaisSeleccionado(e.target.value)}
-              className="border p-2 rounded font-semibold bg-white w-full"
-            >
-              {paises.map(pais => (
-                <option key={pais} value={pais}>
-                  {pais}
-                </option>
-              ))}
-            </select>
+              options={paises}
+              onChange={setPaisSeleccionado}
+            />
           </div>
         </div>
       )}
 
       {/* GRID */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6 ">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6 ">
         {ciudadesMostrar.map(ciudad => (
           <div
             key={ciudad.ciudad}

@@ -13,7 +13,7 @@ const Hinchada = () => {
   const [seccionActiva, setSeccionActiva] = useState("barras");
 
   return (
-    <div className="p-6 space-y-8">
+    <div className="p-6 space-y-8 tv:p-10 tv:space-y-12">
 
       {/* TÍTULO */}
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
@@ -40,7 +40,7 @@ const Hinchada = () => {
 
       {/* CONTENIDO */}
       <section className="mt-6">
-        <div className="grid gap-6 md:grid-cols-2 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="grid gap-6 md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 sm:grid-cols-2 lg:grid-cols-4">
           {hinchada[seccionActiva]?.map(item => (
             <HinchadaCard key={item.id} item={item} />
           ))}

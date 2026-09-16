@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 import historial from "../../data/historial.json";
+import TvSelect from "../../components/TvSelect";
 
 const Historial = () => {
 
@@ -20,8 +21,15 @@ const Historial = () => {
             histo.map(h => h.FECHA.slice(0, 4))
         )
     ].sort((a, b) => b - a); // más recientes primero
-    const modalidadesUnicas = [...new Set(histo.map(h => h.MODALIDAD))];
-    const tiposUnicos = [...new Set(histo.map(h => h.TIPO))];
+
+    const modalidadesUnicas = [
+        ...new Set(histo.map(h => h.MODALIDAD))
+    ];
+
+    const tiposUnicos = [
+        ...new Set(histo.map(h => h.TIPO))
+    ];
+
     const equiposUnicos = [
         ...new Set(
             histo.flatMap(h => [h.EQUIPO, h.EQUIPO2])
@@ -39,7 +47,9 @@ const Historial = () => {
         )
     ];
 
-    const ciudadesUnicas = [...new Set(histo.map(h => h.CIUDAD))];
+    const ciudadesUnicas = [
+        ...new Set(histo.map(h => h.CIUDAD))
+    ];
 
     const estadiosFiltrados = [
         ...new Set(
@@ -51,20 +61,20 @@ const Historial = () => {
         )
     ];
 
-    const handleTipoChange = (e) => {
-        setTipoSeleccionado(e.target.value);
+    const handleTipoChange = (valor) => {
+        setTipoSeleccionado(valor);
         setTorneoSeleccionado("");
         setPaginaActual(1);
     };
 
-    const handleModalidadChange = (e) => {
-        setModalidadSeleccionada(e.target.value);
+    const handleModalidadChange = (valor) => {
+        setModalidadSeleccionada(valor);
         setTorneoSeleccionado("");
         setPaginaActual(1);
     };
 
-    const handleCiudadChange = (e) => {
-        setciudadSeleccionada(e.target.value);
+    const handleCiudadChange = (valor) => {
+        setciudadSeleccionada(valor);
         setestadioSeleccionado("");
         setPaginaActual(1);
     };
@@ -109,6 +119,7 @@ const Historial = () => {
 
         return paginas;
     };
+
     const filasPorPagina = 20;
 
     const [paginaActual, setPaginaActual] = useState(1);
@@ -118,144 +129,169 @@ const Historial = () => {
     const indiceFin = indiceInicio + filasPorPagina;
 
     const datosPaginados = histoFiltrado.slice(indiceInicio, indiceFin);
+
     return (
-        <div className="space-y-6 p-6">
+        <div className="space-y-6 tv:space-y-10 tv:px-8 p-6">
+
             <nav className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+
                 {/* AÑO */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">AÑO: </span>
-                    <select
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        AÑO:
+                    </span>
+
+                    <TvSelect
                         value={anioSeleccionado}
-                        onChange={e => {
-                            setAnioSeleccionado(e.target.value);
+                        options={aniosUnicos}
+                        placeholder="Todos los años"
+                        onChange={(valor) => {
+                            setAnioSeleccionado(valor);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                    >
-                        <option value="">Todos los años</option>
-
-                        {aniosUnicos.map(a => (
-                            <option key={a} value={a}>
-                                {a}
-                            </option>
-                        ))}
-                    </select>
+                    />
                 </div>
+
                 {/* EQUIPO */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">RIVAL: </span>
-                    <select
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        RIVAL:
+                    </span>
+
+                    <TvSelect
                         value={equipoSeleccionado}
-                        onChange={e => {
-                            setEquipoSeleccionado(e.target.value);
+                        options={equiposUnicos}
+                        placeholder="Todos los equipos"
+                        onChange={(valor) => {
+                            setEquipoSeleccionado(valor);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                    >
-                        <option value="">Todos los equipos</option>
-
-                        {equiposUnicos.map(eq => (
-                            <option key={eq} value={eq}>
-                                {eq}
-                            </option>
-                        ))}
-                    </select>
+                    />
                 </div>
+
                 {/* CIUDAD */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">CIUDAD: </span>
-                    <select
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        CIUDAD:
+                    </span>
+
+                    <TvSelect
                         value={ciudadSeleccionada}
+                        options={ciudadesUnicas}
+                        placeholder="Todas las ciudades"
                         onChange={handleCiudadChange}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                    >
-                        <option value="">Todas las ciudades</option>
-                        {ciudadesUnicas.map(c => (
-                            <option key={c} value={c}>{c}</option>
-                        ))}
-                    </select>
+                    />
                 </div>
+
+                {/* ESTADIO */}
                 <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">ESTADIO: </span>
-                    {/* ESTADIO */}
-                    <select
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        ESTADIO:
+                    </span>
+
+                    <TvSelect
                         value={estadioSeleccionado}
-                        onChange={e => {
-                            setestadioSeleccionado(e.target.value);
-                            setPaginaActual(1);
-                        }}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
+                        options={estadiosFiltrados}
+                        placeholder="Todos los estadios"
                         disabled={!estadiosFiltrados.length}
-                    >
-                        <option value="">Todos los estadios</option>
-                        {estadiosFiltrados.map(es => (
-                            <option key={es} value={es}>{es}</option>
-                        ))}
-                    </select>
-                </div>
-                <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">MODALIDAD: </span>
-                    {/* MODALIDAD */}
-                    <select
-                        value={modalidadSeleccionada}
-                        onChange={handleModalidadChange}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                    >
-                        <option value="">Todas las modalidades</option>
-                        {modalidadesUnicas.map(m => (
-                            <option key={m} value={m}>{m}</option>
-                        ))}
-                    </select>
-                </div>
-                <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">TIPO: </span>
-                    {/* TIPO */}
-                    <select
-                        value={tipoSeleccionado}
-                        onChange={handleTipoChange}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                    >
-                        <option value="">Todos los tipos</option>
-                        {tiposUnicos.map(t => (
-                            <option key={t} value={t}>{t}</option>
-                        ))}
-                    </select>
-                </div>
-                <div className="flex flex-col md:flex-row md:items-center gap-3">
-                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">TORNEO: </span>
-                    {/* TORNEO */}
-                    <select
-                        value={torneoSeleccionado}
-                        onChange={e => {
-                            setTorneoSeleccionado(e.target.value);
+                        onChange={(valor) => {
+                            setestadioSeleccionado(valor);
                             setPaginaActual(1);
                         }}
-                        className="border p-2 rounded bg-white font-semibold dark:text-gray-800 w-full md:w-40"
-                        disabled={!torneosFiltrados.length}
-                    >
-                        <option value="">Todos los torneos</option>
-                        {torneosFiltrados.map(t => (
-                            <option key={t} value={t}>{t}</option>
-                        ))}
-                    </select>
+                    />
                 </div>
+
+                {/* MODALIDAD */}
+                <div className="flex flex-col md:flex-row md:items-center gap-3">
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        MODALIDAD:
+                    </span>
+
+                    <TvSelect
+                        value={modalidadSeleccionada}
+                        options={modalidadesUnicas}
+                        placeholder="Todas las modalidades"
+                        onChange={handleModalidadChange}
+                    />
+                </div>
+
+                {/* TIPO */}
+                <div className="flex flex-col md:flex-row md:items-center gap-3">
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        TIPO:
+                    </span>
+
+                    <TvSelect
+                        value={tipoSeleccionado}
+                        options={tiposUnicos}
+                        placeholder="Todos los tipos"
+                        onChange={handleTipoChange}
+                    />
+                </div>
+
+                {/* TORNEO */}
+                <div className="flex flex-col md:flex-row md:items-center gap-3">
+                    <span className="font-bold dark:text-gray-800 whitespace-nowrap">
+                        TORNEO:
+                    </span>
+
+                    <TvSelect
+                        value={torneoSeleccionado}
+                        options={torneosFiltrados}
+                        placeholder="Todos los torneos"
+                        disabled={!torneosFiltrados.length}
+                        onChange={(valor) => {
+                            setTorneoSeleccionado(valor);
+                            setPaginaActual(1);
+                        }}
+                    />
+                </div>
+
             </nav>
-            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">HISTORIAL DE PARTIDOS</h1>
+
+            <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
+                HISTORIAL DE PARTIDOS
+            </h1>
+
             {/* RESULTADO */}
             <div className="mt-6">
                 <div className="overflow-x-auto w-full">
+
                     <table className="min-w-[1000px] w-full border-collapse text-xs sm:text-sm md:text-base">
 
                         <thead className="bg-black text-white sticky top-0 z-10">
                             <tr>
-                                <th className="border px-2 py-2 whitespace-nowrap">Id</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">FECHA</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">EQUIPO</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">RESULTADO</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">EQUIPO2</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">ESTADIO</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">CIUDAD</th>
-                                <th className="border px-2 py-2 whitespace-nowrap">TORNEO</th>
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    Id
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    FECHA
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    EQUIPO
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    RESULTADO
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    EQUIPO2
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    ESTADIO
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    CIUDAD
+                                </th>
+
+                                <th className="border px-2 py-2 whitespace-nowrap">
+                                    TORNEO
+                                </th>
                             </tr>
                         </thead>
 
@@ -265,25 +301,53 @@ const Historial = () => {
                                     key={h.Id}
                                     className="font-semibold bg-yellow-100 dark:text-gray-800 hover:bg-gray-50 transition-colors"
                                 >
-                                    <td className="border px-2 py-1 text-center">{h.Id}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.FECHA}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.EQUIPO}</td>
-                                    <td className="border px-2 py-1 text-center">{h.RESULTADO}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.EQUIPO2}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.ESTADIO}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.CIUDAD}</td>
-                                    <td className="border px-2 py-1 text-center whitespace-nowrap">{h.TORNEO}</td>
+                                    <td className="border px-2 py-1 text-center">
+                                        {h.Id}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.FECHA}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.EQUIPO}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center">
+                                        {h.RESULTADO}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.EQUIPO2}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.ESTADIO}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.CIUDAD}
+                                    </td>
+
+                                    <td className="border px-2 py-1 text-center whitespace-nowrap">
+                                        {h.TORNEO}
+                                    </td>
                                 </tr>
                             ))}
                         </tbody>
 
                     </table>
+
                 </div>
             </div>
+
             {/* PAGINACIÓN */}
             <div className="flex justify-center mt-4 gap-2 flex-wrap">
+
                 <button
-                    onClick={() => setPaginaActual(p => Math.max(p - 1, 1))}
+                    onClick={() =>
+                        setPaginaActual(p => Math.max(p - 1, 1))
+                    }
                     disabled={paginaActual === 1}
                     className="px-3 py-1 border rounded font-bold dark:text-gray-800 bg-yellow-100 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
@@ -292,7 +356,10 @@ const Historial = () => {
 
                 {obtenerPaginasVisibles().map((num, index) =>
                     num === "..." ? (
-                        <span key={`dots-${index}`} className="px-2 text-gray-500">
+                        <span
+                            key={`dots-${index}`}
+                            className="px-2 text-gray-500"
+                        >
                             ...
                         </span>
                     ) : (
@@ -300,9 +367,10 @@ const Historial = () => {
                             key={num}
                             onClick={() => setPaginaActual(num)}
                             className={`px-3 py-1 border rounded font-bold
-        ${paginaActual === num
-                                    ? "bg-black text-yellow-400"
-                                    : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
+                                ${
+                                    paginaActual === num
+                                        ? "bg-black text-yellow-400"
+                                        : "bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400"
                                 }`}
                         >
                             {num}
@@ -319,15 +387,20 @@ const Historial = () => {
                 >
                     ⏭
                 </button>
+
             </div>
-            <Link to="/estadisticas_partidos"
-                className="grid place-items-center">
+
+            <Link
+                to="/estadisticas_partidos"
+                className="grid place-items-center"
+            >
                 <button
                     className="px-3 py-1 border rounded font-bold bg-yellow-100 dark:text-gray-800 hover:bg-black hover:text-yellow-400 disabled:opacity-50"
                 >
                     ESTADÍSTICAS POR RIVAL
                 </button>
             </Link>
+
         </div>
     );
 };

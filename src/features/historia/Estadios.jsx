@@ -1,5 +1,6 @@
 import { useState, useMemo } from "react";
 import estadios from "../../data/estadios.json";
+import TvSelect from "../../components/TvSelect";
 
 const Estadios = () => {
   const [tipo, setTipo] = useState("nacionales");
@@ -83,7 +84,7 @@ const ciudades = Object.values(lista);
       : estadiosInternacionales;
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 tv:space-y-10 tv:px-8">
 
       {/* TÍTULO */}
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
@@ -120,23 +121,17 @@ const ciudades = Object.values(lista);
         <div className="max-w-xs">
           <div className="flex flex-col md:flex-row md:items-center gap-3">
             <span className="font-bold whitespace-nowrap">Seleccione pais: </span>
-            <select
+            <TvSelect
               value={paisSeleccionado}
-              onChange={(e) => setPaisSeleccionado(e.target.value)}
-              className="border p-2 rounded bg-white font-semibold w-full"
-            >
-              {paises.map((pais) => (
-                <option key={pais} value={pais}>
-                  {pais}
-                </option>
-              ))}
-            </select>
+              options={paises}
+              onChange={setPaisSeleccionado}
+            />
           </div>
         </div>
       )}
 
       {/* GRID DE ESTADIOS */}
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6">
         {estadiosMostrar.map((estadio) => (
           <div
             key={estadio.ESTADIO}

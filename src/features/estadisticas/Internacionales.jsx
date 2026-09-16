@@ -27,9 +27,9 @@ const Internacionales = () => {
         : partidosFiltrados;
 
     return (
-        <div className="space-y-6 p-6">
+        <div className="space-y-6 tv:space-y-10 tv:px-8 p-6">
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">TORNEOS INTERNACIONALES</h1>
-            <div className="grid grid-cols-1 md:grid-cols-5 gap-4">
+            <div className="grid grid-cols-1 md:grid-cols-5 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-4">
                 <button
                     onClick={() => setCompetenciaSeleccionada("LIBERTADORES")}
                     className={`px-4 py-2 rounded font-bold text-center
@@ -103,7 +103,7 @@ const Internacionales = () => {
                     </ul>
                 </aside>
                 <section>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <div className="grid grid-cols-1 md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-3 gap-4">
                         {partidosPorAnio.map((partido) => (
                             <div
                                 key={partido.Id}

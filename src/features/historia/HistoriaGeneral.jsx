@@ -3,7 +3,7 @@ import { useState } from "react";
 const HistoriaGeneral = () => {
 
   return (
-    <div className="space-y-6">
+    <div className="space-y-6 tv:space-y-10 tv:px-8">
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
         HISTORIA DEL CLUB THE STRONGEST
       </h1>
@@ -21,7 +21,7 @@ const HistoriaGeneral = () => {
           Los Inicios (1908)
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">📅 8 de abril de 1908</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">👥 12 jóvenes fundadores</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">📍 La Paz</div>
@@ -42,7 +42,7 @@ const HistoriaGeneral = () => {
           Dominio en la Era Amateur
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🏆 Primer campeón invicto (1914)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🔥 Tetracampeón (1922–1925)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🏟️ Inaugura el Hernando Siles</div>
@@ -61,7 +61,7 @@ const HistoriaGeneral = () => {
           La Guerra del Chaco
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">🪖 600 socios al frente</div>
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">🇧🇴 Club al servicio del país</div>
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">📍 Cañada Strongest</div>
@@ -80,7 +80,7 @@ const HistoriaGeneral = () => {
           Era Profesional
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🏆 Primer campeón profesional (1952)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🥇 Copa República (1958)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">⚽ Base del fútbol moderno</div>
@@ -99,7 +99,7 @@ const HistoriaGeneral = () => {
           La Tragedia de Viloco (1969)
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">✈️ Accidente aéreo</div>
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">💔 Sin sobrevivientes</div>
           <div className="bg-yellow-500 text-gray-900 p-4 rounded-lg text-center">⚠️ Al borde de desaparecer</div>
@@ -125,7 +125,7 @@ const HistoriaGeneral = () => {
           La Era de la Liga y el Tigre Moderno
         </h2>
 
-        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 lg:grid-cols-4 xl:grid-cols-5 gap-4 my-6">
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🏆 Primer campeón de Liga (1977)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🔥 Tricampeón histórico (2012)</div>
           <div className="bg-gray-900 text-yellow-500 p-4 rounded-lg text-center">🌎 Derribador de campeones</div>

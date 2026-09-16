@@ -2,7 +2,7 @@ import libros from "../data/libros.json";
 
 const Referencias = () => {
     return (
-        <div className="space-y-6">
+        <div className="space-y-6 tv:space-y-10 tv:px-8">
 
             {/* TÍTULO */}
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
@@ -16,7 +16,7 @@ const Referencias = () => {
             </p>
 
             {/* GRID */}
-            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+            <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6">
                 {libros.map(lib => (
                     <div
                         key={lib.id}

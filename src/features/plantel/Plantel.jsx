@@ -9,7 +9,7 @@ const Plantel = () => {
         TEMPORADA 2026
       </h2>
 
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6">
         {jugadores.map(jugador => (
           <Link
             key={jugador.id}

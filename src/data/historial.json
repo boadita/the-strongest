@@ -41434,5 +41434,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3454,
+    "FECHA":"2026-09-15",
+    "EQUIPO":"ABB",
+    "RESULTADO":"1-2",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"VILLA INGENIO",
+    "CIUDAD":"EL ALTO",
+    "TORNEO":"COPA PACEÑA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

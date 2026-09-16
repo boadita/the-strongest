@@ -8,9 +8,9 @@ import colon from "../assets/predios/colon.jpg";
 
 const Predios = () => {
     return (
-        <div className="space-y-6">
+        <div className="space-y-6 tv:space-y-10 tv:px-8">
             <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">PREDIOS</h1>
-            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-10">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-8 p-10">
                 <div className="rounded-xl shadow bg-yellow-100 p-4 overflow-hidden hover:scale-105 transition">
                     <img
                         src={cancha_gustavo_carlos_otero}

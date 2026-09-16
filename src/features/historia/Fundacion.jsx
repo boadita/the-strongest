@@ -1,6 +1,6 @@
 const Fundacion = () => {
   return (
-    <article className="space-y-6">
+    <article className="space-y-6 tv:space-y-10 tv:px-8">
 
       {/* TÍTULO */}
       <h1 className="font-bold dark:text-gray-800 text-center text-2xl sm:text-3xl md:text-4xl lg:text-5xl">
@@ -93,7 +93,7 @@ const Fundacion = () => {
           Formación táctica utilizada: <strong>2-3-5</strong>
         </p>
 
-        <div className="grid-cols-1 md:grid-cols-2 gap-4 text-gray-700">
+        <div className="grid-cols-1 md:grid-cols-2 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-4 text-gray-700">
           <ul className="space-y-1">
             <li><strong>Arquero:</strong> Alberto Requena</li>
             <li><strong>Defensas:</strong> Luis Rivera, Ramón González</li>

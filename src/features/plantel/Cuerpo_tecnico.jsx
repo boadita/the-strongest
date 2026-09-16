@@ -6,7 +6,7 @@ const Cuerpo_tecnico = () => {
       <h2 className="text-2xl font-bold mb-6 text-center">
         CUERPO TECNICO
       </h2>
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-6">
+      <div className="grid grid-cols-2 md:grid-cols-4 tv:grid-cols-4 tv-lg:grid-cols-5 tv:gap-8 gap-6">
         <div className="p-3 bg-yellow-100 rounded text-center hover:scale-105 transition">
           <img
             src="cuerpo-tecnico/antonio-carlos-zago.png"
