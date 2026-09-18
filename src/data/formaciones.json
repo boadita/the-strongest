@@ -1123,6 +1123,14 @@
                 "anio": 2026,
                 "imagenes": [
                     {
+                        "src": "2026-liga.jpg",
+                        "descripcion": "Liga"
+                    },
+                    {
+                        "src": "2026-copa.jpg",
+                        "descripcion": "Copa"
+                    },
+                    {
                         "src": "2026-lib.jpg",
                         "descripcion": "Libertadores"
                     }
