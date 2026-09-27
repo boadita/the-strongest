@@ -41458,5 +41458,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3456,
+    "FECHA":"2026-09-26",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"2-1",
+    "EQUIPO2":"GUABIRÁ",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"COPA PACEÑA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

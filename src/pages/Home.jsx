@@ -54,7 +54,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              20-9-2026
+              26-9-2026
             </span>
           </div>
 
@@ -106,11 +106,11 @@ const Home = () => {
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-black">
-              1-1
+              2-1
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              BOLÍVAR
+              GUABIRÁ
             </div>
 
           </div>
@@ -144,7 +144,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              26-9-2026
+              30-9-2026
             </span>
           </div>
 
@@ -153,7 +153,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              LA PAZ
+              SANTA CRUZ
             </span>
           </div>
 
@@ -162,7 +162,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              HERNANDO SILES
+              TAHUICHI AGUILERA
             </span>
           </div>
 
@@ -192,7 +192,7 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              ORIENTE PETROLERO
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-white">
@@ -200,7 +200,7 @@ const Home = () => {
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              GUABIRÁ
+              THE STRONGEST
             </div>
 
           </div>
