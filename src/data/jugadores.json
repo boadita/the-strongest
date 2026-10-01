@@ -69,7 +69,7 @@
     "altura": 1.86,
     "peso": 78.0,
     "numero": "12",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 31,
+    "partidosJugados": 32,
     "goles": 5,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 17,
+    "partidosJugados": 18,
     "goles": 0,
     "trayectoria": [
       {
@@ -319,8 +319,7 @@
     "altura": 1.68,
     "peso": 78.0,
     "numero": "19",
-    "partidosJugados": 19,
-    "goles": 1,
+    "partidosJugados": 20,
     "trayectoria": [
       {
         "club": "Universitario de Pando",
@@ -364,7 +363,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 32,
+    "partidosJugados": 33,
     "goles": 2,
     "trayectoria": [
       {
@@ -394,7 +393,7 @@
     "altura": null,
     "peso": null,
     "numero": "28",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 1,
     "trayectoria": [
       {
@@ -624,7 +623,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 34,
+    "partidosJugados": 35,
     "goles": 13,
     "trayectoria": [
       {
@@ -734,7 +733,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 17,
+    "partidosJugados": 18,
     "goles": 1,
     "trayectoria": [
       {
@@ -774,7 +773,7 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 3,
     "trayectoria": [
       {
@@ -814,7 +813,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 1,
     "trayectoria": [
       {
@@ -988,7 +987,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 29,
+    "partidosJugados": 30,
     "goles": 6,
     "trayectoria": [
       {
@@ -1233,8 +1232,8 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 32,
-    "goles": 4,
+    "partidosJugados": 33,
+    "goles": 5,
     "trayectoria": [
       {
         "club": "Hércules Promesas (España)",
@@ -1298,7 +1297,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 28,
+    "partidosJugados": 29,
     "goles": 7,
     "trayectoria": [
       {
@@ -1463,7 +1462,7 @@
     "altura": 1.85,
     "peso": 77,
     "numero": "99",
-    "partidosJugados": 6,
+    "partidosJugados": 7,
     "goles": 1,
     "trayectoria": [
       {
