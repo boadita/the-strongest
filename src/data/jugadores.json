@@ -109,7 +109,7 @@
     "altura": 1.89,
     "peso": 86.0,
     "numero": "33",
-    "partidosJugados": 2,
+    "partidosJugados": 3,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,8 +209,8 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 32,
-    "goles": 5,
+    "partidosJugados": 33,
+    "goles": 6,
     "trayectoria": [
       {
         "club": "Las Palmas (Argentina)",
@@ -264,8 +264,8 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 18,
-    "goles": 0,
+    "partidosJugados": 19,
+    "goles": 1,
     "trayectoria": [
       {
         "club": "Petrolero de Yacuiba",
@@ -319,7 +319,8 @@
     "altura": 1.68,
     "peso": 78.0,
     "numero": "19",
-    "partidosJugados": 20,
+    "partidosJugados": 21,
+    "goles": 1,
     "trayectoria": [
       {
         "club": "Universitario de Pando",
@@ -443,8 +444,8 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 31,
-    "goles": 0,
+    "partidosJugados": 32,
+    "goles": 1,
     "trayectoria": [
       {
         "club": "Destroyers",
@@ -693,7 +694,7 @@
     "altura": 1.8,
     "peso": null,
     "numero": "36",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 1,
     "trayectoria": [
       {
@@ -713,7 +714,7 @@
     "altura": null,
     "peso": null,
     "numero": "37",
-    "partidosJugados": 2,
+    "partidosJugados": 3,
     "goles": 0,
     "trayectoria": [
       {
@@ -733,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 18,
+    "partidosJugados": 19,
     "goles": 1,
     "trayectoria": [
       {
@@ -813,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 22,
+    "partidosJugados": 23,
     "goles": 1,
     "trayectoria": [
       {
@@ -868,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 34,
+    "partidosJugados": 35,
     "goles": 1,
     "trayectoria": [
       {
@@ -967,7 +968,7 @@
     "altura": null,
     "peso": null,
     "numero": "24",
-    "partidosJugados": 10,
+    "partidosJugados": 11,
     "goles": 0,
     "trayectoria": [
       {
@@ -987,8 +988,8 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 30,
-    "goles": 6,
+    "partidosJugados": 31,
+    "goles": 7,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -1232,7 +1233,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 33,
+    "partidosJugados": 34,
     "goles": 5,
     "trayectoria": [
       {
@@ -1297,8 +1298,8 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 29,
-    "goles": 7,
+    "partidosJugados": 30,
+    "goles": 8,
     "trayectoria": [
       {
         "club": "Deportivo Pasto (Colombia)",
@@ -1417,7 +1418,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 31,
+    "partidosJugados": 32,
     "goles": 0,
     "trayectoria": [
       {
@@ -1462,7 +1463,7 @@
     "altura": 1.85,
     "peso": 77,
     "numero": "99",
-    "partidosJugados": 7,
+    "partidosJugados": 8,
     "goles": 1,
     "trayectoria": [
       {
