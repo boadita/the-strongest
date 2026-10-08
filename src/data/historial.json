@@ -41494,5 +41494,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3459,
+    "FECHA":"2026-10-07",
+    "EQUIPO":"GUABIRÁ",
+    "RESULTADO":"2-1",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"GILBERTO PARADA",
+    "CIUDAD":"MONTERO",
+    "TORNEO":"COPA PACEÑA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

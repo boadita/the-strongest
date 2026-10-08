@@ -54,7 +54,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              3-10-2026
+              7-10-2026
             </span>
           </div>
 
@@ -63,7 +63,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              LA PAZ
+              MONTERO
             </span>
           </div>
 
@@ -72,7 +72,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              HERNANDO SILES
+              GILBERTO PARADA
             </span>
           </div>
 
@@ -102,15 +102,15 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              GUABIRÁ
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-black">
-              5-2
+              2-1
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              FC UNIVERSITARIO
+              THE STRONGEST
             </div>
 
           </div>
@@ -144,7 +144,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              7-10-2026
+              11-10-2026
             </span>
           </div>
 
@@ -153,7 +153,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              MONTERO
+              POTOSÍ
             </span>
           </div>
 
@@ -162,7 +162,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              GILBERTO PARADA
+              VÍCTOR AGUSTÍN UGARTE
             </span>
           </div>
 
@@ -171,7 +171,7 @@ const Home = () => {
               TORNEO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              COPA PACEÑA
+              LIGA FBF
             </span>
           </div>
 
@@ -192,7 +192,7 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              GUABIRÁ
+              REAL POTOSÍ
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-white">

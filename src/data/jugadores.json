@@ -69,7 +69,7 @@
     "altura": 1.86,
     "peso": 78.0,
     "numero": "12",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 0,
     "trayectoria": [
       {
@@ -319,7 +319,7 @@
     "altura": 1.68,
     "peso": 78.0,
     "numero": "19",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 1,
     "trayectoria": [
       {
@@ -394,7 +394,7 @@
     "altura": null,
     "peso": null,
     "numero": "28",
-    "partidosJugados": 11,
+    "partidosJugados": 12,
     "goles": 1,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 32,
+    "partidosJugados": 33,
     "goles": 1,
     "trayectoria": [
       {
@@ -669,7 +669,7 @@
     "altura": 1.75,
     "peso": 73.0,
     "numero": "34",
-    "partidosJugados": 1,
+    "partidosJugados": 2,
     "goles": 0,
     "trayectoria": [
       {
@@ -694,8 +694,8 @@
     "altura": 1.8,
     "peso": null,
     "numero": "36",
-    "partidosJugados": 8,
-    "goles": 1,
+    "partidosJugados": 9,
+    "goles": 2,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -714,7 +714,7 @@
     "altura": null,
     "peso": null,
     "numero": "37",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 19,
+    "partidosJugados": 20,
     "goles": 1,
     "trayectoria": [
       {
@@ -814,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 23,
+    "partidosJugados": 24,
     "goles": 1,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 35,
+    "partidosJugados": 36,
     "goles": 1,
     "trayectoria": [
       {
@@ -958,7 +958,68 @@
         "hasta": "Actualidad"
       }
     ]
-  },{
+  },
+  {
+    "id": "jose-lazaro",
+    "nombre": "José Lázaro",
+    "fechaNacimiento": "2007-02-13",
+    "edad": 19,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": null,
+    "peso": null,
+    "numero": "38",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "luis-cueto",
+    "nombre": "Luis Cueto",
+    "fechaNacimiento": "2008-07-20",
+    "edad": 18,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": null,
+    "peso": null,
+    "numero": "40",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
+    "id": "sebastian-sossa",
+    "nombre": "Sebastián Sossa",
+    "fechaNacimiento": "-",
+    "edad": null,
+    "nacionalidad": "boliviana",
+    "posicion": "Mediocampista",
+    "altura": null,
+    "peso": null,
+    "numero": "41",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
     "id": "kevin-chacon",
     "nombre": "Kevin Chacón",
     "fechaNacimiento": "2008-09-19",
@@ -968,7 +1029,7 @@
     "altura": null,
     "peso": null,
     "numero": "24",
-    "partidosJugados": 11,
+    "partidosJugados": 12,
     "goles": 0,
     "trayectoria": [
       {
@@ -1463,7 +1524,7 @@
     "altura": 1.85,
     "peso": 77,
     "numero": "99",
-    "partidosJugados": 8,
+    "partidosJugados": 9,
     "goles": 1,
     "trayectoria": [
       {
