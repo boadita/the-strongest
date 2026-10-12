@@ -41506,5 +41506,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3460,
+    "FECHA":"2026-10-11",
+    "EQUIPO":"REAL POTOSÍ",
+    "RESULTADO":"1-0",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"VICTOR AGUSTÍN UGARTE",
+    "CIUDAD":"POTOSÍ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

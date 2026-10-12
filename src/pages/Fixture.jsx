@@ -1,6 +1,5 @@
 import React from 'react';
-import real_tomayapo from "../assets/rivales/real_tomayapo.png";
-import real_oruro from "../assets/rivales/real-oruro.png";
+import oriente_petrolero from "../assets/rivales/oriente-petrolero.png";
 import guabira from "../assets/rivales/guabira.png";
 import real_potosi from "../assets/rivales/real-potosi.png";
 import fc_universitario from "../assets/rivales/fc_universitario.png";
@@ -47,6 +46,24 @@ const Fixture = () => {
                     />
                     <h2 className='font-bold text-center mt-2'>18-10-2026</h2>
                     <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
+                </div>
+                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
+                    <img
+                        src={always_ready}
+                        alt="always_ready"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>21-10-2026</h2>
+                    <p className='font-bold text-center mt-2'>ESTADIO VILLA INGENIO</p>
+                </div>
+                <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
+                    <img
+                        src={oriente_petrolero}
+                        alt="oriente_petrolero"
+                        className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
+                    />
+                    <h2 className='font-bold text-center mt-2'>25-10-2026</h2>
+                    <p className='font-bold text-center mt-2'>TAHUICHI AGUILERA</p>
                 </div>
             </div>
         </div>
