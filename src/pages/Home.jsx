@@ -54,7 +54,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              18-10-2026
+              22-10-2026
             </span>
           </div>
 
@@ -63,7 +63,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              LA PAZ
+              EL ALTO
             </span>
           </div>
 
@@ -72,7 +72,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              HERNANDO SILES
+              VILLA INGENIO
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Home = () => {
               TORNEO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              LIGA FBF
+              COPA PACEÑA
             </span>
           </div>
 
@@ -102,15 +102,15 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              ALWAYS READY
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-black">
-              2-1
+              1-1
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              ALWAYS READY
+              THE STRONGEST
             </div>
 
           </div>
@@ -144,7 +144,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              22-10-2026
+              25-10-2026
             </span>
           </div>
 
@@ -153,7 +153,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              LA PAZ
+              SANTA CRUZ
             </span>
           </div>
 
@@ -162,7 +162,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              HERNANDO SILES
+              TAHUICHI AGUILERA
             </span>
           </div>
 
@@ -171,7 +171,7 @@ const Home = () => {
               TORNEO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              COPA PACEÑA
+              LIGA FBF
             </span>
           </div>
 
@@ -192,7 +192,7 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              ALWAYS READY 
+              ORIENTE PETROLERO
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-white">

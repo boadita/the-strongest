@@ -54,7 +54,7 @@ const Fixture = () => {
                         className="mx-auto w-40 h-40 md:w-48 md:h-48 object-contain aspect-square"
                     />
                     <h2 className='font-bold text-center mt-2'>22-10-2026</h2>
-                    <p className='font-bold text-center mt-2'>ESTADIO HERNANDO SILES</p>
+                    <p className='font-bold text-center mt-2'>ESTADIO VILLA INGENIO</p>
                 </div>
                 <div className="bg-yellow-100 dark:text-gray-800 p-4 rounded-xl shadow">
                     <img
