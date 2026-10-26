@@ -41542,5 +41542,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3463,
+    "FECHA":"2026-10-25",
+    "EQUIPO":"ORIENTE",
+    "RESULTADO":"2-1",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"TAHUICHI AGUILERA",
+    "CIUDAD":"SANTA CRUZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

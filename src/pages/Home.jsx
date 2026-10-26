@@ -54,7 +54,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              22-10-2026
+              25-10-2026
             </span>
           </div>
 
@@ -63,7 +63,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              EL ALTO
+              SANTA CRUZ
             </span>
           </div>
 
@@ -72,7 +72,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              VILLA INGENIO
+              TAHUICHI AGUILERA
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Home = () => {
               TORNEO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              COPA PACEÑA
+              LIGA FBF
             </span>
           </div>
 
@@ -102,11 +102,11 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              ALWAYS READY
+              ORIENTE PETROLERO
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-black">
-              1-1
+              2-1
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
@@ -144,7 +144,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              25-10-2026
+              1-11-2026
             </span>
           </div>
 
@@ -153,7 +153,7 @@ const Home = () => {
               CIUDAD:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              SANTA CRUZ
+              LA PAZ
             </span>
           </div>
 
@@ -162,7 +162,7 @@ const Home = () => {
               ESTADIO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              TAHUICHI AGUILERA
+              HERNANDO SILES
             </span>
           </div>
 
@@ -192,7 +192,7 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              ORIENTE PETROLERO
+              THE STRONGEST
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-white">
@@ -200,7 +200,7 @@ const Home = () => {
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              GV SAN JOSÉ
             </div>
 
           </div>
