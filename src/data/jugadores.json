@@ -109,7 +109,7 @@
     "altura": 1.89,
     "peso": 86.0,
     "numero": "33",
-    "partidosJugados": 3,
+    "partidosJugados": 4,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 36,
+    "partidosJugados": 37,
     "goles": 6,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 36,
+    "partidosJugados": 37,
     "goles": 2,
     "trayectoria": [
       {
@@ -394,7 +394,7 @@
     "altura": null,
     "peso": null,
     "numero": "28",
-    "partidosJugados": 15,
+    "partidosJugados": 16,
     "goles": 1,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 37,
+    "partidosJugados": 38,
     "goles": 1,
     "trayectoria": [
       {
@@ -564,7 +564,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "7",
-    "partidosJugados": 19,
+    "partidosJugados": 20,
     "goles": 2,
     "trayectoria": [
       {
@@ -734,7 +734,7 @@
     "altura": 1.83,
     "peso": 77.0,
     "numero": "16",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 1,
     "trayectoria": [
       {
@@ -814,7 +814,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 25,
+    "partidosJugados": 26,
     "goles": 1,
     "trayectoria": [
       {
@@ -869,7 +869,7 @@
     "altura": 1.81,
     "peso": 71.0,
     "numero": "10",
-    "partidosJugados": 37,
+    "partidosJugados": 38,
     "goles": 1,
     "trayectoria": [
       {
@@ -989,8 +989,8 @@
     "altura": null,
     "peso": null,
     "numero": "40",
-    "partidosJugados": 3,
-    "goles": 1,
+    "partidosJugados": 4,
+    "goles": 2,
     "trayectoria": [
       {
         "club": "The Strongest",
@@ -1049,7 +1049,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "26",
-    "partidosJugados": 34,
+    "partidosJugados": 35,
     "goles": 8,
     "trayectoria": [
       {
@@ -1294,7 +1294,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "9",
-    "partidosJugados": 37,
+    "partidosJugados": 38,
     "goles": 6,
     "trayectoria": [
       {
@@ -1359,8 +1359,8 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 33,
-    "goles": 9,
+    "partidosJugados": 34,
+    "goles": 10,
     "trayectoria": [
       {
         "club": "Deportivo Pasto (Colombia)",
@@ -1404,8 +1404,8 @@
     "altura": 1.84,
     "peso": null,
     "numero": "14",
-    "partidosJugados": 28,
-    "goles": 13,
+    "partidosJugados": 29,
+    "goles": 15,
     "trayectoria": [
       {
         "club": "Chattanooga FC (USA)",
@@ -1479,7 +1479,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 35,
+    "partidosJugados": 36,
     "goles": 0,
     "trayectoria": [
       {
