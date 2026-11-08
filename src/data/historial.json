@@ -41566,5 +41566,17 @@
     "TORNEO":"FBF",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3465,
+    "FECHA":"2026-11-04",
+    "EQUIPO":"THE STRONGEST",
+    "RESULTADO":"1-4",
+    "EQUIPO2":"ALWAYS READY",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"COPA PACEÑA",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]
