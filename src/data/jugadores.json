@@ -9,7 +9,7 @@
     "altura": 1.84,
     "peso": 73.0,
     "numero": "1",
-    "partidosJugados": 33,
+    "partidosJugados": 34,
     "goles": 0,
     "trayectoria": [
       {
@@ -149,7 +149,7 @@
     "altura": 1.89,
     "peso": 75.0,
     "numero": "3",
-    "partidosJugados": 21,
+    "partidosJugados": 22,
     "goles": 0,
     "trayectoria": [
       {
@@ -209,7 +209,7 @@
     "altura": 1.85,
     "peso": 75.0,
     "numero": "4",
-    "partidosJugados": 38,
+    "partidosJugados": 39,
     "goles": 6,
     "trayectoria": [
       {
@@ -264,7 +264,7 @@
     "altura": 1.86,
     "peso": 79.0,
     "numero": "5",
-    "partidosJugados": 24,
+    "partidosJugados": 25,
     "goles": 1,
     "trayectoria": [
       {
@@ -364,7 +364,7 @@
     "altura": 1.72,
     "peso": 65.0,
     "numero": "21",
-    "partidosJugados": 38,
+    "partidosJugados": 39,
     "goles": 3,
     "trayectoria": [
       {
@@ -394,7 +394,7 @@
     "altura": null,
     "peso": null,
     "numero": "28",
-    "partidosJugados": 17,
+    "partidosJugados": 18,
     "goles": 1,
     "trayectoria": [
       {
@@ -444,7 +444,7 @@
     "altura": 1.71,
     "peso": 62.0,
     "numero": "22",
-    "partidosJugados": 38,
+    "partidosJugados": 39,
     "goles": 1,
     "trayectoria": [
       {
@@ -615,6 +615,26 @@
     ]
   },
   {
+    "id": "sergio-terrazas",
+    "nombre": "Sergio Terrazas",
+    "fechaNacimiento": "2007-01-12",
+    "edad": 19,
+    "nacionalidad": "boliviana",
+    "posicion": "Defensor",
+    "altura": 1.75,
+    "peso": 64.0,
+    "numero": "44",
+    "partidosJugados": 1,
+    "goles": 0,
+    "trayectoria": [
+      {
+        "club": "The Strongest",
+        "desde": 2026,
+        "hasta": "Actualidad"
+      }
+    ]
+  },
+  {
     "id": "jaime-arrascaita",
     "nombre": "Jaime Arrascaita",
     "fechaNacimiento": "1993-09-02",
@@ -624,7 +644,7 @@
     "altura": 1.75,
     "peso": 65.0,
     "numero": "30",
-    "partidosJugados": 40,
+    "partidosJugados": 41,
     "goles": 13,
     "trayectoria": [
       {
@@ -774,7 +794,7 @@
     "altura": 1.65,
     "peso": 72.0,
     "numero": "8",
-    "partidosJugados": 30,
+    "partidosJugados": 31,
     "goles": 3,
     "trayectoria": [
       {
@@ -814,7 +834,7 @@
     "altura": 1.81,
     "peso": 75.0,
     "numero": "15",
-    "partidosJugados": 27,
+    "partidosJugados": 28,
     "goles": 1,
     "trayectoria": [
       {
@@ -989,7 +1009,7 @@
     "altura": null,
     "peso": null,
     "numero": "40",
-    "partidosJugados": 5,
+    "partidosJugados": 6,
     "goles": 2,
     "trayectoria": [
       {
@@ -1049,7 +1069,7 @@
     "altura": 1.75,
     "peso": 68.0,
     "numero": "28",
-    "partidosJugados": 36,
+    "partidosJugados": 37,
     "goles": 8,
     "trayectoria": [
       {
@@ -1359,7 +1379,7 @@
     "altura": 1.78,
     "peso": null,
     "numero": "17",
-    "partidosJugados": 35,
+    "partidosJugados": 36,
     "goles": 10,
     "trayectoria": [
       {
@@ -1479,7 +1499,7 @@
     "altura": 1.86,
     "peso": 80,
     "numero": "6",
-    "partidosJugados": 37,
+    "partidosJugados": 38,
     "goles": 0,
     "trayectoria": [
       {
@@ -1524,7 +1544,7 @@
     "altura": 1.85,
     "peso": 77,
     "numero": "99",
-    "partidosJugados": 14,
+    "partidosJugados": 15,
     "goles": 1,
     "trayectoria": [
       {
