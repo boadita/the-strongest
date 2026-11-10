@@ -41578,5 +41578,17 @@
     "TORNEO":"COPA PACEÑA",
     "TIPO":"NACIONAL",
     "MODALIDAD":"OFICIAL"
+  },
+  {
+    "Id":3466,
+    "FECHA":"2026-11-08",
+    "EQUIPO":"BOLÍVAR",
+    "RESULTADO":"1-0",
+    "EQUIPO2":"THE STRONGEST",
+    "ESTADIO":"HERNANDO SILES",
+    "CIUDAD":"LA PAZ",
+    "TORNEO":"FBF",
+    "TIPO":"NACIONAL",
+    "MODALIDAD":"OFICIAL"
   }
 ]

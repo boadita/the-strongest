@@ -54,7 +54,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              4-11-2026
+              8-11-2026
             </span>
           </div>
 
@@ -81,7 +81,7 @@ const Home = () => {
               TORNEO:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              COPA PACEÑA
+              LIGA FBF
             </span>
           </div>
 
@@ -102,15 +102,15 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              BOLÍVAR
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-black">
-              1-4
+              1-0
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              ALWAYS READY
+              THE STRONGEST
             </div>
 
           </div>
@@ -144,7 +144,7 @@ const Home = () => {
               FECHA:
             </h4>
             <span className="text-2xl tv:text-3xl">
-              8-11-2026
+              22-11-2026
             </span>
           </div>
 
@@ -192,7 +192,7 @@ const Home = () => {
         ">
 
             <div className="font-bold text-lg tv:text-3xl">
-              BOLÍVAR
+              THE STRONGEST
             </div>
 
             <div className="text-2xl tv:text-5xl font-bold text-white">
@@ -200,7 +200,7 @@ const Home = () => {
             </div>
 
             <div className="font-bold text-lg tv:text-3xl">
-              THE STRONGEST
+              BLOOMING
             </div>
 
           </div>
